@@ -1,6 +1,6 @@
 ---
 title: Diletta Goglia
-role: Master of Science student in Artificial Intelligence @University of Pisa
+role: "Master of Science student in Artificial Intelligence "
 avatar_filename: null
 bio: Insert here my bio
 interests:
@@ -26,7 +26,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: medium
+    icon: medium-m
     link: https://medium.com/@d.goglia
 organizations:
   - name: University of Pisa
@@ -42,7 +42,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
 ---
