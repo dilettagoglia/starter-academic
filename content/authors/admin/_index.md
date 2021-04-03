@@ -1,7 +1,7 @@
 ---
 title: Diletta Goglia
 role: "Master of Science student in Artificial Intelligence "
-avatar_filename: null
+avatar_filename: img_20191026_162547_872.jpg
 bio: Insert here my bio
 interests:
   - Artificial Intelligence
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
   - display:
-      header: false
-    icon_pack: fas
+      header: true
+    icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
 organizations:
