@@ -20,4 +20,3 @@ feature:
     icon_pack: fas
     name: Photography
 ---
-Skill number 1
