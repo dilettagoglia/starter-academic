@@ -5,6 +5,7 @@ headless: true
 weight: 30
 title: Skills
 subtitle: null
+active: true
 feature:
   - description: 90%
     icon: r-project
@@ -18,5 +19,5 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-active: true
 ---
+Skill number 1
