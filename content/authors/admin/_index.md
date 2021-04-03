@@ -3,7 +3,7 @@ title: Diletta Goglia
 role: "Master of Science student in Artificial Intelligence "
 avatar_filename: img_20191026_162547_872.jpg
 bio: Insert here my bio
-hard skills:
+interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
@@ -36,16 +36,13 @@ organizations:
 education:
   courses:
     - course: MSc in Artificial Intelligence
-      institution: University of Pisa
-      year: 2019/20 - currently
+      institution: 2019 - currently @University of Pisa
     - course: BSc in Digital Humanities
-      institution: University of Pisa
-      year: 2015/16 - 2017/18
-      grade: "110/110"
-    - course: scientific lyceum
-      institution: Lice Scientifico G. Galieli, Civitavecchia
-      year: "2011 - 2015"
-      grade: "95/100"
+      institution: 2015-2018 @University of Pisa
+      grade: 110/110
+    - course: Scientific lyceum
+      institution: 2011 - 2015 @Liceo Scientifico G. Galieli, Civitavecchia, Rome
+      grade: 95/100
 email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
