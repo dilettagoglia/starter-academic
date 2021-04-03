@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
   - display:
-      header: true
+      header: false
     icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
