@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Diletta Goglia # Website name
-baseurl: 'https://dilettagoglia.netlify.app/' # Website URL
+baseurl: 'https://dilettagoglia.netlify.app' # Website URL
 copyright: '@dilettagoglia' # Footer text, e.g. '© {year} Me'
 
 ############################
