@@ -23,6 +23,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    display:
+      header: true
   - display:
       header: false
     icon_pack: fab
@@ -33,15 +35,12 @@ organizations:
     url: https://www.unipi.it
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Artificial Intelligence
+      institution: University of Pisa
+      year: ""
+    - course: BSc in Digital Humanities
+      institution: University of Pisa
+      year: ""
 email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
