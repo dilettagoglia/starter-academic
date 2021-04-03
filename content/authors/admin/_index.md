@@ -37,10 +37,10 @@ education:
   courses:
     - course: MSc in Artificial Intelligence
       institution: University of Pisa
-      year: "2019/20 - currently"
+      year: 2019/20 - currently
     - course: BSc in Digital Humanities
       institution: University of Pisa
-      year: "2015/16 - 2017/18"
+      year: 2015/16 - 2017/18
       grade: "110/110"
     - course: scientific lyceum
       institution: Lice Scientifico G. Galieli, Civitavecchia
