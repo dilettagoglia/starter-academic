@@ -5,7 +5,7 @@
 
 title: Diletta Goglia # Website name
 baseurl: 'https://dilettagoglia.netlify.app' # Website URL
-copyright: '@dilettagoglia' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyrights © 2021 | Diletta Goglia | All Rights Reserved. ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
