@@ -1,8 +1,8 @@
 ---
 title: Linked Open Data per il Cultural Heritage italiano
-subtitle: Conversione e pubblicazione nel Semantic Web del Fondo antico del
-  Comune di Novi Ligure
-url_pdf: "media/bias.pdf"
+subtitle: Conversione e pubblicazione nel Semantic Web del Fondo antico del Comune di Novi Ligure
+url_pdf: "media/tesi.pdf"
+url_source:"https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure"
 publication_types:
   - "7"
 authors:
