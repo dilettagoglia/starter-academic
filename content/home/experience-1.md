@@ -1,6 +1,6 @@
 ---
-widget: experience
-widget_id: experience
+widget: woexperience
+widget_id: woexperience
 headless: true
 weight: 10
 title: Working Experience
