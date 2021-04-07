@@ -16,6 +16,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
     label: Google Scholar
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/dilettagoglia
@@ -29,7 +31,7 @@ social:
       header: true
     label: Linkedin
   - display:
-      header: false
+      header: true
     icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
@@ -47,11 +49,11 @@ social:
     label: Youtube
     icon: youtube-play
   - display:
-      header: false
-    link: https://it.wikipedia.org/wiki/Speciale:Contributi/Diletta.goglia
-    icon_pack: fab
-    icon: wikipedia-w
-    label: Wikipedia
+      header: true
+    link: /#contact
+    icon_pack: fas
+    icon: envelope
+    label: Contact
   - display:
       header: true
     link: https://bdfinance.academia.edu/DilettaGoglia
