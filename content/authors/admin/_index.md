@@ -12,6 +12,12 @@ social:
     icon_pack: fab
     link: https://twitter.com/dilettagoglia
     label: "Twitter "
+  - display:
+      header: true
+    link: /#contact
+    icon_pack: fas
+    icon: envelope
+    label: Contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
@@ -48,12 +54,6 @@ social:
     icon_pack: fab
     label: Youtube
     icon: youtube-play
-  - display:
-      header: true
-    link: /#contact
-    icon_pack: fas
-    icon: envelope
-    label: Contact
   - display:
       header: true
     link: https://bdfinance.academia.edu/DilettaGoglia
