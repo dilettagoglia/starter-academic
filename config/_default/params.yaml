@@ -20,40 +20,33 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: diletta.goglia@gmail.com
+phone: 050 6161681
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street:
+  city: Pisa
+  region:
+  postcode: '56125'
+  country: Italy
+  country_code: IT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '43.7059091'
+  longitude: '10.3717207'
+directions:
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - ''
+  - ''
+appointment_url: ''
 contact_links:
-  - icon: twitter
+  - icon: envelope
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: E-mail
+    link: 'd.gogliastudenti.unipi.it'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'live:diletta.goglia_2'
+
 
 # Site header
 
@@ -145,7 +138,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: '268255989'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
