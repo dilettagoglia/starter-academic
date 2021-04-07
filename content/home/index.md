@@ -5,5 +5,5 @@ widget_id: index
 headless: true
 weight: 80
 title: Index
-active: false
+active: true
 ---
