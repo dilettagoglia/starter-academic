@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: diletta.goglia@gmail.com
-pec: d.goglia@studenti.unipi.it
 phone: 050 6161681
 address:
   street:
@@ -38,10 +37,10 @@ directions:
   # - ''
 appointment_url: ''
 contact_links:
-  - icon: envelope
-    icon_pack: fa
-    name: Institutional e-mail
-    link: 'https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=d.goglia@studenti.unipi.it&amp;su=Oggetto&amp;body=Come%20posso%20aiutarti?&amp;tf=1'
+  #- icon: envelope
+    #icon_pack: fa
+    #name: Institutional e-mail
+    #link: 'https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=d.goglia@studenti.unipi.it&amp;su=Oggetto&amp;body=Come%20posso%20aiutarti?&amp;tf=1'
   - icon: skype
     icon_pack: fab
     name: Skype
