@@ -28,7 +28,7 @@ experience:
     location: Pisa
     date_start: '2020-09'
     date_end: '2021-05'
-    description: Teaching Javascript & Typescript at the course of "Lab I", to a class of students at the first year of the Bachelor Degree in Computer Science.
+    description: Teaching Javascript & Typescript to students at the first year of the Bachelor Degree in Computer Science.
    
   - title: Tech support
     company: Computer Science area of Medical School, Santa Chiara Hospital, Pisa
