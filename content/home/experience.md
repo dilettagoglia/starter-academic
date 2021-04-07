@@ -35,7 +35,7 @@ experience:
     company_url: 'http://www.med.unipi.it/index.php?lang=it'
     location: Pisa, Italy
     date_start: '2020-11-01'
-    date_end: ''
+    date_end: '2020-05-15'
     description: Support to operators at the IT centre of Medicine. Database modeling for a pharmacy KB.
         
   - title: Assistance to tech staff and teachers
