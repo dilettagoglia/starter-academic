@@ -40,7 +40,7 @@ education:
     - course: BSc in Digital Humanities
       institution: University of Pisa 
     - course: Scientific lyceum
-      institution: Liceo Scientifico G. Galieli, [Civitavecchia](https://goo.gl/maps/YSEt7PNTYqbYRWiv7) 
+      institution: Liceo Scientifico G. Galieli, Civitavecchia
 email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
