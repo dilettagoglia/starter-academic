@@ -26,15 +26,15 @@ experience:
     company: Department of Computer Science, University of Pisa
     company_url: 'https://di.unipi.it/en/'
     location: Pisa
-    date_start: '2020-09'
-    date_end: '2021-05'
+    date_start: '2020-09-01'
+    date_end: '2021-05-01'
     description: Teaching Javascript & Typescript to students at the first year of the Bachelor Degree in Computer Science.
    
   - title: Tech support
     company: Computer Science area of Medical School, Santa Chiara Hospital, Pisa
     company_url: 'http://www.med.unipi.it/index.php?lang=it'
     location: Pisa
-    date_start: '2020-11'
+    date_start: '2020-11-01'
     date_end: ''
     description: Support to operators at the IT centre of Medicine. Database modeling for a pharmacy KB.
         
@@ -42,7 +42,7 @@ experience:
     company: University od Pisa
     company_url: 'https://medialab.sp.unipi.it/'
     location: Pisa
-    date_start: '2018-11'
-    date_end: '2019-09'
+    date_start: '2018-11-01'
+    date_end: '2019-09-01'
     description: Tech assistance and support for post-production of multimedia content (“Teledidattica digitale evoluta” project)
 ---
