@@ -28,3 +28,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
+  - name: Experience
+    url: '#woexperience'
+    weight: 80
