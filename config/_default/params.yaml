@@ -43,20 +43,32 @@ contact_links:
     #link: 'https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=d.goglia@studenti.unipi.it&amp;su=Oggetto&amp;body=Come%20posso%20aiutarti?&amp;tf=1'
   - icon: skype
     icon_pack: fab
-    name: Skype
+    name: diletta.goglia_2
     link: 'live:diletta.goglia_2'
   - icon: linkedin
     icon_pack: fab
-    name: Linkedin
+    name: Diletta Goglia
     link: 'https://www.linkedin.com/in/dilettagoglia/'
   - icon: twitter
     icon_pack: fab
-    name: Twitter
+    name: @dilettagoglia
     link: 'https://twitter.com/dilettagoglia'
-  - icon: facebook-square
+  - icon: discord
     icon_pack: fab
-    name: Facebook
-    link: 'https://www.facebook.com/diletta.goglia.71'
+    name: D.Goglia#3551
+    link: 'https://discord.com/'
+  - icon: slack
+    icon_pack: fab
+    name: d.goglia
+    link: 'https://app.slack.com/'
+  - icon: telegram
+    icon_pack: fab
+    name: dilettagoglia
+    link: 'https://t.me/dilettagoglia'
+  - icon: trello
+    icon_pack: fab
+    name: dilettagoglia
+    link: 'https://trello.com/dilettagoglia'
 
 
 # Site header
