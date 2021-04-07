@@ -1,7 +1,7 @@
 ---
 title: Diletta Goglia
 role: "Master of Science student in Artificial Intelligence "
-avatar_filename: img_20191026_162547_872.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
