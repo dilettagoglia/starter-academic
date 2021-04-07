@@ -62,7 +62,7 @@ tags:
   - LinkedOpenData
   - SemanticWeb
 image:
-  filename: featured
+  filename: lod
   focal_point: Smart
   preview_only: false
 date: 2019-05-09T18:26:00.000Z
