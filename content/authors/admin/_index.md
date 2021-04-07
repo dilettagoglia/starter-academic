@@ -8,12 +8,6 @@ interests:
   - Deep Learning and Neural Models
   - Signal & Image processing and analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-    display:
-      header: true
-    label: Contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dilettagoglia
@@ -71,8 +65,10 @@ education:
   courses:
     - course: MSc in Artificial Intelligence
       institution: University of Pisa
+      year: ""
     - course: BSc in Digital Humanities
       institution: University of Pisa
+      year: ""
     - course: Scientific lyceum
       institution: Liceo Scientifico G. Galieli, Civitavecchia
 email: diletta.goglia@gmail.com
