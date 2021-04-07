@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Teaching assistance
+    company: Department of Computer Science, University of Pisa
+    company_url: 'https://di.unipi.it/en/'
+    location: Pisa
+    date_start: '2020-09'
+    date_end: '2021-05'
+    description: Teaching Javascript & Typescript at the course of "Lab I", to a class of students at the first year of the Bachelor Degree in Computer Science.
+   
+  - title: Tech support
+    company: Computer Science area of Medical School, Santa Chiara Hospital, Pisa
+    company_url: 'http://www.med.unipi.it/index.php?lang=it'
+    location: Pisa
+    date_start: '2020-11'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Support to operators at the IT centre of Medicine. Database modeling for a pharmacy KB.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Assistance to tech staff and teachers
+    company: University od Pisa
+    company_url: 'https://medialab.sp.unipi.it/'
+    location: Pisa
+    date_start: '2018-11'
+    date_end: '2019-09'
+    description: Tech assistance and support for post-production of multimedia content (“Teledidattica digitale evoluta” project)
 ---
