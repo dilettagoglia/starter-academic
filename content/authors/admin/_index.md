@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
-  - Deep Learning and Neural Models
-  - Signal & Image processing and analysis
+  - Deep Learning and Machine Learning
+  - Signals/images processing and analysis
 social:
   - icon: twitter
     icon_pack: fab

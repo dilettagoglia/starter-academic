@@ -7,16 +7,17 @@ title: Skills
 subtitle: null
 active: true
 feature:
-  - description: 90%
-    icon: r-project
+  - description: Front-end & Back-end
+    icon: laptop-code
+    icon_pack: fas
+    name: Web Design & Development
+  - description: Advanced neural networks (recurrent, recursive, ...) for learning and forecasting
+    icon: chart-network
+    icon_pack: fal
+    name: Learning models
+  - description: Tensorflow & other tools
+    icon: python
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Python
+
 ---
