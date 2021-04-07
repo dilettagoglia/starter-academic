@@ -18,6 +18,15 @@ image:
   filename: lod
   focal_point: Smart
   preview_only: false
+summary: >-
+  L'obiettivo del progetto consiste nella creazione di un dataset Linked Open
+    Data relativo alla descrizione di beni artistici e culturali. Lo scopo finale
+    è quello di pubblicare tali dati all'interno della rete LOD Cloud, rendendoli
+    disponibili all'utilizzo da parte anche delle macchine: l’opportunità offerta
+    da questo nuovo metodo di pubblicare dati sul web, è l’esempio una radicale
+    trasformazione del rapporto tra utente (umano e non) e universo dei beni
+    culturali. Il progetto vuole perciò presentarsi come esempio, in scala, della
+    rivoluzione copernicana dei Linked Open Data nel mondo dei beni culturali.
 date: 2019-05-09T18:26:00.000Z
 ---
 <https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure>
