@@ -39,13 +39,17 @@ office_hours:
 appointment_url: ''
 contact_links:
   - icon: envelope
-    icon_pack: fab
-    name: E-mail
+    icon_pack: fa
+    name: Institutional e-mail
     link: 'd.gogliastudenti.unipi.it'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
+    name: Skype
     link: 'live:diletta.goglia_2'
+  - icon: facebook-square
+    icon_pack: fab
+    name: Facebook
+    link: 'https://www.facebook.com/diletta.goglia.71'
 
 
 # Site header
