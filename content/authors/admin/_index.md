@@ -36,9 +36,9 @@ organizations:
 education:
   courses:
     - course: MSc in Artificial Intelligence
-      institution: University of Pisa [2019 - currently]
+      institution: 2019-2022: University of Pisa 
     - course: BSc in Digital Humanities
-      institution: University of Pisa [2015 - 2018] - final grade: 110/110
+      institution: 2015 - 2018: University of Pisa - final grade: 110/110
     - course: Scientific lyceum
       institution: Liceo Scientifico G. Galieli, [Civitavecchia](https://goo.gl/maps/YSEt7PNTYqbYRWiv7) (2011 - 2015) - final grade: 95/100
 email: diletta.goglia@gmail.com
