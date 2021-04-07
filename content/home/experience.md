@@ -45,28 +45,5 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-09-01'
     description: Tech assistance and support for post-production of multimedia content. 
-    
-  - title: Social Media Editor
-    company: Internet Festival
-    company_url: 'https://www.internetfestival.it/'
-    location: Pisa, Italy
-    date_start: '2020-10-01'
-    date_end: '2020-10-31'
-    description: Member of the content creators staff for the event, for both the 2019 and 2020 editions. Real time promotion of the activities through web and social.
-    
-  - title: Web Designer
-    company: Memphremagog ICT agency 
-    company_url: 'http://www.memphremagog.it/'
-    location: Lucca, Italy
-    date_start: '2018-06-01'
-    date_end: '2018-06-31'
-    description: Javascript programming, user interface improvements, graphic intervention on the company business website.
+---    
   
-  - title: Curricular Internship in Digital Publishing
-    company: Laboratorio di Cultura Digitale, University of Pisa
-    company_url: 'http://adigitaljourney.labcd.unipi.it/'
-    location: Pisa, Italy
-    date_start: '2018-03-01'
-    date_end: '2018-05-01'
-    description: Development of an interacting ebook to promote ICT integration in schools and best practice sharing between students about digital learning.
----
