@@ -2,43 +2,77 @@
 title: Diletta Goglia
 role: "Master of Science student in Artificial Intelligence "
 avatar_filename: img_20191026_162547_872.jpg
-bio: Insert here my bio
+bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning and Neural Models
+  - Signal & Image processing and analysis
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
     display:
       header: true
+    label: Contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/dilettagoglia
+    label: "Twitter "
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
+    label: Google Scholar
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/dilettagoglia
+    label: GitHub
+    display:
+      header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dilettagoglia/
+    display:
+      header: true
+    label: Linkedin
   - display:
       header: false
     icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
+    label: Medium
+  - display:
+      header: false
+    icon_pack: fab
+    icon: facebook-square
+    link: https://www.facebook.com/diletta.goglia.71
+    label: Facebook
+  - display:
+      header: false
+    link: https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA
+    icon_pack: fab
+    label: Youtube
+    icon: youtube-play
+  - display:
+      header: false
+    link: https://it.wikipedia.org/wiki/Speciale:Contributi/Diletta.goglia
+    icon_pack: fab
+    icon: wikipedia-w
+    label: Wikipedia
+  - display:
+      header: true
+    link: https://bdfinance.academia.edu/DilettaGoglia
+    icon_pack: ai
+    icon: university
+    label: Academia
 organizations:
   - name: University of Pisa
     url: https://www.unipi.it
 education:
   courses:
     - course: MSc in Artificial Intelligence
-      institution: University of Pisa 
+      institution: University of Pisa
     - course: BSc in Digital Humanities
-      institution: University of Pisa 
+      institution: University of Pisa
     - course: Scientific lyceum
       institution: Liceo Scientifico G. Galieli, Civitavecchia
 email: diletta.goglia@gmail.com
