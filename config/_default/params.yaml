@@ -33,19 +33,26 @@ coordinates:
   latitude: '43.7059091'
   longitude: '10.3717207'
 directions:
-office_hours:
-  - ''
-  - ''
+# office_hours:
+  # - ''
 appointment_url: ''
 contact_links:
   - icon: envelope
     icon_pack: fa
     name: Institutional e-mail
-    link: 'd.gogliastudenti.unipi.it'
+    link: 'https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=d.goglia@studenti.unipi.it&amp;su=Oggetto&amp;body=Come%20posso%20aiutarti?&amp;tf=1'
   - icon: skype
     icon_pack: fab
     name: Skype
     link: 'live:diletta.goglia_2'
+  - icon: linkedin
+    icon_pack: fab
+    name: Linkedin
+    link: 'https://www.linkedin.com/in/dilettagoglia/'
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/dilettagoglia'
   - icon: facebook-square
     icon_pack: fab
     name: Facebook
