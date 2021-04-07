@@ -37,7 +37,6 @@ abstract: >-
   - Il Capitolo 6, infine, presenta una breve valutazione del lavoro svolto ed
   espone i possibili sviluppi futuri e le considerazioni conclusive.
 draft: false
-url_source:"https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure"
 featured: false
 tags:
   - LinkedOpenData
