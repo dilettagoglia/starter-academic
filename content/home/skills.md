@@ -12,7 +12,7 @@ feature:
     icon_pack: fas
     name: Web Design & Development
   - description: Advanced neural networks for learning and forecasting
-    icon: chart-network
+    icon: sitemap
     icon_pack: fas
     name: Learning models
   - description: Tensorflow & other tools
