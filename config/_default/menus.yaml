@@ -29,5 +29,5 @@ main:
     url: uploads/resume.pdf
     weight: 70
   - name: Experience
-    url: '#woexperience'
+    url: '#experience'
     weight: 80
