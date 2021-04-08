@@ -6,11 +6,10 @@ weight: 160
 active: true
 design:
   columns: "1"
+  font_size_max: 0.5
   background:
     text_color_light: true
     image_darken: 0
-advanced:
-  css_style: ''
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d6d1efe8-8a82-478b-b7c0-71ecac5a0ee9/deploy-status)](https://dilettagoglia.netlify.app)
 
