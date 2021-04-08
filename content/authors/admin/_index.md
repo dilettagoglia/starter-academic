@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     icon: envelope
     label: Contact
-  - icon: graduation-cap
+  - icon: gscholar
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
     label: Google Scholar
