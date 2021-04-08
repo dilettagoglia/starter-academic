@@ -3,7 +3,7 @@ type: widget_page
 widget: accoplishments
 widget_id: hobby
 headless: true
-weight: 90
+weight: 20
 title: Hobby & Activities
 active: true
 ---
