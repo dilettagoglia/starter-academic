@@ -19,7 +19,6 @@ image:
   preview_only: true
   filename: https://www.nicepng.com/png/full/119-1194121_development-skill-icon-skills-and-talents.png
 ---
-# My skills
 
 I have gained the following skills both developing university projects and working for external companies.
 
@@ -28,7 +27,7 @@ I listed down below my main skills and also some secondary ones, that I had the 
 
 
 
-## Hard Skills
+# Hard Skills
 
 I have **advanced expertise** in:
 
@@ -83,7 +82,7 @@ I have **advanced expertise** in:
 
 
 
-## Soft Skills
+# Soft Skills
 
 During my studies I completed a lot of different projects either by myself or **in a group** (both small and large groups). This had thaught me how to **efficiently collaborate** with collegues, and how to **organze and coordinate work** during development. I have learnt how to switch easily from **different environments and programming languages**. Also by working alone I improved my **autonomy** on **problem solving** and on researching new things by myself.
 
