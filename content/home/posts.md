@@ -8,7 +8,7 @@ subtitle: null
 active: true
 content:
   page_type: post
-  count: 5
+  count: 6
   filters:
     author: ""
     category: ""
