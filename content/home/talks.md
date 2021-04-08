@@ -5,6 +5,7 @@ headless: true
 weight: 70
 title: Rankings
 subtitle: null
+active: true
 content:
   page_type: event
   count: 5
@@ -21,3 +22,7 @@ content:
 design:
   view: 4
 ---
+* 2020 - [Winning candidate](https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf) for job position as teaching assistant @Computer Science Department, University of Pisa
+* 2020 - University performance ranking for job position as ICT assistant @Medical School, University of Pisa
+* 2018 - University performance ranking for job position as ICT tech staff assistant @University of Pisa
+* 2018 - Study Grant for the training event “Make in Italy Festival”, powered by CNA Vicenza, Goodnet and ItalyPost
