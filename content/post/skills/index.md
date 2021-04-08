@@ -65,8 +65,6 @@ I have **advanced expertise** in:
   * Trello, Asana (to manage group working)
   * Word, PowerPoint, Excel, and all other Microsoft products
 
-
-
 👉 I also have **minor expertise** in:
 
 * IoT applications development
@@ -96,3 +94,11 @@ Experience has also given to me these skills:
 * Enthusiastic, positive and driven attitude
 * Excellent organization and time management
 * Ability to develop and manage project schedules
+
+# Others
+
+## Language
+
+* **Italian** | Native language
+* **English** | Advanced (CEFR level B2 First) | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
+* **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.jpg)
