@@ -65,6 +65,8 @@ contact_links:
     icon_pack: fab
     name: dilettagoglia
     link: 'https://t.me/dilettagoglia'
+    display:
+      header: true
   - icon: trello
     icon_pack: fab
     name: dilettagoglia
