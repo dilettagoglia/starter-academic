@@ -1,14 +1,14 @@
 ---
 widget: accomplishments
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ""
-    date_start: 2018-10-01
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ""
+    date_start: 2021-01-01
+    description: "Winning candidate for job position as teaching assistant"
+    organization: Computer Science Department, University of Pisa
+    organization_url: 
+    title: Assignment of grant for teaching
+    url: "https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf"
 widget_id: rankings
 headless: true
 weight: 70
@@ -31,7 +31,7 @@ content:
 design:
   view: 1
 ---
-* 2020 - [Winning candidate](https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf) for job position as teaching assistant @Computer Science Department, University of Pisa
+
 * 2020 - University performance ranking for job position as ICT assistant @Medical School, University of Pisa
 * 2018 - University performance ranking for job position as ICT tech staff assistant @University of Pisa
 * 2018 - Study Grant for the training event “Make in Italy Festival”, powered by CNA Vicenza, Goodnet and ItalyPost
