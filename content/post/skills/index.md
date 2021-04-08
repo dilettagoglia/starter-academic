@@ -19,13 +19,9 @@ image:
   preview_only: true
   filename: https://www.nicepng.com/png/full/119-1194121_development-skill-icon-skills-and-talents.png
 ---
-
 I have gained the following skills both developing university projects and working for external companies.
 
-
 I listed down below my main skills and also some secondary ones, that I had the opportunity to learn over the years, through study and concrete application.
-
-
 
 # Hard Skills
 
@@ -71,16 +67,14 @@ I have **advanced expertise** in:
 
 
 
-👉 I also have minor expertise in:
+👉 I also have **minor expertise** in:
 
 * IoT applications development
 * Software process management & technologies
 
   * Agile software development
   * Goal-Oriented Requirements Engineering
-* CMS management (Wordpress)
-
-
+* CMS management 
 
 # Soft Skills
 
