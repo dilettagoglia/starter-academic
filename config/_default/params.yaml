@@ -61,6 +61,8 @@ contact_links:
     icon_pack: fab
     name: d.goglia
     link: 'https://app.slack.com/'
+    display:
+      header: true
   - icon: telegram
     icon_pack: fab
     name: dilettagoglia
