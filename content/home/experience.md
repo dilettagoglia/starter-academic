@@ -39,7 +39,7 @@ experience:
     description: Support to operators at the IT centre of Medicine. Database modeling for a pharmacy KB.
         
   - title: Assistance to tech staff and teachers
-    company: University of Pisa
+    company: e-learning project, University of Pisa
     company_url: 'https://medialab.sp.unipi.it/'
     location: Pisa, Italy
     date_start: '2018-11-01'
