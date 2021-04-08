@@ -29,7 +29,7 @@ content:
   offset: 0
   order: desc
 design:
-  view: 2
+  view: 1
 ---
 * 2020 - [Winning candidate](https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf) for job position as teaching assistant @Computer Science Department, University of Pisa
 * 2020 - University performance ranking for job position as ICT assistant @Medical School, University of Pisa
