@@ -1,5 +1,4 @@
 ---
-type: widget_page
 widget: accomplishments
 widget_id: hobby
 headless: true
