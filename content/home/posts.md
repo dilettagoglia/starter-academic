@@ -2,7 +2,7 @@
 widget: pages
 widget_id: about
 headless: true
-weight: 60
+weight: 130
 title: Something more about me
 subtitle: null
 active: true
