@@ -13,6 +13,6 @@ header:
 ---
 
 *In compliance with the Italian Legislative Decree no. 196 dated 30/06/2003, 
-I hereby authorize the recipient of this document to use and process my personal 
+I hereby authorize the recipient of this website to use and process my personal 
 details for the purpose of recruiting and selecting staff and I confirm to be informed 
 of my rights in accordance to art. 7 of the above mentioned decree.*
