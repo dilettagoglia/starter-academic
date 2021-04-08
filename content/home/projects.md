@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: NN
+    tag: NN
+  - name: Algorithms
+    tag: Algorithms
+  - name: NLP
+    tag: NLP
   - name: Other
     tag: Demo
 
