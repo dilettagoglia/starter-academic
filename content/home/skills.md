@@ -3,7 +3,7 @@ widget: featurette
 widget_id: skills
 headless: true
 weight: 30
-title: Skills
+title: Expertise
 subtitle: null
 active: true
 feature:
@@ -19,5 +19,4 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-
 ---
