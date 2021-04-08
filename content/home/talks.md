@@ -7,8 +7,17 @@ item:
     description: "Winning candidate for job position as teaching assistant"
     organization: Computer Science Department, University of Pisa
     organization_url: 
-    title: Assignment of grant for teaching
+    title: Assignment of grant for teaching (2nd semester)
     url: "https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf"
+item:
+  - certificate_url: 
+    date_end: ""
+    date_start: 2020-10-01
+    description: "Winning candidate for job position as teaching assistant"
+    organization: Computer Science Department, University of Pisa
+    organization_url: 
+    title: Assignment of grant for teaching (1st semester)
+    url: "https://alboufficiale.unipi.it/wp-content/uploads/2020/10/verbale-counseling.pdf"
 item:
   - certificate_url: 
     date_end: ""
