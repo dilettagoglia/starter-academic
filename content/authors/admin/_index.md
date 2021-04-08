@@ -5,8 +5,9 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
-  - Deep Learning and Machine Learning
-  - Signals/images processing and analysis
+  - Data Mining
+  - Deep Learning
+  - Signal/image processing and analysis
 social:
   - icon: twitter
     icon_pack: fab
@@ -71,9 +72,8 @@ email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
 ---
-
-I currently live in Pisa, Italy and I am student of the Master's Degree course in AI at University of Pisa. 
-During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in the ethic field of Artificial Intelligence.
+I currently live in Pisa, Italy and I am student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa. 
+During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 I have working experience as teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
 In my free time I'm an activist and a bodybuilder athlete.
 
