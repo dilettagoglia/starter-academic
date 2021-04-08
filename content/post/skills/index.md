@@ -25,8 +25,6 @@ I have gained the following skills both developing university projects and worki
 
 I listed down below my main skills and also some secondary ones, that I had the opportunity to learn over the years, through study and concrete application.
 
-{{< figure src="https://www.nicepng.com/png/full/119-1194121_development-skill-icon-skills-and-talents.png" title="Skills" >}}
-
 
 
 ## Hard Skills
