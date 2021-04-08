@@ -4,7 +4,8 @@ widget_id: contact
 headless: true
 weight: 140
 title: Contact
-subtitle: null
+subtitle: Get in touch with me by filling this form or choosing one of the links listed down below. 
+I will answer as soon as I can. 
 active: true
 content:
   autolink: true
@@ -17,5 +18,4 @@ content:
 design:
   columns: "2"
 ---
-You can contact me by filling this form or choosing one of the links listed down below. 
-I will answer as soon as I can. Let's keep in touch!
+
