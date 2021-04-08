@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Skills
 categories: []
@@ -17,6 +17,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: https://www.nicepng.com/png/full/119-1194121_development-skill-icon-skills-and-talents.png
 ---
 # My skills
 
