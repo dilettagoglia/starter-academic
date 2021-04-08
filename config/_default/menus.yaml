@@ -26,7 +26,7 @@ main:
     url: '#rankings'
     weight: 60
   - name: About
-    url: '#about'
+    url: '#hobby'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
