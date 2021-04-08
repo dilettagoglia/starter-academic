@@ -1,9 +1,9 @@
 ---
 type: widget_page
-widget: index
-widget_id: index
+widget: accoplishments
+widget_id: hobby
 headless: true
 weight: 150
-title: Index
+title: Hobby & Activities
 active: true
 ---
