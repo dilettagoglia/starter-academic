@@ -8,7 +8,7 @@ item:
     description: "Winning candidate for job position as teaching assistant"
     organization: Computer Science Department, University of Pisa
     organization_url: 
-    title: Assignment of grant for teaching (2nd semester)
+    title: 🏆 Assignment of grant for teaching (2nd semester)
     url: "https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf"
   - certificate_url: 
     date_end: ""
@@ -16,7 +16,7 @@ item:
     description: "Winning candidate for job position as teaching assistant"
     organization: Computer Science Department, University of Pisa
     organization_url: 
-    title: Assignment of grant for teaching (1st semester)
+    title: 🏆 Assignment of grant for teaching (1st semester)
     url: "https://alboufficiale.unipi.it/wp-content/uploads/2020/10/verbale-counseling.pdf"
   - certificate_url: 
     date_end: ""
@@ -24,7 +24,7 @@ item:
     description: "University performance ranking for job position assignment as ICT assistant"
     organization: Medical School, University of Pisa
     organization_url: 
-    title: Winner for merit 
+    title: 🏆 Winner for merit 
     url: "https://www.unipi.it/index.php/borse-di-studio-e-alloggio/item/download/20122_c52fffc6c8ac04bb83de705ad9261ff4"
   - certificate_url: 
     date_end: ""
@@ -32,7 +32,7 @@ item:
     description: "University performance ranking for job position assignment as ICT tech staff assistant"
     organization: e-learning project, University of Pisa
     organization_url: 
-    title: Winner for merit 
+    title: 🏆 Winner for merit 
     url: ""
   - certificate_url: 
     date_end: ""
@@ -40,7 +40,7 @@ item:
     description: "Winner of a study grant for 'Make in Italy Festival' event, 2018 edition"
     organization: “Make in Italy Festival”, powered by CNA Vicenza, Goodnet and ItalyPost
     organization_url: https://makeinitalyfestival.it/
-    title: Study Grant
+    title: 🏆 Study Grant
     url: ""
 widget_id: rankings
 headless: true
