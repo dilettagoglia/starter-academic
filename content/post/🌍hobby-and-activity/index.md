@@ -1,5 +1,5 @@
 ---
-title: 🌍Hobby and activity
+title: 🌍 Hobby and activity
 subtitle: "👋🏻 Hi there! That’s how I spend my free time! These are my hobbies,
   my activist groups and some movements that I support. "
 date: 2021-04-08T18:10:41.550Z
