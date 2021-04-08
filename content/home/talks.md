@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: accomplishments
 widget_id: rankings
 headless: true
 weight: 70

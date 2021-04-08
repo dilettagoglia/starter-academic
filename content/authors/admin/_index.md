@@ -8,12 +8,6 @@ interests:
   - Deep Learning and Machine Learning
   - Signals/images processing and analysis
 social:
-  - display:
-      header: true
-    link: /#contact
-    icon_pack: fas
-    icon: envelope
-    label: Contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dilettagoglia
