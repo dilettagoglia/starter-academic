@@ -79,3 +79,6 @@ In my free time I'm an activist and a bodybuilder athlete.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
 or my {{< staticref "media/cv.pdf" "newtab" >}}full CV{{< /staticref >}}.
+
+{{< staticref "/old/index.html" "newtab" >}}old website{{< /staticref >}}
+
