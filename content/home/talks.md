@@ -30,7 +30,7 @@ item:
     date_end: ""
     date_start: 2018-03-01
     description: "University performance ranking for job position assignment as ICT tech staff assistant"
-    organization: University of Pisa
+    organization: e-learning project, University of Pisa
     organization_url: 
     title: Winner for merit 
     url: ""
