@@ -1,6 +1,6 @@
 ---
 type: widget_page
-widget: accoplishments
+widget: accomplishments
 widget_id: hobby
 headless: true
 weight: 20
