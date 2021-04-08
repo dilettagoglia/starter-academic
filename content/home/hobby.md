@@ -1,5 +1,5 @@
 ---
-widget: markdown
+widget: blank
 widget_id: hobby
 headless: true
 weight: 130
