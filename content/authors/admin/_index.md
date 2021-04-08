@@ -59,11 +59,11 @@ organizations:
     url: https://www.unipi.it
 education:
   courses:
-    - course: MSc in Artificial Intelligence
+    - course: MSc in Artificial Intelligence [2019 - currently]
       institution: University of Pisa
       year: ""
-    - course: BSc in Digital Humanities
-      institution: University of Pisa
+    - course: BSc in Digital Humanities [2015 - 2018]
+      institution: "University of Pisa - final grade: 110/110"
       year: ""
     - course: Scientific lyceum
       institution: Liceo Scientifico G. Galieli, Civitavecchia
