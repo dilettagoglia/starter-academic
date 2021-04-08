@@ -10,7 +10,7 @@ experience:
     date_start: 2020-09-01
     date_end: 2021-05-15
     description: Teaching Javascript & Typescript to students at the first year of
-      the Bachelor Degree in Computer Science.
+      the Bachelor Degree in Computer Science. 
   - title: Tech support
     company: Computer Science area of Medical School, Santa Chiara Hospital, Pisa
     company_url: http://www.med.unipi.it/index.php?lang=it
@@ -18,7 +18,7 @@ experience:
     date_start: 2020-11-01
     date_end: ""
     description: Support to operators at the IT centre of Medicine. Database
-      modeling for a pharmacy KB.
+      modeling for a pharmacy KB. 
   - title: Assistance to tech staff and teachers
     company: e-learning project, University of Pisa
     company_url: https://medialab.sp.unipi.it/
@@ -30,5 +30,5 @@ widget_id: experience
 headless: true
 weight: 40
 title: Experience
-subtitle: null
+subtitle: 
 ---
