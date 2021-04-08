@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 * *Coming soon…* | **[Labodif course](https://www.labodif.com/corsi-formativi-enti-istituzioni/)**: Istituto di ricerca e formazione nello studio delle differenze di genere
-* *2021* | Natural Bodybuilding athlete
+* *2021* | Natural **Bodybuilding athlete**
 * *2020* | Member of **[Associazione Italiana per l'Intelligenza Artificiale (AIXIA)](https://aixia.it/)**
 * *2020* | Supporter of **[Algorithmic Justice League (AJL)](https://www.ajl.org/)** movement
 * *2020* | Activist for** [SenzAtomica](https://www.senzatomica.it/)**
