@@ -1,5 +1,5 @@
 ---
-title: Skills
+title: ⚙ Skills
 subtitle: Welcome 👋 This is an exaustive list of both my hard and soft skills.
 date: 2021-04-08T11:39:51.648Z
 summary: Welcome 👋 This is an exaustive list of both my hard and soft skills.
