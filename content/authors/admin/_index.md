@@ -12,6 +12,18 @@ social:
     icon_pack: fab
     link: https://twitter.com/dilettagoglia
     label: "Twitter "
+  - display:
+      header: true
+    icon_pack: fab
+    icon: facebook-square
+    link: https://www.facebook.com/diletta.goglia.71
+    label: Facebook
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dilettagoglia/
+    display:
+      header: true
+    label: Linkedin
   - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
@@ -24,24 +36,12 @@ social:
     label: GitHub
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/dilettagoglia/
-    display:
-      header: true
-    label: Linkedin
   - display:
       header: true
     icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
     label: Medium
-  - display:
-      header: false
-    icon_pack: fab
-    icon: facebook-square
-    link: https://www.facebook.com/diletta.goglia.71
-    label: Facebook
   - display:
       header: false
     link: https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA
