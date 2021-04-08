@@ -8,17 +8,17 @@ interests:
   - Deep Learning and Machine Learning
   - Signals/images processing and analysis
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/dilettagoglia
-    label: "Twitter "
-  - display:
+    - display:
       header: true
     link: /#contact
     icon_pack: fas
     icon: envelope
     label: Contact
-  - icon: gscholar
+    - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/dilettagoglia
+    label: "Twitter "
+  - icon: google
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
     label: Google Scholar
@@ -57,7 +57,7 @@ social:
   - display:
       header: true
     link: https://bdfinance.academia.edu/DilettaGoglia
-    icon_pack: ai
+    icon_pack: fas
     icon: university
     label: Academia
 organizations:
