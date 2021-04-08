@@ -15,7 +15,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: true
   filename: https://www.nicepng.com/png/full/119-1194121_development-skill-icon-skills-and-talents.png
 ---
