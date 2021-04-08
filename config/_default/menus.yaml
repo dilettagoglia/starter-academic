@@ -15,26 +15,24 @@ main:
     weight: 30
   - name: Awards
     url: '#accomplishments'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 80
   - name: Rankings
     url: '#rankings'
-    weight: 70
-  - name: About me
+    weight: 60
+  - name: About
     url: '#about'
-    weight: 80
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: Full CV
-    url: uploads/cv.pdf
-    weight: 1000
-  - name: Resumé
-    url: uploads/resume.pdf
-    weight: 90
+
+  #- name: Resumé
+  #  url: uploads/resume.pdf
+  #  weight: 90
 
