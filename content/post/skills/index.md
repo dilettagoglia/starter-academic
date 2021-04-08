@@ -1,5 +1,5 @@
 ---
-title: 💡 Skills
+title: 💡 Skills and languages
 subtitle: Welcome 👋 This is an exhaustive list of both my hard and soft skills.
 date: 2021-04-08T11:39:51.648Z
 summary: Welcome 👋 This is an exhaustive list of both my hard and soft skills.
@@ -64,6 +64,8 @@ I have **advanced expertise** in:
   * Kanban (for software development)
   * Trello, Asana (to manage group working)
   * Word, PowerPoint, Excel, and all other Microsoft products
+
+\---
 
 👉 I also have **minor expertise** in:
 
