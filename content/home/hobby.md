@@ -2,7 +2,7 @@
 widget: accomplishments
 widget_id: hobby
 headless: true
-weight: 130
+weight: 140
 title: Hobby and activity
 active: true
 design:
