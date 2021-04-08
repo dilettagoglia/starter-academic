@@ -1,5 +1,6 @@
 ---
 widget: accomplishments
+date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ""
@@ -51,21 +52,7 @@ weight: 70
 title: Rankings
 subtitle: null
 active: true
-content:
-  page_type: project
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  offset: 0
-  order: desc
-design:
-  view: 5
+
 ---
 
 
