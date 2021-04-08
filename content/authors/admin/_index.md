@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Artificial Intelligence
   - Data Mining
-  - Deep Learning
+  - Deep Learning and Neural Models
   - Signal/image processing and analysis
 social:
   - icon: twitter
