@@ -33,8 +33,16 @@ content:
     tag: Algorithms
   - name: AI
     tag: AI
-  - name: Other
-    tag: Demo
+  - name: NLP
+    tag: NLP
+  - name: Python
+    tag: Python
+  - name: Signal Processing
+    tag: Signal Processing
+  - name: Data Mining
+    tag: Data Mining
+  - name: IoT
+    tag: IoT
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
