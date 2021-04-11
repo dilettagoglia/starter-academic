@@ -11,11 +11,11 @@ image:
 ---
 I'm a huge reader and I really love to share my past and current books and journals! 
 
-Check my [personal reading list](https://www.notion.so/dilettagoglia/9ef7f994725441f78ce8639a40bf5167?v=7517264c82f540f6979bd54b91d081cf),
+Check my [📗personal reading list](https://www.notion.so/dilettagoglia/9ef7f994725441f78ce8639a40bf5167?v=7517264c82f540f6979bd54b91d081cf),
 were you can find all the books I read in my free time, mostly about personal growth, AI and buddhism.
 
-There also a [university reading list](https://www.notion.so/dilettagoglia/University-Reading-List-57f62cf948a6465497c3aedb171f58c8) where I collected all the books I used during my MSc journey, for preparing exams
+There also a [🎓university reading list](https://www.notion.so/dilettagoglia/University-Reading-List-57f62cf948a6465497c3aedb171f58c8) where I collected all the books I used during my MSc journey, for preparing exams
 building projects, and "approfondire" concepts.  
 
 
-> Both these libraries are made using [Notion](https://www.notion.so/). Enjoy!
+> Both these libraries are made using [Notion app](https://www.notion.so/). Enjoy!✌🏻
