@@ -1,5 +1,5 @@
 ---
-title: SmartBin a Smart Solution for Garbage Management
+title: SmartBin, a Smart Solution for Garbage Management
 summary: SmartBin, a smart solution for improvements on garbage management system. An intelligent bin that monitors itself.
 tags:
 - IoT
@@ -39,10 +39,10 @@ a back-end software, via wireless network.
 - **Web Interface:** js, AJAX call, Google Maps API
 
 ### Material
-💻 [Thingiverse](https://www.thingiverse.com/thing:4377030)
-📽 [Play Youtube video](https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia)
-📃 [Poster](https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing)
-📈 [Presentation slides](https://drive.google.com/file/d/1KMRJIoEDadzF-FTNQyp6v8WECS5zrA_O/view?usp=sharing)
+- 💻 [Thingiverse](https://www.thingiverse.com/thing:4377030)
+- 📽 [Play Youtube video](https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia)
+- 📃 [Poster](https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing)
+- 📈 [Presentation slides](https://drive.google.com/file/d/1KMRJIoEDadzF-FTNQyp6v8WECS5zrA_O/view?usp=sharing)
 
 ### Project Team:
 - [Diletta Goglia](https://github.com/dilettagoglia)
