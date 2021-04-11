@@ -15,7 +15,7 @@ image:
 
 links:
 - icon: file
-  icon_pack: fab
+  icon_pack: fas
   name: Poster
   url: https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing
 url_code: "https://github.com/dilettagoglia/IOT-project"
