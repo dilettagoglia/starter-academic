@@ -22,7 +22,7 @@ links:
   name: Poster
   url: https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: Video
   url: https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia
 url_code: "https://github.com/dilettagoglia/IOT-project"
