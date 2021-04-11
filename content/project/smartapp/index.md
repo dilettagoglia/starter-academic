@@ -26,7 +26,7 @@ links:
   url: http://amongais.altervista.org/
 url_code: "https://github.com/dilettagoglia/AI-2"
 url_pdf: "/sw_architecture.pdf"
-url_slides: ""
+#url_slides: ""
 url_video: ""
 
 # Slides (optional).

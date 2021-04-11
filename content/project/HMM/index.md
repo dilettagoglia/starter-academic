@@ -22,7 +22,7 @@ links:
   url: https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2
 url_code: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2"
 url_pdf: "https://drive.google.com/file/d/1g-ZAtKqzcgngBozkJB9qpgC8suOgeHd7/view?usp=sharing"
-url_slides: ""
+#url_slides: ""
 url_video: ""
 
 # Slides (optional).

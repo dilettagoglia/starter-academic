@@ -21,8 +21,8 @@ links:
   name: Repo
   url: https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3
 url_code: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3"
-# url_pdf: "https://drive.google.com/file/d/1Hn07hzDoOI3NvhA0birDJUs2vK-up1L1/view?usp=sharing"
-url_slides: ""
+url_pdf: "https://drive.google.com/file/d/1Hn07hzDoOI3NvhA0birDJUs2vK-up1L1/view?usp=sharing"
+#url_slides: ""
 url_video: ""
 
 # Slides (optional).
