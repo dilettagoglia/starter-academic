@@ -32,7 +32,7 @@ content:
   - name: 2020
     tag: 2020
   - name: Old
-    tag: 2019|2018|2017
+    tag: 2019, 2018, 2017
   - name: NN
     tag: NN
   - name: Algorithms
