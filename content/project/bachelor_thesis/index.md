@@ -1,6 +1,6 @@
 ---
-title: Among AI's videogame
-summary: Software development in team for Smart Application MSC course.
+title: Bachelor's Degree thesis
+summary: 
 tags:
 - Software development
 - Algorithms

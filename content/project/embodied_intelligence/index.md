@@ -1,6 +1,6 @@
 ---
-title: Among AI's videogame
-summary: Software development in team for Smart Application MSC course.
+title: Embodied intelligence: a review.
+summary: 
 tags:
 - Software development
 - Algorithms

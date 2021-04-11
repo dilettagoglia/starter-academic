@@ -1,6 +1,6 @@
 ---
-title: Among AI's videogame
-summary: Software development in team for Smart Application MSC course.
+title: The AI (in)justice league
+summary: A report on Algorithmic Bias: why it is ethically problematic and how to handle 
 tags:
 - Software development
 - Algorithms

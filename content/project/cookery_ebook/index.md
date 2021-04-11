@@ -1,6 +1,6 @@
 ---
-title: Among AI's videogame
-summary: Software development in team for Smart Application MSC course.
+title: Cookery E-book
+summary: 
 tags:
 - Software development
 - Algorithms
