@@ -3,13 +3,13 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ""
-    date_start: 2018-10-01
+    date_start: 2021-02-01
     description: ""
-    organization: Coursera
+    organization: CLab 
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: PhD+
     url: ""
   - certificate_url: https://www.edx.org
     date_end: ""

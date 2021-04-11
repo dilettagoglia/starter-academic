@@ -10,6 +10,6 @@ content:
   taxonomy: tags
   count: 20
 design:
-  font_size_min: 0.8
-  font_size_max: 1.5
+  font_size_min: 0.4
+  font_size_max: 1.8
 ---
