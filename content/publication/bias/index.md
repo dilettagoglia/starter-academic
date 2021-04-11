@@ -29,7 +29,7 @@ subtitle: Ethically framing the issue of algorithmic discrimination
 doi: ""
 featured: false
 tags:
-  - AI Ethics
+  - AI Ethic
   - Bias
 projects:
   - bias

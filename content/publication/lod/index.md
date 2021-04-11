@@ -12,8 +12,8 @@ draft: false
 url_pdf: lod/tesi.pdf
 featured: false
 tags:
-  - LinkedOpenData
-  - SemanticWeb
+  - Linked Open Data
+  - Semantic Web
 image:
   filename: lod
   focal_point: Smart

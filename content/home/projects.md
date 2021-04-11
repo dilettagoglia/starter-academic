@@ -31,8 +31,8 @@ content:
     tag: NN
   - name: Algorithms
     tag: Algorithms
-  - name: NLP
-    tag: NLP
+  - name: AI
+    tag: AI
   - name: Other
     tag: Demo
 
