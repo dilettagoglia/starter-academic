@@ -1,9 +1,7 @@
 ---
 title: Data Journalism Web App
-summary: "Italiani mangiatori di pillole". 
-- Statistic and descriptive analysis of medical data as result of a Data Journalism investigation about supplement consumption in Italy.
-- Data are extract, cleaned up and organized in CSV tables, managed through a database SQL. Query API are in PHP.
-- The implemented software receives data through AJAX and return them in Json format to a script that processes them and show them in a client-readable format (charts displayed in a user interface).
+summary: "Italiani mangiatori di pillole". Statistic and descriptive analysis of medical data as result of a Data Journalism investigation about supplement consumption in Italy. Data is extracted, cleaned up and organized in CSV tables, managed through a database SQL. Query API are in PHP. 
+The implemented software receives data through AJAX and return them in Json format to a script that processes them and show them in a client-readable format (charts displayed in a user interface).
 
 tags:
 - Web Design
