@@ -44,7 +44,7 @@ item:
     url: ""
 widget_id: rankings
 headless: true
-weight: 70
+weight: 65
 title: Rankings
 subtitle: null
 active: true

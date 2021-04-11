@@ -29,7 +29,7 @@ item:
     url: ""
 widget_id: accomplishments
 headless: true
-weight: 50
+weight: 70
 title: Awards
 subtitle: null
 ---
