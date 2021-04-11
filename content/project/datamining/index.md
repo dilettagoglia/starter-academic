@@ -21,7 +21,7 @@ links:
   url: https://github.com/dilettagoglia/DataMining
 url_code: "https://github.com/dilettagoglia/DataMining"
 url_pdf: "/dm.pdf"
-url_slides: "dm_slides"
+url_slides: "dm_slides.pdf"
 url_video: ""
 
 # Slides (optional).
