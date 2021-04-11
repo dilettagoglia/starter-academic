@@ -5,6 +5,7 @@ tags:
 - NN
 - Signal Processing
 - Python
+- AI
 
 date: "2020-06-01T00:00:00Z"
 

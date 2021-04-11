@@ -4,6 +4,7 @@ summary: A report on Algorithmic Bias, why it is ethically problematic and how t
 tags:
 - AI Ethic
 - Bias
+- AI
 
 date: "2020-05-01T00:00:00Z"
 

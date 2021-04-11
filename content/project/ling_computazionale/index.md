@@ -4,7 +4,7 @@ summary: Human-language features extraction from corpora about Clinton & Trump s
 tags:
 - NLP
 - Python
-- Digital Humanities projects
+- Digital Humanities 
 
 date: "2017-11-01T00:00:00Z"
 

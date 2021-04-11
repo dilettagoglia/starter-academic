@@ -4,6 +4,7 @@ summary: Data Mining analysis on customers' shopping behavior
 tags:
 - Data Mining
 - ML
+- AI
 
 date: "2021-01-01T00:00:00Z"
 

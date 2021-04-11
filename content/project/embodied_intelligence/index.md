@@ -2,6 +2,9 @@
 title: Embodied intelligence, a review.
 summary: A presentation about the question of embodiment in behaviour-based robots (MSc course of Robotics)
 
+tags:
+- Robotics
+- AI
 
 date: "2020-05-01T00:00:00Z"
 

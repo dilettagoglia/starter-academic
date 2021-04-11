@@ -2,9 +2,7 @@
 title: Happy Kids website
 summary: 
 tags:
-- Software development
-- Algorithms
-- Python
+- External projects
 
 date: "2021-01-01T00:00:00Z"
 

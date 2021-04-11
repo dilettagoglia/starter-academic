@@ -3,6 +3,7 @@ title: OWL ontology in Turtle notation
 summary: Semantic modelling project for MSc course of Semantic Web.
 tags:
 - Semantic Web
+- Digital Humanities
 
 
 date: "2020-02-01T00:00:00Z"
