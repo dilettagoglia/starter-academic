@@ -1,13 +1,13 @@
 ---
 title: SmartBin
-summary: 
+summary: “SmartBin, a Smart Solution for Garbage Management” for improvement on garbage management system: an intelligent bin that monitors itself.
 tags:
 - IoT
 
 date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia"
+external_link: ""
 
 image:
   caption: SmartBin Architecture
@@ -30,11 +30,19 @@ url_video: "https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-“SmartBin, a Smart Solution for Garbage Management” for improvement on garbage management system: an intelligent bin that monitors itself.
+SmartBin, an IoT based device aimed at reducing the environmental impact of waste management while rising both the quality of life of the users and the performance of the system itself. SmartBin is able to detect its status through a persistent scanning carried out by sensors, sending the collected data to
+a back-end software, via wireless network.
+
 - **Devices:** Arduino Uno + Weight sensor HX711 + Load cell + RFID Reader MC522 + Ultrasonic sensor HC-SR04 + WiFi Module ESP8266 + Servomotor + RGB Led
 - **Server:** Python Flask
 - **Database:** MySQL
 - **Web Interface:** js, AJAX call, Google Maps API
+
+### Material
+💻 [Thingiverse](https://www.thingiverse.com/thing:4377030)
+📽 [Play Youtube video](https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia)
+📃 [Poster](https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing)
+📈 [Presentation slides](https://drive.google.com/file/d/1KMRJIoEDadzF-FTNQyp6v8WECS5zrA_O/view?usp=sharing)
 
 ### Project Team:
 - [Diletta Goglia](https://github.com/dilettagoglia)
