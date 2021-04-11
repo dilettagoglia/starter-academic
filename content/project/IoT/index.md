@@ -21,10 +21,14 @@ links:
   icon_pack: fas
   name: Poster
   url: https://drive.google.com/file/d/1QLle6OBvpsbisiEtsBDGibsocYVlRUrq/view?usp=sharing
+- icon: youtube
+  icon_pack: fas
+  name: Video
+  url: https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia
 url_code: "https://github.com/dilettagoglia/IOT-project"
 url_pdf: "https://drive.google.com/file/d/1KMRJIoEDadzF-FTNQyp6v8WECS5zrA_O/view?usp=sharing"
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=DqB3y-n9yO0&ab_channel=DilettaGoglia"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
