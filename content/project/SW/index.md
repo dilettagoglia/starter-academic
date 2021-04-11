@@ -1,6 +1,6 @@
 ---
 title: OWL ontology in Turtle notation
-summary: Semantic modelling project: building an ontology. Project for MSc course of Semantic Web.
+summary: Semantic modelling project for MSc course of Semantic Web.
 tags:
 - Semantic Web
 
