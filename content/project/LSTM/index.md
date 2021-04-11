@@ -9,7 +9,7 @@ tags:
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3"
+external_link: ""
 
 image:
   caption: Timeseries prediction with a Gated RNN (LSTM)
@@ -18,11 +18,11 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Code
+  name: Repo
   url: https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3
 url_code: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3"
-url_pdf: "https://github.com/dilettagoglia/Signal-Processing/blob/master/midterm3/midterm3/mid3.pdf"
-url_slides: "https://github.com/dilettagoglia/Signal-Processing/blob/master/midterm3/midterm3/mid3.pdf"
+# url_pdf: "https://drive.google.com/file/d/1Hn07hzDoOI3NvhA0birDJUs2vK-up1L1/view?usp=sharing"
+url_slides: "https://drive.google.com/file/d/1Hn07hzDoOI3NvhA0birDJUs2vK-up1L1/view?usp=sharing"
 url_video: ""
 
 # Slides (optional).

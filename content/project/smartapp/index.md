@@ -9,7 +9,7 @@ tags:
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://amongais.altervista.org/"
+external_link: ""
 
 image:
   caption: Among AI's match
@@ -18,8 +18,12 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Code
+  name: Repo
   url: https://github.com/dilettagoglia/AI-2
+- icon: gamepad
+  icon_pack: fas
+  name: Play
+  url: http://amongais.altervista.org/
 url_code: "https://github.com/dilettagoglia/AI-2"
 url_pdf: "/sw_architecture.pdf"
 url_slides: ""

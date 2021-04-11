@@ -17,11 +17,11 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Code
+  name: Repo
   url: https://github.com/dilettagoglia/DataMining
 url_code: "https://github.com/dilettagoglia/DataMining"
 url_pdf: "/dm.pdf"
-url_slides: "https://github.com/dilettagoglia/DataMining/blob/main/DM-project-slides.pdf"
+url_slides: "dm_slides"
 url_video: ""
 
 # Slides (optional).
