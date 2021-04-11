@@ -22,7 +22,7 @@ links:
 - icon: file-alt
   icon_pack: far
   name: Report
-  url: "/dm.pdf"
+  url: "/project/datamining/dm.pdf"
 url_code: "https://github.com/dilettagoglia/DataMining"
 url_pdf: "dm_slides.pdf"
 url_slides: ""
