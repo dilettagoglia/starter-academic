@@ -12,7 +12,7 @@ date: "2020-04-01T00:00:00Z"
 external_link: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm1"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image processed with SIFT 
   focal_point: Smart
 
 links:

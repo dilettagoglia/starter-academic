@@ -24,7 +24,7 @@ links:
   name: Report
   url: "/project/datamining/dm.pdf"
 url_code: "https://github.com/dilettagoglia/DataMining"
-url_pdf: "dm_slides.pdf"
+url_pdf: "/project/datamining/dm_slides.pdf"
 #url_slides: ""
 url_video: ""
 
