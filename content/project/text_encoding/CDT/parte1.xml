@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="1" xml:id="parte1"> <!--Xinclude-->
+        <body><!--Introduzione-->
+             <pb n="7" xml:id="p7"/>
+             <head n="1">Introduzione</head> <!--intestazione di primo livello-->
+             
+             <div n="1" xml:id="p1_cap1"> <!--capitolo1-->
+                 <head n="2">1. 22/01/1984</head> <!--intestazione di secondo livello-->
+                 <p> Una teoria di uomini avanza in un tubo di plexiglass, il cranio rasato, lo sguardo assente, il passo di marcia cadenzato. <hi rend="br"/></p>
+                 <p> Alle pareti, una sequela di video mostra in primissimo piano un volto magro e feroce. Nell'aria perlacea risuonano le note
+                     stridule, feroci di un discorso di indottrinamento propagandistico.<hi rend="br"/></p>
+                 <p> Gli uomini si recano in un cinema, si dispongono in file regolari, sul grande schermo lo stesso volto continua 
+                     il suo discorso martellante di esaltazione dell'ideologia al potere.<hi rend="br"/></p>
+                 <p> È il <date when="1984">1984</date>, è il mondo del <name type="person" ref="GF"/>. Ma qualcosa non torna.</p>
+                 <p> Una ragazza in shorts rossi corre verso la macchina da presa, armata di un grosso martello; entra nella sala 
+                     cinematografica inseguita da una squadra di poliziotti, prende slancio, con un grido lancia il martello verso lo schermo. 
+                     <foreign xml:lang="en" rend="PRE laquo POST raquo">We shall prevail</foreign>: 
+                     la frase del <name type="person" ref="GF"/> ha appena risuonato quando il martello colpisce lo schermo, lo fa esplodere, 
+                     libera un vento luminoso che colpisce i volti e i corpi esterrefatti degli spettatori. In sovrimpressione, letto da una voce 
+                     <foreign xml:lang="en" rend="italic">over</foreign>, scorre la seguente scritta: 
+                     <foreign xml:lang="en" rend="PRE laquo POST raquo"><date when="1984-01-24">On January 24th</date>, 
+                         <name type="org" ref="apple"/> Computer will introduce <name type="other" ref="macintosh"/>. And you will see why 
+                         <date when="1984">1984</date> won't be like <emph rend="PRE quot POST quot">1984</emph>
+                     </foreign>
+                     <!--nota-->
+                     <note n="1" xml:id="p1_nota1" place="bottom">Il <date when="1984-01-24">24 gennaio 1984</date> 
+                         Apple Computer presenterà il Macintosh. E vedrete perché il <date when="1984">1984</date> 
+                         non sarà un <emph rend="PRE quot POST quot">1984</emph>
+                     </note>.
+                     <hi rend="br"/>
+                 </p>
+                 <p> Il <foreign xml:lang="en" rend="italic">commercial</foreign> incaricato di lanciare il nuovo computer <name type="other" ref="macintosh"/> irruppe 
+                     nelle case degli americani il <date when="1984-01-22">22 gennaio 1984</date>, 
+                     in una delle pause pubblicitarie finali del Superbowl, il più importante appuntamento televisivo dell'anno. L'impatto sugli 
+                     <pb n="8" xml:id="p8"/>
+                     spettatori fu tale che immediatamente i programmi di informazione lo ritrasmisero, creando un effetto spirale che ne ingigantì 
+                     la diffusione. Il filmato non sarebbe mai più stato ritrasmesso in televisione dopo quella sera.<hi rend="br"/></p>
+                 <p> <date when="1984-01-22">22 gennaio 1984</date>: teniamo a mente questa data, perché è il giorno 
+                     in cui i media iniziarono a finire.<hi rend="br"></hi>
+                     <!--link al video-->
+                         <ref n="spot" target="https://www.youtube.com/watch?v=VtvjbmoDx-I">Clicca qui per vedere lo spot!</ref></p>
+             </div>
+            
+             <div n="2" xml:id="p1_cap2" > <!--capitolo2-->
+                 <head n="2">2. La fine dei media</head> <!--intestazione di secondo livello-->
+                 <p> Il <rs ref="comm1984">filmato</rs> <date when="1984" rend="italic">1984</date> è oggi un caposaldo della storia della pubblicità audiovisiva: 
+                     diretto da <persName ref="#RS">Ridley Scott</persName> 
+                     (reduce dal film <ref rend="italic"><title>Blade Runner</title></ref>), osteggiato dalla 
+                     <name type="org" ref="apple"/>, fortemente voluto da 
+                     <name type="person" ref="SJ"/> in persona, è senza dubbio molto 
+                     più di un <foreign xml:lang="en" rend="italic">commercial</foreign>: si tratta della visione teoricamente lucidissima di 
+                     cosa sarebbero stati i media del futuro 
+                     – ovvero i media di <emph rend="italic">oggi</emph>. E della profezia altrettanto lucida che i media, 
+                     <emph rend="italic">oggi</emph>, non ci sarebbero più stati
+                     <!--nota-->
+                     <note n="2" xml:id="p1_nota2" place="bottom">Il caso del <name rend="italic">commercial 1984</name> 
+                          per il lancio del Macintosh e del suo impatto sulla 
+                         <foreign xml:lang="en" rend="PRE quot POST quot">computer culture</foreign> viene attentamente analizzato da <hi rend="br"></hi>
+                         <bibl xml:id="friedman2005">
+                             <author>T. Friedman</author>, 
+                             <title>Electric Dreams: Computers in American Culture</title>,
+                             <publisher>New York University Press</publisher>, 
+                             <pubPlace>New York</pubPlace> 
+                             <date when="2005">2005</date>, 
+                             <biblScope unit="pp">pp. 100-120</biblScope>.
+                         </bibl>
+                     </note>.
+                     <hi rend="br"/>
+                 </p>
+                 
+                 <p> Il riferimento alla satira distopica di <persName>Orwell</persName> è sintomatico. Alcuni commentatori hanno voluto vedere nel 
+                     <name type="person" ref="GF"/> un riferimento a <name type="person" ref="BG"/> e al principale competitor della 
+                     <name type="org" ref="apple"/> del periodo, la <name type="org" ref="microsoft"/>; 
+                     si tratta tuttavia di una visione riduttiva. Dietro il <name type="person" ref="GF"/> del 
+                     <foreign xml:lang="en" rend="italic">commercial</foreign> <name type="org" ref="apple"/> si apre, infatti, 
+                     l'intero panorama dei media otto-novecenteschi e della loro stretta alleanza con i regimi totalitaristi che hanno 
+                     contraddistinto il <date from="1900" to="1999">Secolo breve</date>. Media identificati in grandi e complessi apparati tecnologici (prima meccanici, 
+                     poi meccanico-elettronici); media legati a grandi e talvolta giganteschi agglomerati economici; media utilizzati 
+                     da istituzioni e da Stati come strumenti di propaganda, di massificazione, di depersonalizzazione dell'individuo. 
+                     Ebbene, rispetto a questa idea di media, il <name type="other" ref="comm1984"/> dice due cose decisive.
+                     <hi rend="br"/>
+                 </p>
+                 
+                 <p> In primo luogo, esso annuncia l'avvento di un nuovo media, mai visto e radicalmente differente da quanto fino 
+                     a quel momento conosciuto: il personal computer. La cosa non è banale, se si considera cosa fosse in realtà il 
+                     personal computer fino a quel momento. Entrati sul mercato dell'elettronica di consumo <date notBefore="1970">a partire dalla seconda 
+                     metà degli anni Settanta</date>, i microcomputer (o personal o home computers, in quanto opposti ai grandi mainframes aziendali) 
+                     erano inizialmente macchine per il calcolo o per la elaborazione di testi scritti 
+                     (Commodore, Apple II, IBM PC e relativi cloni) e in alcuni casi per il videogioco o altre funzioni ludiche (Atari). 
+                     Da un punto di vista strettamente tecnico, il <name type="other" ref="macintosh"/> rappresentava un passo avanti molto importante ma tutto sommato relativo; 
+                     esso proponeva un'interfaccia grafica a finestre (ben differente e più piacevole delle righe di testo degli altri personal) 
+                     e richiedeva l'uso di un nuovo strumento di interazione cui gli esperti davano pochissimi anni di vita: il mouse. 
+                     La vera innovazione implicata dal lancio del <name type="other" ref="macintosh"/> tuttavia non era strettamente tecnica ma più ampiamente culturale; 
+                     ed è esattamente quanto viene comunicato dal <name type="other" ref="comm1984"/>: 
+                     <persName ref="SJ">Steve Jobs</persName> e il suo team creativo intendono spostare 
+                     la percezione sociale del computer dall'area delle macchine di calcolo a quella dei mezzi di comunicazione. 
+                     Il <name rend="italic">commercial</name> diretto da <persName ref="#RS">Scott</persName> presenta per la prima volta il 
+                     personal computer come un <emph rend="italic">media</emph>, al pari del cinema e della televisione.
+                     <hi rend="br"/>
+                 </p>
+                 
+                 <p> Ma si salda qui immediatamente il secondo punto chiave di <name rend="italic">1984</name>. 
+                     Noi non vediamo affatto il nuovo <name type="other" ref="macintosh"/> 
+                     (al limite, riguardando con attenzione il filmato, possiamo scorgerne una versione stilizzata sulla maglietta 
+                     bianca della ragazza): il prodotto è rappresentato solo metaforicamente attraverso la giovane atleta che irrompe 
+                     nel cinema e manda in frantumi lo schermo. Una cosa tuttavia è certa: nel momento in cui si presenta alla corte 
+                     dei media otto-novecenteschi, il computer ne decreta la distruzione. Non, si badi bene, una distruzione economica 
+                     ma anzitutto una vaporizzazione culturale e politica. Il sistema dei media è già morto, ci dice il 
+                     <name type="other" ref="comm1984"/>, 
+                     anche se non lo sa; e proprio nel momento in cui celebra i propri trionfi (il discorso del <name type="person" ref="GF"/>, 
+                     l'audience stratosferica del Superbowl che sta guardando lo spot) non si accorge che è iniziato il processo 
+                     della propria sparizione.
+                 </p>
+             </div>
+             
+             <div n="3" xml:id="p1_cap3"> <!--capitolo3-->
+                 <head n="2">3. La condizione postmediale</head> <!--intestazione di secondo livello-->
+                 <p> Questo libro parte dall'idea che la profezia espressa dal 
+                     <name type="other" ref="comm1984"/> si sia oggi pienamente realizzata, 
+                     e che i media siano definitivamente morti. Certo, continuiamo a parlare di media, a dibattere dei loro effetti e 
+                     dei loro rischi. Ci chiediamo quanto dei media del secolo scorso sia rifluito nel presente, e dunque se possiamo 
+                     qualificare la situazione presente come <soCalled rend="italic">post-cinematografica</soCalled> o 
+                     <soCalled rend="italic">post-televisiva</soCalled>. Arriviamo anche a definire il computer 
+                     come un <soCalled rend="PRE quot POST quot">metamedia</soCalled>, in grado di 
+                     <soCalled rend="PRE quot POST quot">ri-mediare</soCalled> media precedenti ricomprendendoli al proprio interno e incoraggiando 
+                     scambi reciproci.
+                     <hi rend="br"/>
+                 </p>
+                    
+                <p> Il punto di vista di questo libro è che tutte queste discussioni, per quanto importanti e talvolta necessarie, 
+                    partano da una premessa sbagliata: ovvero dall'idea che <emph rend="italic">esistano ancora i media</emph>. 
+                    In realtà, ritengo, viviamo oggi all'interno di una <emph rend="italic">condizione postmediale</emph>, 
+                    che ha superato l'idea di una presenza dei media in seno alla società 
+                    liquidando di fatto i media otto-novecenteschi. Tale condizione chiede la messa a punto di idee, concetti e modelli 
+                    radicalmente nuovi rispetto a quelli che nel passato ci hanno aiutato a fare i conti con i media e a regolare le 
+                    nostre relazioni (ludiche, critiche, professionali) con essi.
+                    <hi rend="br"/>
+                </p>
+                
+                <p> Per cercare punti di riferimento e direzioni di ricerca, non abbandonerò l'universo delle produzioni discorsive, 
+                    ovvero dei racconti, dei temi, delle rappresentazioni che circolano nel vasto e complessissimo universo della comunicazione. 
+                    Ritengo, infatti, che questo universo non si limiti a funzionare (e a funzionare, come ho detto, in un modo profondamente 
+                    differente da quello dei media otto-novecenteschi), ma sia in grado di riflettere sul proprio funzionamento e di metterlo 
+                    in scena attraverso le grandi narrazioni che lo percorrono e ne animano le dinamiche.
+                    <hi rend="br"/>
+                </p>
+                
+                <p> Ecco perché, dopo aver riassunto in un primo capitolo le avventure che hanno portato alla nascita, al trionfo e 
+                    infine alla vaporizzazione dei media, concentrerò l'attenzione su tre grandi complessi narrativi che ricorrono 
+                    ossessivamente nell'universo della comunicazione contemporanea: li chiamerò rispettivamente l'epos della 
+                    <ref target="#parte3" rend="italic"> naturalizzazione</ref>, l'epos della <ref target="#parte4" rend="italic">soggettivazione</ref> e l'epos 
+                    della <ref target="#parte5" rend="italic">socializzazione</ref>. A ciascuno di essi dedicherò uno dei successivi capitoli.
+                    <hi rend="br"/>
+                </p>
+                
+                <p> <foreign xml:lang="en" rend="PRE laquo POST raquo">And you will see why 1984 won't be like 
+                    <date when="1984" rend="PRE quot POST quot">1984</date></foreign>. 
+                    Già, la nostra condizione non è il <date when="1984">1984</date>. 
+                    Ma cosa è <emph rend="italic">davvero</emph> la condizione postmediale?</p>
+                </div>
+            
+        </body>
+    </text>
+</TEI>

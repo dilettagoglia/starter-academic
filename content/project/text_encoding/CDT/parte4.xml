@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="4" xml:id="parte4"> <!--Xinclude-->
+        <body> <!--L'epos della soggettivazione-->
+            <pb n="49" xml:id="p49"/>
+            <head n="1">L'epos della soggettivazione</head> <!--intestazione di primo livello-->
+            <div n="1" xml:id="p4_cap1"> <!--capitolo1-->
+                <head n="2" xml:lang="en">1. One day…</head> <!--intestazione di secondo livello-->
+                <p> <rs n="1" ref="oneday">Sulle note di una musica suonata dolcemente alla chitarra, un personaggio si stiracchia 
+                    al tavolo di lavoro, si versa un caffè, consuma un'abbondante colazione. Non vediamo 
+                    tuttavia mai in volto chi sta compiendo tali azioni, perché questo soggetto siamo “noi”: 
+                    le azioni sono infatti mostrate in prima persona all'interno di una ininterrotta e 
+                    dinamica inquadratura <soCalled rend="italic">in soggettiva</soCalled>. Inoltre, sopra le immagini di questo risveglio 
+                    mattutino, appaiono una serie di informazioni visualizzate in icone trasparenti: 
+                    l'ora, la temperatura, l'impegno di un incontro fissato per il pomeriggio.</rs> <hi rend="br"/>
+                </p>
+                <p> <rs n="2" ref="oneday">Il protagonista (cioè questo strano “noi”, dal momento che permane per tutta la 
+                    durata del video il regime di inquadratura soggettiva) esce a passeggio per la città: 
+                    la metropolitana è chiusa, ma le indicazioni in sovrimpressione gli indicano 
+                    una via alternativa per raggiungere la sua meta del mattino: una libreria in 
+                    cui acquistare un manuale per imparare a suonare l'ukulele in una sola giornata. 
+                    Lungo tutto il tragitto il personaggio-noi interagisce verbalmente con il dispositivo 
+                    che produce le icone in sovrimpressione: per esempio inquadra il manifesto di un 
+                    concerto e ordina di acquistare i biglietti per prendervi parte; fotografa un 
+                    angolo suggestivo e lo condivide in rete con le proprie <mentioned rend="PRE quot POST quot">cerchie</mentioned>; nell'incontrare 
+                    l'amico con il quale aveva appuntamento si premura di chiedere conferma al web 
+                    della qualità del baracchino presso cui i due consumano un caffè. Alla fine della 
+                    giornata il personaggio si affretta a salire le scale di un palazzo e a raggiungere 
+                    il tetto mentre riceve, sempre in sovrimpressione, la <pb n="50" xml:id="p50"/>videochiamata di una ragazza. 
+                    <foreign xml:lang="en" rend="PRE laquo POST raquo">Do you want to see something cool?</foreign> le chiede e, alla sua risposta affermativa, 
+                    inquadra un bellissimo skyline urbano al tramonto mentre le suona con un ukulele, 
+                    come una serenata, le note che avevamo già ascoltato all'inizio del video. 
+                    Una dissolvenza in bianco lascia spazio a un indirizzo web: 
+                    <ref n="website" target="https://plus.google.com/+GoogleGlass">g.co/projectglass</ref>, 
+                    e quindi al logo <name type="org" ref="google"/>.</rs> <hi rend="br"/>
+                </p>
+                    
+                    <!--link al video-->
+                    <p><ref n="spot" target="https://www.youtube.com/watch?v=Vb2uojqKvFM">Clicca qui per vedere lo spot!</ref></p>
+            </div>
+            
+            <div n="2" xml:id="p4_cap2"> <!--capitolo2-->
+                <head n="2">2. <term xml:id="fps" xml:lang="en">first person shot</term></head> <!--intestazione di secondo livello-->
+                <p> E qui devo confessare una piccola imprecisione. Ho parlato sopra di <term rend="PRE quot POST quot">soggettiva</term> 
+                    cinematografica per definire il tipo di inquadratura che occupa tutto il video; 
+                    tuttavia il termine non è corretto, e usandolo ho operato un'estensione indebita. 
+                    La mia scorrettezza riguarda due aspetti. In primo luogo <pb n="51" xml:id="p51"/>la soggettiva cinematografica 
+                    è una figura puntuale retta da una grammatica specifica: la camera ci mostra un soggetto 
+                    che guarda fuori campo (per esempio <persName xml:id="jeff">Jeff</persName>, il fotografo immobilizzato per la rottura della 
+                    gamba di fronte a 
+                        <!--citazione di film-->
+                        <bibl type="movie">
+                            <title>La finestra sul cortile</title>, un notissimo film di 
+                            <author role="director">Hitchcock</author> 
+                            del <date when="1954">1954</date>
+                        </bibl>)
+                    e quindi una immagine generalmente fissa o dotata di movimenti controllati, che corrisponde 
+                    al punto di vista di tale personaggio (per esempio il dirimpettaio che litiga con la moglie 
+                    – ciò che fa successivamente nascere in <persName ref="jeff">Jeff</persName>, e in noi, il sospetto di un possibile omicidio). 
+                    Le inquadrature di <name type="other" ref="oneday" />, al contrario, non ci mostrano mai il personaggio che compie 
+                    le varie azioni, ma sempre e solo quanto egli sta guardando e ascoltando. Inoltre questo 
+                    punto di vista non è statico ma dinamico e relazionale: percorre strade e ambienti, 
+                    incontra altri soggetti, si muove in ambienti complessi e ne cattura immagini e suoni.
+                </p>
+            </div>
+            <div n="3" xml:id="p4_cap3"> <!--capitolo3-->
+                <head n="2">3. Piccola archeologia del 
+                    <term ref="fps"/></head> <!--intestazione di secondo livello-->
+                <p> Il <term ref="fps"/> deriva da sei grandi innovazioni tecnologiche e linguistiche che, 
+                    <date notBefore="1980" notAfter="2015">a partire dall'inizio degli anni Ottanta fino a oggi</date>, hanno investito il panorama della 
+                    comunicazione e più ampiamente una serie complessa di pratiche sociali. <hi rend="br"/>
+                </p>
+                <p> La prima innovazione tecnologica consiste nell'avvento della <term  xml:id="steadicam">steadicam</term>, <rs ref="steadicam">una macchina 
+                    di ripresa cinematografica e televisiva fissata al corpo dell'operatore che, grazie a 
+                    un sistema di ammortizzatori e giroscopi, garantisce una ripresa fluida e stabile 
+                    nonostante una inedita agilità dei movimenti di camera.</rs> La <term ref="steadicam"/> fu inventata 
+                    dall'operatore americano <persName>Garrett <pb n="54" xml:id="p54"/> Brown</persName> 
+                    e introdotta sul mercato nel <date when="1975">1975</date>. Il primo 
+                    film in cui venne usata la <term ref="steadicam"/> fu 
+                    <!--citazione di film-->
+                    <bibl type="movie">
+                        <title xml:lang="en">Bound for Glory</title> 
+                        (<title type="alt" xml:lang="it">Questa terra è la mia terra</title>, 
+                        <author role="director">A. Ashby</author>, 
+                        <placeName ref="USA">USA</placeName>, 
+                        <date when="1976">1976</date>)
+                    </bibl>, 
+                    ma fu soprattutto <date notBefore="1980">a partire dagli anni Ottanta</date> che le sue potenzialità espressive furono 
+                    sfruttate al massimo grazie a film quali 
+                    <bibl type="movie">
+                        <title xml:lang="en">The Shining</title> 
+                        (<title type="alt">Shining</title>, 
+                        <author role="director">S. Kubrick</author>, 
+                        <placeName ref="USA">USA</placeName>-<placeName ref="UK">Regno Unito</placeName> 
+                        <date when="1980">1980</date>)
+                    </bibl>, 
+                    <bibl type="movie">
+                        <title xml:lang="en">Strange Days</title> 
+                        (<title type="alt">Id.</title>, 
+                        <author role="director">K. Bigelow</author>, 
+                        <placeName ref="USA">USA</placeName>, 
+                        <date when="1995">1995</date>)
+                    </bibl>, 
+                    <bibl type="movie">
+                        <title xml:lang="fr">La mort en direct</title> 
+                        (<title type="alt" xml:lang="it">La morte in diretta</title>, 
+                        <author role="director">B. Tavernier</author>, 
+                        <placeName ref="FR">Fr.</placeName>-<placeName ref="GER">Ger.</placeName>-<placeName ref="UK">Regno Unito</placeName>, 
+                        <date when="1980">1980</date>)
+                    </bibl>, 
+                    <bibl type="movie">
+                        <title xml:lang="en">Snake Eyes</title> 
+                        (<title type="alt" xml:lang="it">Omicidio in diretta</title>, 
+                        <persName role="director">B. De Palma</persName>, 
+                        <placeName ref="USA">USA</placeName>, 
+                        <date when="1998">1998</date>)
+                    </bibl>, 
+                    <bibl type="movie">
+                        <title xml:lang="ru">Russkij Kov eg</title> 
+                        (<title type="alt" xml:lang="it">L'arca russa</title>, 
+                        <author role="director">A. Sokurov</author>, 
+                        <placeName ref="russia">Russia</placeName>-<placeName ref="GER">Ger.</placeName>, 
+                        <date when="2002">2002</date>)
+                    </bibl>, 
+                    <bibl type="movie">
+                        <title xml:lang="en">Elephant</title> 
+                        (<title type="alt">Id.</title>, 
+                        <author role="director">G. Van Sant</author>, 
+                        <placeName ref="USA">USA</placeName>, 
+                        <date when="2003">2003</date>)
+                    </bibl>.</p>
+            </div>
+            <div n="4" xml:id="p4_cap4"> <!--capitolo4-->
+                <head n="2">4. Una figura postmediale</head> <!--intestazione di secondo livello-->
+                <p> Possiamo riassumere quanto detto fin qui sostenendo che il <term ref="fps"/>, 
+                    in quanto trascrizione immediata di una esperienza soggettiva derivante dalla 
+                    intima cooperazione di un corpo e di una macchina, nasce dalla sovrapposizione 
+                    di tre logiche di sviluppo dei dispositivi di ripresa: la loro <emph rend="italic">dinamizzazione</emph>, 
+                    la loro <emph rend="italic">miniaturizzazione</emph> e portabilità, e infine la loro <emph rend="italic">virtualizzazione</emph>. 
+                    Tuttavia questa affermazione è ancora <pb n="59" xml:id="p59"/>parziale perché spiega <emph rend="italic">da dove</emph> deriva 
+                    il <term ref="fps"/>, ma non <emph rend="italic">come</emph> esso è stato prodotto. Per comprendere 
+                    questo secondo punto dobbiamo tenere ben presenti due elementi.
+                    <hi rend="br"/><hi rend="br"/>
+                    In primo luogo, se ripercorriamo velocemente il paragrafo precedente, ci 
+                    accorgiamo che all'interno delle filiere esposte assistiamo a quella progressiva 
+                    de-individuazione tanto dei singoli dispositivi mediali tradizionali quanto dei 
+                    dispositivi mediali rispetto a quelli non mediali, che sappiamo oramai essere la
+                    cifra caratteristica della condizione presente: apparati di ripresa, formati e 
+                    piattaforme di distribuzione, dispositivi di fruizione coinvolti sono allo stesso 
+                    modo cinematografici, televisivi, videoartistici, medici, legali, polizieschi, 
+                    militari, e l'elenco potrebbe continuare a lungo.</p>
+            </div>
+            <div n="5" xml:id="p4_cap5"> <!--capitolo5-->
+                <head n="2">5. Un epos del divenire</head> <!--intestazione di secondo livello-->
+                <p> Sappiamo ora da dove proviene il <term ref="fps"/> e come esso si è gradualmente 
+                    costituito; ci manca tuttavia la domanda forse più importante: <emph rend="italic">perché</emph> il tipo 
+                    di inquadratura in grado di esprimere in forma diretta una esperienza soggettiva, 
+                    dinamica e relazionale del mondo ha conosciuto un successo così ampio e trasversale 
+                    nel panorama postmediale? Potremmo certamente sostenere che gli sviluppi 
+                    tecnologici che ho descritto sopra hanno portato automaticamente nella 
+                    loro sinergia alla diffusione del <term ref="fps"/>; tuttavia, una simile 
+                    posizione verrebbe facilmente accusata di <mentioned rend="PRE quot POST quot">determinismo tecnologico</mentioned>: 
+                    la ricerca ha dimostrato in più occasioni che gli sviluppi strettamente 
+                    tecnici non bastano a spiegare il destino dei diversi tipi di apparati 
+                    (mediali o meno), in quanto essi devono fare i conti con i numerosi differenti 
+                    fattori sociali, culturali e semiotici che circondano e condizionano 
+                    l'esperienza dei mezzi tecnologici.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

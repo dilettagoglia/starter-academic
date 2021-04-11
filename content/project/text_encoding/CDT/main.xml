@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="main.xsl"?>
+
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <!--intestazione: metadati relativi al documento digitale-->
+    <fileDesc> <!--descrizione bibliografica del documento digitale -->
+        <titleStmt> 
+          <title level="u">La condizione postmediale: formato elettronico</title>
+          <author ref="#DG">Diletta Goglia</author>
+          <respStmt> <!-- dichiarazione di responsabilità per il contenuto intellettuale del testo elettronico-->
+            <resp> Progetto di Codifica di Testi: conversione TEI P5 a cura di</resp>
+            <name xml:id="DG">Diletta Goglia</name> <!--responsabile della correzione nel doc "particomuni.xml" line 594-->
+          </respStmt>
+        </titleStmt>
+          
+        <publicationStmt>
+          <publisher></publisher> 
+          <availability status="free">
+            <licence>© Copyright Diletta Goglia - matr: 530924</licence>
+          </availability>
+        </publicationStmt>
+            
+        <sourceDesc> <!--descrizione della fonte -->
+        
+          <biblStruct> <!--descrizione bibliografica strutturata-->
+            <monogr> <!--libro (pub. autonoma)-->
+              <author>
+                <name type="person" ref="RE">Ruggero Eugeni</name>
+              </author>
+              <title level="m">La condizione postmediale. Media, linguaggi e narrazioni</title>
+              <idno type="ISBN" xml:id="isbn">ISBN: 978-88-350-3621-0</idno>
+              <textLang>Italiano</textLang>
+              <availability status="restricted" xml:id="availab">
+                <p>I diritti di traduzione, di memorizzazione elettronica, di riproduzione 
+                e di adattamento totale o parziale, con qualsiasi mezzo 
+                (compresi i microfilm), sono riservati per tutti i Paesi.
+                  <hi rend="br"/>
+                Le fotocopie per uso personale del lettore possono essere effettuate nei limiti 
+                del 15% di ciascun volume/fascicolo di periodico dietro pagamento alla SIAE del 
+                compenso previsto dall'art. 68, commi 4 e 5, della legge 22 aprile 1941, n. 633.
+                  <hi rend="br"/>
+                Le fotocopie effettuate per finalità di carattere professionale, economico o commerciale 
+                o comunque per uso diverso da quello personale possono essere effettuate a seguito di specifica 
+                autorizzazione rilasciata da CLEARedi, Centro Licenze e Autorizzazioni per le Riproduzioni Editoriali, 
+                Corso di Porta Romana n. 108, 20122 Milano, e-mail autorizzazioni@clearedi.org 
+                e sito web <ref n="website" target="http://www.clearedi.org/">www.clearedi.org</ref>
+                  <hi rend="br"/>
+                  <hi rend="br"/>
+                </p>
+                <licence>© Copyright by Editrice La Scuola, 2015</licence>
+              </availability>
+              <imprint> <!--info relative alla pubblicazione-->
+                <publisher>La Scuola</publisher>
+                <pubPlace>Brescia</pubPlace>
+                <date when="2015">2015</date>
+              </imprint>
+              <biblScope unit="pp">93 pagine</biblScope>
+            </monogr>
+            <series> <!--collana-->
+              <title level="s">Orso blu</title>
+              <biblScope unit="vol">64</biblScope>
+            </series>
+          </biblStruct>
+        
+          <listPerson><!--lista persone e personaggi (in ordine di apparizione nel testo)-->
+            <person xml:id="RE" role="author" sex="M"> <!--Ruggero Eugeni-->
+              <persName><forename>Ruggero</forename> <surname>Eugeni</surname></persName>
+              <occupation>è professore ordinario di <soCalled>Semiotica dei media</soCalled>
+                presso <orgName>l'Università Cattolica del Sacro Cuore</orgName> (<settlement>Milano</settlement>), 
+                dove dirige l'
+                <name xml:id="ALMED">
+                  <choice>
+                    <abbr><ref n="website" target="http://almed.unicatt.it/">ALMED</ref>,</abbr>
+                    <expan>Alta Scuola in Media, Comunicazione e Spettacolo</expan>
+                  </choice>
+                </name>
+              </occupation>
+            </person>
+            <!--la suddivisione del person in due paragrafi serve per la resa grafica-->
+            <person xml:id="SJ" sex="M"> <!--Steve Jobs-->
+              <p> <persName><forename>Steve</forename><surname>Jobs</surname></persName></p>
+              <p> <date when="1955-02-24">24 febbraio 1955</date>
+                  <placeName>
+                    <settlement type="city">San Francisco,</settlement>
+                    <country ref="USA">California (USA)</country>
+                  </placeName>
+                  - 5 ottobre 2011
+                  <placeName>
+                    <settlement type="city">Palo Alto</settlement>
+                    <country ref="USA">California (USA).</country>
+                  </placeName>
+                  <hi rend="br"/>Cofondatore e amministratore delegato della <orgName ref="apple">Apple</orgName>; 
+                  ideatore del <name ref="macintosh">Macintosh</name>.</p>
+            </person>
+            <person xml:id="GF"> <!--Grande Fratello-->
+              <p> <persName>Grande Fratello</persName>,personaggio del romanzo <ref><title>1984</title> di <persName>Orwell</persName></ref>.</p>
+              <p> Figura del dittatore di uno stato totalitario nel quale ogni individuo è tenuto costantemente sotto controllo.
+                  <hi rend="br"/>Il reality prende il nome da questo personaggio perché i concorrenti sono inquadrati costantemente 
+                  da telecamere così che il pubblico possa seguire in qualsiasi tempo le loro azioni; 
+                  il format televisivo è stato esportato in oltre 40 paesi nel mondo.</p>
+            </person>
+            <person xml:id="BG" sex="M"> <!--Bill Gates-->
+              <p> <persName><forename>Bill</forename><surname>Gates</surname></persName></p>
+              <p> Nato il <date when="1955-10-28">28 ottobre 1955</date>, a 
+                  <placeName>
+                    <settlement type="city">Seattle,</settlement>
+                    <country ref="USA">Washington (USA).</country>
+                  </placeName>
+                  <hi rend="br"/>Fondatore e presidente onorario di <orgName ref="microsoft">Microsoft</orgName>.</p>
+            </person>
+            <person xml:id="WW"> <!--Will Wright-->
+              <p> <persName><forename>Will</forename> <surname>Wright</surname></persName></p>
+              <p> Nato il <date when="1960-01-20">20 gennaio 1960</date>, ad 
+                  <placeName>
+                    <settlement type="city">Atlanta</settlement>,
+                    <country ref="USA">Georgia (USA).</country>
+                  </placeName>
+                  <hi rend="br"/> Informatico e progettatore di videogiochi. Fondatore della <orgName ref="maxis">Maxis</orgName> 
+                  nel <date when="1987">1987</date> e
+                  ideatore di <name ref="thesims">The Sims</name> e <name ref="simcity">Sim City</name>.</p>
+            </person>
+          </listPerson>
+        
+          <listPlace> <!--lista dei luoghi (in ordine di apparizione nel testo)-->
+            <place xml:id="USA" type="country"> <!--USA-->
+              <placeName>
+                <choice>
+                  <abbr>USA</abbr>
+                  <expan>Stati Uniti d'America</expan>
+                </choice>
+              </placeName>
+            </place>
+            <place xml:id="london" type="city"> <!--Londra-->
+              <placeName>Londra</placeName>
+              <location>
+                <bloc xml:id="EU">Europa</bloc>
+                <country xml:id="UK">Regno Unito</country>
+              </location>
+            </place>
+            <place xml:id="paris" type="city"> <!--Parigi-->
+              <placeName>Parigi</placeName>
+              <location>
+                <bloc ref="EU">Europa</bloc>
+                <country ref="FR">Francia</country>
+              </location>
+            </place>
+            <place xml:id="IT" type="country"> <!--Italia-->
+              <placeName>Italia</placeName>
+              <location>
+                <bloc ref="EU">Europa</bloc>
+              </location>
+            </place>
+            <place xml:id="california"> <!--California-->
+              <placeName>California</placeName>
+              <location>
+                <country ref="USA">USA</country>
+              </location>
+            </place> 
+            <place xml:id="pandora"> <!--Pandora-->
+              <placeName>Pandora</placeName>
+              <desc>Nel film <name ref="avatar">Avatar</name>, è una delle quattordici lune del pianeta 
+                gigante gassoso Polifemo, situato a 4,37 anni luce dalla Terra.<hi rend="br"/>
+                La specie che vive su Pandora sono i <name xml:id="navi">Na'vi, popolazione indigena che possiede caratteristiche umanoidi</name>.</desc>
+            </place>
+            <place xml:id="NJ"> <!--New Jersey-->
+              <placeName>New Jersey</placeName>
+              <location>
+                <country ref="USA">USA</country>
+              </location>
+            </place>
+            <place xml:id="FR" type="country"> <!--Francia-->
+              <placeName>Francia</placeName>
+              <location>
+                <bloc ref="EU">Europa</bloc>
+              </location>
+            </place>
+            <place xml:id="GER" type="country"> <!--Germania-->
+              <placeName>Germania</placeName>
+              <location>
+                <bloc ref="EU">Europa</bloc>
+              </location>
+            </place>
+            <place xml:id="russia" type="country"> <!--Russia-->
+              <placeName>Russia</placeName>
+              <location>
+                <bloc ref="EU">Europa</bloc>
+              </location>
+            </place>
+          </listPlace>
+        
+          <listOrg> <!--lista delle organizzazioni/società (in ordine di apparizione nel testo)-->
+            <org xml:id="apple"> <!--Apple-->
+              <orgName>Apple</orgName>
+              <desc>Azienda <placeName ref="USA">statunitense</placeName>  che produce sistemi operativi, computer e dispositivi multimediali,
+                fondata da <persName ref="SJ">Steve Jobs</persName>,
+                <persName>Steve Wozniak</persName> e <persName>Ronald Wayne</persName> il <date when="1976-04-01">1 aprile 1976</date>.
+              </desc>
+            </org>
+            <org xml:id="maxis"> <!--Maxis-->
+              <orgName>Maxis</orgName>
+              <desc>Società dedita allo sviluppo di videogiochi, fondata da <persName ref="WW">Will Wright</persName> e Jeff Braun 
+                nel <date when="1987">1987</date> e chiusa nel <date when="2015">2015</date>; 
+                è ricordata soprattutto per aver prodotto videogiochi quali SimCity e The Sims.</desc>
+            </org>
+            <org xml:id="microsoft"> <!--Microsoft-->
+              <orgName>Microsoft</orgName>
+              <desc>Azienda informatica con sede a 
+                <placeName><settlement type="city">Redmond, </settlement><country ref="USA">Washington (USA)</country></placeName>,
+                fondata il <date when="1975-04-04">4 aprile 1975</date> da <persName ref="BG">Bill Gates</persName> e <persName>Paul Allen</persName>.
+              </desc>
+            </org>
+            <org xml:id="google"> <!--Google-->
+              <orgName>Google</orgName>
+              <desc>Azienda <placeName ref="USA">statunitense</placeName> fondata il <date when="1998-09-04">4 settembre 1998</date>
+                che offre servizi online, con quartier generale in <placeName ref="california">California</placeName></desc>
+            </org>
+            <org xml:id="EA"> <!--EA Games-->
+              <orgName>
+                <choice>
+                  <abbr>EA</abbr>
+                  <expan>Electronic Arts</expan>
+                </choice>
+              </orgName>
+              <desc><hi rend="br"/>Società <placeName ref="USA">statunitense</placeName> con sede in <placeName ref="california">California</placeName>, 
+                che sviluppa, pubblica e distribuisce videogiochi, 
+                fondata il <date when="1982-05-28">28 maggio 1982</date> da <persName>Trip Hawkins</persName>.
+              </desc>
+            </org>
+          </listOrg>
+        
+          <listEvent> <!--lista degli eventi (in ordine di apparizione nel testo)-->
+            <event xml:id="IIRI"> <!--Seconda Rivoluzione Industriale-->
+              <label>Seconda Rivoluzione Industriale</label>
+              <desc>Fase di grande sviluppo delle industrie che si protrae <date from="1856" to="1868">dal 1856 al 1868</date>
+                e coinvolge <placeName ref="USA">Stati Uniti</placeName> ed <placeName ref="EU">Europa.</placeName>
+              </desc>
+            </event>
+            <event xml:id="Iespuniv"> <!--Prima Esposizione Universale-->
+              <label>Prima Esposizione Universale</label>
+              <desc>Organizzata nel <date when="1851">1851</date> <placeName ref="london">al Crystal Palace in Hyde Park (Londra)</placeName>,
+                nacque da una intuizione del <persName>Principe Alberto</persName> e divenne il riferimento per tutte le successive, 
+                influenzando numerosi aspetti della società quali le arti, l'educazione, il commercio e le relazioni internazionali.
+              </desc>
+            </event>
+            <event xml:id="IGM"> <!--Prima Guerra Mondiale-->
+              <label>Prima Guerra Mondiale</label>
+              <desc><date from="1914" to="1918">(1914-1918)</date></desc>
+            </event>
+          </listEvent>
+        
+          <listNym> <!--lista delle entità nominate non riconducibili ai tipi di cui sopra (es. nomi propri di spot commerciali, giochi, applicazioni, ...-->
+            <!--appartengono tutte al mondo mediatico-->
+            <nym xml:id="Fb"> <!--Facebook-->
+              <p>Facebook</p>
+              <p>Social network lanciato il <date when="2004-02-04">4 febbraio 2004</date>, 
+                fondato ad Harvard negli <placeName ref="USA">Stati Uniti</placeName> 
+                dal proprietario <persName>Mark Zuckerberg</persName> e diversi colleghi.</p>
+            </nym>
+            <nym xml:id="macintosh"> <!--Macintosh-->
+              <p>Macintosh</p>
+              <p>Personal computer commercializzato da Apple nel 1984.</p>
+            </nym>
+            <nym xml:id="comm1984"> <!--commercial 1984-->
+              <p>commercial 1984</p>
+              <p>Spot televisivo diretto da 
+                <persName xml:id="RS"><forename>Ridley</forename> <surname>Scott</surname></persName>.
+                <hi rend="br"/>L'attrice rappresenta la venuta del <name ref="macintosh">Macintosh</name> e l'attore rappresenta il 
+                personaggio del <ref>romanzo <title>1984</title> di <persName>Orwell</persName></ref>, <persName ref="GF">Grande Fratello</persName>.
+                <hi rend="br"/>Il personal computer è promosso come mezzo per salvare l'umanità dalla "conformità".
+              </p>
+            </nym>
+            <nym xml:id="oneday"> <!--one day-->
+              <p>One day</p>
+              <p>Spot pubblicitario dei <name ref="google">Google Glass</name>, pubblicato da <orgName ref="apple">Apple</orgName>
+                  il <date when="2010-04-04">4 aprile 2012</date>.</p>
+            </nym>
+            <nym xml:id="Zn"> <!--Zynga-->
+              <p>Zynga</p>
+              <p>Software house <placeName ref="california">californiana</placeName> fondata nel <date when="2007">2007</date> 
+                con sede negli <placeName ref="USA">USA</placeName>, 
+                specializzata nello sviluppo di videogiochi per browser Internet e di videogiochi "casual"
+                su piattaforme di social networking come <name ref="Fb">Facebook</name></p>
+            </nym>
+            <nym xml:id="Fv"> <!--Farmville-->
+              <p>Farmville</p>
+              <p>Lanciato da <orgName ref="microsoft">Microsoft</orgName> il <date when="2010-01-04">4 gennaio 2010</date>, è un browser game on-line busy, 
+                disponibile su <name ref="Fb">Facebook</name> e sviluppato dalla software-house californiana <name ref="Zn">Zynga</name>.
+              </p>
+            </nym>
+            <nym xml:id="thesims"> <!--The Sims-->
+              <p>The Sims</p>
+              <p>Videogioco di simulazione sviluppato dalla <orgName ref="maxis">Maxis</orgName> e distribuito dalla <orgName ref="EA">EA Games</orgName>.
+                Fu ideato da <persName ref="WW">Will Wright</persName>.
+                La prima versione è apparsa nel <date when="2000-02">febbraio 2000</date>.</p>
+            </nym>
+            <nym xml:id="simcity"> <!--Sim City-->
+              <p>Sim City</p>
+              <p>Videogioco di simulazione ideato da <persName ref="WW">Will Wright</persName>, sviluppato e pubblicato da 
+                <orgName ref="maxis">Maxis</orgName> nel <date when="1989">1989</date>.</p>
+            </nym>
+            <nym xml:id="lost"> <!--Lost-->
+              <p>Lost</p>
+              <p>Serie televisiva trasmessa negli <placeName ref="USA">Stati Uniti</placeName> <date from="2004" to="2010">dal 2004 al 2010</date></p>
+            </nym>
+            <nym xml:id="avatar"> <!--Avatar-->
+              <p>Avatar</p>
+              <p>Film del 2009 scritto, diretto e co-montato da <persName>James Cameron</persName>.
+                <hi rend="br"/>È stato distribuito nei cinema di tutto il mondo <date from="2009-12-16" to="2009-12-18">tra il 16 e il 18 dicembre 2009</date>.
+                <hi rend="br"/>Ha incassato quasi 2,8 miliardi di dollari, diventando il film con più incassi della storia del cinema.
+                <hi rend="br"/>Si è aggiudicato tre vittorie ai Premi Oscar <date when="2010">2010</date>: per la migliore fotografia, la migliore scenografia e i migliori effetti speciali.
+              </p>
+            </nym>
+          </listNym>
+        
+        </sourceDesc>
+      
+    </fileDesc>
+        
+    <encodingDesc> <!--relazione tra testo elettronico e testo di origine; info su schema e modello di codifica usato-->
+        
+        <!--obiettivi e scopi della creazione del testo elettronico-->
+        <projectDesc> <!--vedi sezione "Versione digitale"-->
+          <p> La creazione e lo sviluppo del progetto, sia per 
+            il codice (XML) che per la grafica (fogli di stile XSL-T e CSS), 
+            sono interamente ideati e realizzati da Diletta Goglia.
+            <hi rend="br"/> 
+            Questo progetto è stato realizzato per l'esame di 
+            "Codifica di Testi", A.A. 2017/18, Corso di 
+            laurea triennale in Informatica Umanistica - Università di Pisa.
+            <hi rend="br"/> 
+            L'obiettivo è quello di fornire una versione digitale del libro
+            <title>La condizione postmediale. Media, linguaggi, narrazioni</title> 
+            di Ruggero Eugeni. 
+            <hi rend="br"/>
+            L'intero progetto è conforme agli <emph rend="bold">standard TEI P5</emph> e 
+            <emph rend="bold">W3C</emph>.
+          </p>
+        </projectDesc> 
+      
+        <editorialDecl> 
+          <correction method="markup">
+            <p>Corretto un errore apparente nel documento "particomuni.xml", line 594, 
+              mediante l'uso di elementi &#60;sic&#62; / &#60;corr&#62;, raggruppati in un &#60;choice&#62;.
+              <ptr target="#correction"/></p>
+          </correction>
+        </editorialDecl> 
+      
+        <refsDecl> <!--vedi sezione "Versione digitale"-->
+          <p> La codifica XML segue lo standard TEI P5, utilizzando moduli ed elementi indicati nelle <emph rend="italic">Guidelines</emph>.
+              Lo schema di codifica personalizzato è stato creato con <emph rend="bold">TEI Roma</emph>, aggiungendo i moduli di interesse
+              e modificando alcuni elementi già definiti.
+              <hi rend="br"/><hi rend="br"/>
+              Si specifica che, essendo un progetto d'esame, il testo non è stato codificato interamente ma solo 2-3 paragrafi per ogni capitolo.
+              <hi rend="br"/><hi rend="br"/>
+              Solo le parti che fanno riferimento all'intero libro (es. "Strumenti e riferimenti", "Ringraziamenti", ecc...) sono state codificate
+              per intero.
+              <hi rend="br"/><hi rend="br"/>
+              Il progetto comprende 9 documenti XML (due per la pagina iniziale/frontespizio, 
+              uno per le parti che fanno riferimento all'intera opera e infine uno per ciascun argomento trattato), collegati tra loro
+              e disposti nell'ordine corretto tramite <emph rend="bold">XInclude</emph>.
+              Comprende inoltre 4 fogli si stile XSL e 3 fogli di stile CSS.
+              <hi rend="br"/><hi rend="br"/>  
+              Si fa presente che, a livello di codifica, l'uso combinato di elementi <emph rend="bold">&#60;persName&#62;</emph> ed
+              elementi <emph rend="bold">&#60;name&#62;</emph> con attributo <emph rend="bold">@type</emph>='person' (e simili) <emph rend="bold">NON</emph> è da interpretare come
+              un'incongruenza ma è finalizzato alla resa grafica di alcune parti specifiche. Analogamente per quanto riguarda gli attributi 
+              <emph rend="bold">@ref</emph> che a volte contengono 
+              il simbolo convenzionale <emph rend="bold">#</emph> e a volte no.
+              <hi rend="br"/><hi rend="br"/>
+              In particolare, sono stati codificati:
+                <list rend="bulleted">
+                  <item>
+                    <emph rend="italic"><emph rend="bold">Named entities</emph></emph>: con il modulo
+                    <emph rend="italic">namesdates</emph> sono stati codificati i nomi propri di persona, luogo, organizzazioni ed eventi.
+                    In particolare, l'elemento <emph rend="bold">&#60;nym&#62;</emph> è stato usato per codificare tutti i nomi propri 
+                    relativi all'ambito mediatico, per esempio nomi  di film, spot pubblicitari, videogiochi, applicazioni, ecc...
+                    <hi rend="br"/>
+                    Sono state create poi delle <emph rend="bold">liste</emph> (nel <emph rend="bold">&#60;sourceDesc&#62;</emph>) per raggruppare questi elementi 
+                    e per potervi aggiungere dei <emph rend="bold">metadati</emph>, in modo da arricchire la codifica e creare dei collegamenti
+                    utili alla comprensione e alla navigazione del testo. L'utente può visualizzarli facilmente passando con il mouse sulle parti enfatizzate
+                    in blu.
+                  </item>
+                  <item>
+                    <emph rend="bold">Citazioni</emph> di opere esterne, tra cui libri e film, con opportuni 
+                    <emph rend="bold">riferimenti bibliografici</emph>.
+                  </item>
+                  <item>
+                    <emph rend="bold">Note</emph>
+                  </item>
+                  <item>Numeri e date</item>
+                  <item>Elementi strutturali, come suddivisione del testo e interruzioni di pagina (invisibili nel documento HTML finale), ecc...</item>
+                  <item>Enfasi, termini particolari e parole/espressioni in lingua diversa.</item>
+                  <item>Frontespizio</item>
+                  <item>
+                    <emph rend="bold">Correzione di un refuso</emph> trovato nel testo, descritta in maniera dettagliata 
+                    nel <emph rend="bold">&#60;editorialDecl&#62;</emph> e di cui si specifica la responsabilità nel <emph rend="bold">&#60;respStmt&#62;</emph>. 
+                  </item>
+                </list>
+          </p>
+          <p> Rispetto alla versione originale cartacea:
+                <list rend="bulleted">
+                  <item>Sono stati mantenuti, sebbene resi graficamente in modo diverso, il frontespizio e il retro del libro. </item>
+                  <item>Sono stati mantenuti i numeri originali delle note, anche in funzione di un futuro completamento del progetto, codificando le parti mancanti.</item>
+                  <item>Le note non sono a piè di pagina come nella versione originale ma vengono visualizzate con il meccanismo di 
+                    <emph rend="italic">mouse over</emph>.</item>
+                  <item>Mantenuta la resa grafica in successione dei riferimenti bibliografici.</item>
+                  <item>Sono stati aggiunti <emph rend="bold">collegamenti interni ed esterni</emph> in modo che ogni parte di testo sia 
+                    <emph rend="bold">raggiungibile da ogni punto</emph> ed eventualmente correlata a pagine web esterne, coerenti con
+                    quanto detto nel testo, per <emph rend="bold">facilitare la navigazione</emph> e <emph rend="bold">arricchirne i contenuti</emph>.</item>
+                </list>
+          </p>
+          <p> Personalizzazioni sullo schema di codifica realizzato con TEI Roma:
+            <list rend="bulleted">
+              <item>Aggiunto l'attributo <emph rend="bold">@ref</emph> all'elemento <emph rend="bold">&#60;div&#62;</emph>
+                del modulo <emph rend="italic">textstructure</emph> per collegare una porzione di testo alla parte cui fa riferimento.</item>
+              <item>Incluso il modulo <emph rend="bold">namesdates</emph></item>
+            </list>
+          </p>
+        </refsDecl>
+      
+    </encodingDesc>
+    
+    <profileDesc> <!-- contesto in cui è stato creato il testo elettronico e informazioni sulla classificazione-->
+      <creation>
+        <date when="2017">Nov.-Dic. 2017</date>
+      </creation>
+      
+      <textClass> <!--raggruppa le informazioni che descrivono la natura o l'argomento di un testo-->
+        <keywords> 
+          <list>
+            <item>Mass media</item>
+            <item>Etica</item>
+            <item>Linguaggio</item>
+            <item>Semiotica</item>
+            <item>Semiologia</item>
+            <item>Sociologia</item>
+            <item>Società, politica e comunicazione</item>
+            <item>Studi interdisciplinari</item>
+          </list>
+        </keywords>
+      </textClass>
+      
+      <langUsage>
+        <language ident="it">Italiano.</language>
+      </langUsage>
+      
+    </profileDesc>
+    
+  </teiHeader>
+    
+  <text>
+    <group> <!--raggruppa tutti i testi inclusi con i puntatori-->
+      <text>
+       <front> <!--intestazione-->
+          <titlePage> <!--frontespizio-->
+            <docAuthor ref="RE">Ruggero Eugeni</docAuthor>
+            <docTitle rend="italic">
+              <titlePart type="main">La condizione postmediale</titlePart>
+              <titlePart type="sub">Media, linguaggi e narrazioni</titlePart>
+            </docTitle>
+            <docImprint>
+              <publisher>EDITRICE LA SCUOLA</publisher>
+            </docImprint>
+          </titlePage>
+       </front>
+       <body>
+          <p></p>
+       </body>
+     </text> 
+     
+     <!--inclusione dei vari text-->
+     <!--COLOPHON-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="particomuni.xml" xpointer="colophon">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--RINGRAZIAMENTI-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="particomuni.xml" xpointer="ringraziamenti">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--PARTE1-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte1.xml" xpointer="parte1">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--PARTE2-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte2.xml" xpointer="parte2">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>   
+     
+     <!--PARTE3-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte3.xml" xpointer="parte3">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--PARTE4-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte4.xml" xpointer="parte4">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--PARTE5-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte5.xml" xpointer="parte5">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--PARTE6-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="parte6.xml" xpointer="parte6">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--STRUMENTI E RIFERIMENTI-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="particomuni.xml" xpointer="strumenti">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+
+     <!--RETRO-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="particomuni.xml" xpointer="retro">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+     
+     <!--VERSIONE DIGITALE-->
+     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"  href="particomuni.xml" xpointer="versione_digitale">
+       <xi:fallback>
+         <p><emph>FIXME: MISSING XINCLUDE CONTENT</emph></p>
+       </xi:fallback>
+     </xi:include>
+      
+    </group>
+  </text>
+</TEI>

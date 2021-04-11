@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="particomuni.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <!--contiene le parti riferite all'intero libro-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text xml:id="colophon"> <!--Xinclude-->
+                <body>
+                    <pb n="4" xml:id="p4"/>
+                    <head n="1"><hi rend="br"/>Colophon</head> <!--intestazione di primo livello-->
+                    <p> In copertina: immagine <ref n="website" target="http://icponline.it/">icponline.it</ref>
+                        <hi rend="br"/>
+                        <hi rend="br"/>
+                        
+                        <!--per evitare ripetizioni di testo, il documento xsl prende questa parte dal main-->
+                        <ref n="inser_text" target="availab"/>
+                        
+                        <hi rend="hr"/> <!--riga orizzontale-->
+                        Stampa Vincenzo Bona 1777 S.p.A
+                        
+                        <hi rend="br"/>
+                        <!--per evitare ripetizioni di testo, il documento xsl prende questa parte dal main-->
+                        <ref n="inser_text" target="isbn"/>
+                    </p>
+                </body>
+            </text>
+            <text xml:id="ringraziamenti"> <!--Xinclude-->
+                <body>
+                    <pb n="5" xml:id="p5" />
+                    <head n="1"><hi rend="br"/>Ringraziamenti</head> <!--intestazione di primo livello-->
+                    <p> La parte che amo di più delle tesi dei miei studenti 
+                        è quella dei ringraziamenti (prima o poi vorrei farne 
+                        una antologia). In genere sono relegati alla fine, 
+                        i ragazzi sperano quasi che il relatore non se ne accorga, 
+                        ma molto spesso spiegano cosa è stato <emph rend="italic">veramente</emph> fare quella 
+                        ricerca, portare avanti quell'impegno, raggiungere quel traguardo. <hi rend="br"/>
+                    </p>
+                    
+                    <p> <emph rend="italic">Mutatis mutandis</emph>, la cosa non è molto differente 
+                        per chi si trova a chiudere un libretto come questo. 
+                        Perché dietro a ogni ricerca e a ogni percorso di riflessione 
+                        ci sono storie, volti, affetti, viaggi, convegni, dibattiti, 
+                        lezioni, articoli, tesi, chiacchierate, pranzi e cene, 
+                        discussioni, affinità, incomprensioni, amicizie, rotture, 
+                        invidie, pentimenti, ammirazioni, successi, fallimenti. 
+                        Ci sono, insomma, comunità di lavoro e di vita che obbligano 
+                        sempre alla relazione e al confronto – e questo è l'unico modo 
+                        che io conosca per pensare. <hi rend="br"/>
+                    </p>
+                    
+                    <p> Questo volumetto è il frutto di una decina di anni di 
+                        pensiero: la lista dei debiti è quindi lunga. Ho condiviso 
+                        molta parte del mio lavoro con i colleghi del Dipartimento di 
+                        Scienze della comunicazione e dello spettacolo dell'<orgName>Università 
+                        Cattolica</orgName>: potrei fare il taglia e incolla dei membri dal sito, 
+                        ma non sarebbe etico, per cui ringrazio soprattutto
+                        <persName>Alice Cati</persName>, 
+                        <persName>Maria Grazia Fanchi</persName>, 
+                        <persName>Massimo Locatelli</persName>, 
+                        <persName>Fausto Colombo</persName>, 
+                        <persName>Aldo Grasso</persName>, 
+                        <persName>Massimo Scaglioni</persName>, 
+                        <persName>Chiara Giaccardi</persName>, 
+                        <persName>Silvano Petrosino</persName>, 
+                        <persName>Armando Fumagalli</persName>, 
+                        <persName>Nicoletta Vittadini</persName>, 
+                        <persName>Piermarco Aroldi</persName>, 
+                        <persName>Adriano D'Aloia</persName>, 
+                        <persName>Claudio Bernardi</persName>, 
+                        <persName>Carla Bino</persName>, 
+                        <persName>Matteo Tarantino</persName>; 
+                        ho vari debiti con i “giovani” 
+                        <persName>Giogio Avezzù</persName>, 
+                        <persName>Giancarlo Grossi</persName> 
+                        e <persName>Simona Arilotta</persName>. <hi rend="br"/>
+                    </p>
+                    
+                    <p> Varie discussioni sono avvenute all'interno del gruppo degli 
+                        studiosi italiani di cinema; anche qui la lista sarebbe lunga 
+                        e mi limito a ricordare 
+                        <persName>Guglielmo Pescatore</persName>, 
+                        <persName>Giacomo Manzoli</persName>, 
+                        <pb n="6" xml:id="p6" />
+                        <persName>Roberto de Gaetano</persName>, 
+                        <persName>Enrico Menduni</persName>, 
+                        <persName>Vito Zagarrio</persName>, 
+                        <persName>Sandro Bernardi</persName>, 
+                        <persName>Leonardo Quaresima</persName>, 
+                        <persName>Valentina Re</persName>, 
+                        <persName>Francesco Pitassio</persName>, 
+                        <persName>Carmelo Marabello</persName>, 
+                        <persName>Nicola Dusi</persName>, 
+                        <persName>Peppino Ortoleva</persName>, 
+                        <persName>Vincenzo Trione</persName>. <hi rend="br"/>
+                    </p>
+                    
+                    <p> Lavorando fianco a fianco con alcuni eccellenti professionisti 
+                        della comunicazione (spesso anche docenti della nostra 
+                        università) all'interno dell'<ref n="website" target="http://almed.unicatt.it/">ALMED</ref>, ho avuto il privilegio di imparare 
+                        da loro varie cose di prima mano: penso per esempio a 
+                        <persName>Federica Olivares</persName>, 
+                        <persName>Paolo dalla Sega</persName>, 
+                        <persName>Dario Viganò</persName>, 
+                        <persName>Luca Borsoni</persName>, 
+                        <persName>Antonello Carlucci</persName>, 
+                        <persName>Layla Pavone</persName>, 
+                        <persName>Davide Dattoli</persName>, 
+                        <persName>Lorenzo Maternini</persName>, 
+                        <persName>Federico di Chio</persName>, 
+                        <persName>Daniele Chieffi</persName>, 
+                        <persName>Alberto Negri</persName>, 
+                        <persName>Simonetta Saracino</persName>, 
+                        <persName>Stefano Lucchini</persName> 
+                        e tutti i docenti del Master in Media Relation. <hi rend="br"/>
+                    </p>
+                    
+                    <p> Sono grato a docenti di altre università italiane o straniere
+                        per le occasioni di confronto e gli inviti a convegni o a 
+                        partecipare a pubblicazioni: penso in particolare a 
+                        <persName>Antonio Somaini</persName>, 
+                        <persName>Andrea Pinotti</persName>, 
+                        <persName>Mauro Carbone</persName>, 
+                        <persName>André Gaudreault</persName>, 
+                        <persName>Agnes Petho</persName>, 
+                        <persName>Massimo Leone</persName>, 
+                        <persName>Maurizio Guerri</persName>, 
+                        <persName>Pietro Montani</persName>, 
+                        <persName>Tiziana Migliore</persName>, 
+                        <persName>Paolo Fabbri</persName>, 
+                        <persName>Ninni Pennisi</persName>, 
+                        <persName>Cisco Paris</persName>i 
+                        e <persName>Dario Tomasello</persName>. <hi rend="br"/>
+                    </p>
+                    
+                    <p> La riflessione su condizione postmediale e istituzione 
+                        scolastica nasce da alcune sollecitazioni di amici e colleghi 
+                        più esperti di me nel settore della formazione: ricordo 
+                        <persName>Luciano Pazzaglia</persName>, 
+                        <persName>Cosimo Laneve</persName>, 
+                        <persName>Maddalena Colombo</persName> 
+                        e tutto il gruppo dell'
+                        <name>
+                            <choice>
+                                <abbr>OPPI</abbr>
+                                <expan>Organizzazione per la Preparazione Professionale degli Insegnanti</expan>
+                            </choice>
+                        </name>. <hi rend="br"/>
+                    </p>
+                    
+                    <p> Un grazie sempre particolare a <persName>Francesco Casetti</persName>, più vicino 
+                        adesso di quanto lo fosse da vicino, che ha letto il 
+                        manoscritto e formulato alcune osservazioni di cui ho cercato 
+                        di tener conto. <hi rend="br"/>
+                    </p>
+                    
+                    <p><foreign xml:lang="en" rend="italic">One more thing</foreign>. Questo libro è per te, <persName>Valeria</persName>.</p>
+                </body>
+            </text>
+            <text xml:id="strumenti"> <!--Xinclude-->
+                <body>
+                    <pb n="88" xml:id="p88" />
+                    <head n="1"><hi rend="br"/>Strumenti e riferimenti</head> <!--intestazione di primo livello-->
+                    <div type="front"> <!--premessa-->
+                        <p> In questo libro ho scelto di ridurre al minimo i riferimenti
+                            bibliografici in modo da rendere il discorso il più fluido 
+                            possibile senza costringermi (e costringere il lettore!) a 
+                            un sistematico confronto con la letteratura esistente sui vari 
+                            argomenti che ho toccato. Tuttavia comprendo che qualcuno 
+                            potrebbe sentirsi defraudato della possibilità di riprendere 
+                            e approfondire determinati argomenti di proprio interesse; 
+                            ho quindi pensato di fornire in questo capitolo finale 
+                            alcune indicazioni bibliografiche essenziali e aggiornate.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Ma c'è di più. Questo volumetto costituisce il punto di 
+                            confluenza di una serie di riflessioni che ho sviluppato negli 
+                            ultimi dieci anni circa in un gran numero di convegni, lezioni, 
+                            articoli. Nel rielaborare questi scritti ho dovuto eliminare 
+                            molti riferimenti e approfondimenti, necessari per un pubblico 
+                            accademico ma ingombranti per un pubblico più ampio. Il far 
+                            riferimento a tali scritti avrà quindi una duplice finalità: 
+                            dichiarare le fonti di alcune sezioni di questo volume, e 
+                            rimandare a sedi in cui il lettore potrà trovare citazioni 
+                            bibliografiche più ampie e complete.
+                        </p>
+                    </div>
+                    <div ref="parte1"> <!--lo collego alla parte cui fa riferimento-->
+                        <head n="2">1. Introduzione. 1984</head> <!--intestazione di secondo livello-->
+                        <p> L'espressione <term rend="PRE quot POST quot">condizione (o era) postmediale</term> 
+                            ha una duplice origine. Da un lato essa deriva dal saggio della studiosa di arte e studi visuali 
+                            <bibl xml:id="krauss_2000">
+                                <author>R. Krauss</author>, 
+                                <title level="m">L'arte nell'era postmediale. Marcel Broodthaers, ad esempio</title> 
+                                <date when="2000">(2000)</date>, 
+                                <publisher>Postmedia Books</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2005">2005</date>
+                            </bibl>. 
+                            La discussione della <persName ref="krauss_2000">Krauss</persName> è interna al dibattito 
+                            proprio della teoria dell'arte e degli studi visuali circa 
+                            la specificità mediale e la sua relazione con la definizione 
+                            dello statuto delle differenti arti. Lungo questa direzione 
+                            hanno lavorato tra gli altri 
+                            <bibl xml:id="weibel_2006">
+                                <editor>P. Weibel (ed.)</editor>, 
+                                <title level="a" xml:lang="en">Postmedia Condition</title>, 
+                                <series>catalogo</series>, 
+                                <publisher>Centro Cultural Conde Duque</publisher><pb n="89" xml:id="p89" />, 
+                                <pubPlace>Madrid</pubPlace> 
+                                <date when="2006">2006</date>;
+                            </bibl> 
+                            <bibl xml:id="quaranta_2010">
+                                <author>D. Quaranta</author>, 
+                                <title level="m">Media, New Media, Postmedia</title>, 
+                                <publisher>Postmedia Books</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2010">2010</date>;
+                            </bibl> 
+                            <bibl xml:id="derosa_2013">
+                                <author>M. de Rosa</author>, 
+                                <title level="m">Cinema e postmedia. I territori del filmico nel contemporaneo</title>, 
+                                <publisher>Postmedia Books</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2013">2013</date>;</bibl> 
+                            e soprattutto (per quanto riguarda le tematiche qui affrontate) 
+                            <bibl xml:id="casetti_2011">
+                                <author>F. Casetti</author>, 
+                                <title level="a">I media nella condizione postmediale</title>, 
+                                in <editor>R. Diodato</editor> - <editor>A. Somaini</editor> (eds.), 
+                                <title level="m">Estetica dei media e della comunicazione</title>, 
+                                <publisher>Il Mulino</publisher>, 
+                                <pubPlace>Bologna</pubPlace> 
+                                <date when="2011">2011</date>, 
+                                <biblScope>pp. 327-346</biblScope>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Nell'ambito della filosofia politica dei media, 
+                            aveva parlato di <term rend="PRE quot POST quot">ère post-media</term> 
+                            anche il filosofo francese <persName ref="guattari">Felix Guattari</persName> in una serie di brevi 
+                            interventi prodotti a partire dalla metà degli anni Ottanta; 
+                            Guattari guardava positivamente alla fine del ruolo egemonico dei 
+                            mass media a favore di nuovi laboratori di pensiero e di azione sviluppati 
+                            dalle minoranze sociali e politiche: cfr. in particolare 
+                            <bibl xml:id="guattari_1986">
+                                <author xml:id="guattari">F. Guattari</author>, 
+                                <title level="a">L'impasse post-moderne</title>, 
+                                in <title level="j" rend="PRE laquo POST raquo" xml:lang="fr">La Quinzaine littéraire</title>, 
+                                <biblScope unit="vol">456</biblScope>, 
+                                <date when="1986-02" xml:lang="fr">Février 1986</date>, 
+                                <biblScope unit="pp">pp. 20-21</biblScope>;
+                            </bibl> 
+                            <bibl xml:id="guattari_1996">
+                                <title level="a" xml:lang="fr">Vers une ère post-média</title> 
+                                <date when="1990">(1990)</date>, 
+                                in <title level="j" rend="PRE laquo POST raquo" xml:lang="fr">Chimères</title>, 
+                                <biblScope unit="vol">28</biblScope> 
+                                <date when="1996">(1996)</date>, 
+                                <biblScope unit="pp">pp. 5-6</biblScope>.
+                            </bibl> 
+                            Le intuizioni di <persName ref="guattari">Guattari</persName> sono state riprese e sviluppate 
+                            da vari studiosi in ambito propriamente mediale: 
+                            si vedano in particolare 
+                            <bibl xml:id="fuller_2005">
+                                <author>M. Fuller</author>, 
+                                <title level="m" xml:lang="en">Media Ecologies. Materialist Energies in Art and Technoculture</title>, 
+                                <publisher>MIT Press</publisher>, 
+                                <pubPlace>Cambridge (MA)</pubPlace> 
+                                <date when="2005">2005</date>;
+                            </bibl> 
+                            <bibl xml:id="appritch_2013">
+                                <editor>C. Appritch</editor> - 
+                                <editor>J. Berry Slater</editor> - 
+                                <editor>A. Iles</editor> - 
+                                <editor>O. Lerone Schulz</editor> (eds.), 
+                                <title level="m" xml:lang="en">Provocative Alloys: a Post-Media Anthology</title>, 
+                                <publisher>Post-Media Lab</publisher> &amp; 
+                                <publisher>Mute Books</publisher>, 
+                                <pubPlace>Lünenburg</pubPlace> 
+                                <date when="2013">2013</date>;
+                            </bibl> 
+                            <bibl xml:id="petho_2012">
+                                <editor>Á. Pethö</editor> (ed.), 
+                                <title level="m" xml:lang="en">Film in the Post Media Age</title>, 
+                                <publisher>Cambridge Scholar</publisher>, 
+                                <pubPlace>Newcastle upon Tyne</pubPlace> 
+                                <date when="2012">2012</date>;
+                            </bibl> 
+                            <bibl xml:id="appritch_postm">
+                                <author>C. Appritch</author>, 
+                                <title level="a">Post-Media</title>, 
+                                in <title level="s">Critical Keywords for the Digital Humanities</title>, 
+                                <ref n="website" target="http://cdckeywords.leuphana.com/post_media">http://cdckeywords.leuphana.com/post_media</ref>
+                            </bibl></p>
+                    </div>
+                    <div ref="parte2">
+                        <head n="2">2. Nascita, ascesa e declino di un impero</head> <!--intestazione di secondo livello-->
+                        <p> La storia dei media (compreso il passaggio alle fasi più recenti) 
+                            ha costituito oggetto di un numero di lavori sterminato. Mi limito a ricordare 
+                            <bibl xml:id="colombo_2001">
+                                <editor>F. Colombo</editor> - 
+                                <editor>R. Eugeni</editor> (eds.), 
+                                <title level="m">Il prodotto culturale. Teorie, tecniche di analisi, <term xml:lang="en">case histories</term></title>, 
+                                <publisher>Carocci</publisher>, 
+                                <pubPlace>Roma</pubPlace> 
+                                <date when="2001">2001</date>;
+                            </bibl> 
+                            <bibl xml:id="briggs-burke">
+                                <author>A. Briggs</author> - <author>P. Burke</author>, 
+                                <title level="m">Storia sociale dei media. Da Gutenberg a Internet</title> 
+                                <date when="2000">(2000)</date>, 
+                                <publisher>il Mulino</publisher>, 
+                                <pubPlace>Bologna</pubPlace> 
+                                <date when="2002">2002</date>;
+                            </bibl> 
+                            <bibl xml:id="artieri_2004">
+                                <author>G. Boccia Artieri</author>, 
+                                <title>I media-mondo. Forme e linguaggi dell'esperienza contemporanea</title>, 
+                                <publisher>Meltemi</publisher>, 
+                                <pubPlace>Roma</pubPlace> 
+                                <date when="2004">2004</date>;
+                            </bibl> 
+                            <bibl xml:id="gorman_mclean">
+                                <author>L. Gorman</author> - <author>D. McLean</author>, 
+                                <title level="m">Media e società nel mondo moderno. Una introduzione storica</title> 
+                                <date when="2003">(2003)</date>, 
+                                <publisher>il Mulino</publisher>, 
+                                <pubPlace>Bologna</pubPlace> 
+                                <date when="2005">2005</date>;
+                            </bibl> 
+                            <bibl xml:id="ortoleva_2009">
+                                <author>P. Ortoleva</author>, 
+                                <title level="m">Il secolo dei media</title>, 
+                                <publisher>il Saggiatore</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date>2009</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <pb n="90" xml:id="p90" />
+                        <p>Il rapporto tra i media e l'ambiente urbano viene accuratamente ricostruito da 
+                            <bibl xml:id="trione_2014">
+                                <author>V. Trione</author>, 
+                                <title level="m">Effetto città. Arte, cinema, modernità</title>, 
+                                <publisher>Bompiani</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2014">2014</date>.
+                            </bibl> 
+                            <rs ref="sassoon_2008">
+                                Un'opera ambiziosa intenzionata a raccogliere in un panorama unitario tutti gli strumenti 
+                                dell'industria culturale (e che si ferma in effetti alle soglie della postmedialità) è</rs>
+                               <bibl xml:id="sassoon_2008">
+                                   <author>D. Sassoon</author>, 
+                                   <title level="m">La cultura degli europei. Dal 1800 a oggi</title> 
+                                   <date when="2006">(2006)</date>, 
+                                   <publisher>Rizzoli</publisher>, 
+                                   <pubPlace>Milano</pubPlace> 
+                                   <date when="2008">2008</date>.
+                               </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Tra le opere più influenti sui media digitali, ricordo: 
+                            <bibl xml:id="manovich_2002">
+                                <author>L. Manovich</author>, 
+                                <title level="m">Il linguaggio dei nuovi media</title> 
+                                <date when="2001">(2001)</date>, 
+                                <publisher>Olivares</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2002">2002</date>;
+                            </bibl> 
+                            <bibl xml:id="bolter_grusin">
+                                <author>J.D. Bolter</author> - 
+                                <author>R. Grusin</author>, 
+                                <title level="m">Remediation. Competizione e integrazione tra media vecchi e nuovi</title> 
+                                <date when="1999">(1999)</date>, 
+                                <publisher>Guerini e associati</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2003">2003</date>;
+                            </bibl> 
+                            <bibl xml:id="jenkins_2007">
+                                <author>H. Jenkins</author>, 
+                                <title level="m">Cultura convergente</title> 
+                                <date when="2006">(2006)</date>, 
+                                <publisher>Apogeo</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2007">2007</date>;
+                            </bibl> 
+                            <bibl xml:id="lievrouw_livingstone">
+                                <editor n="orig">L.A. Lievrouw</editor> - 
+                                <editor n="orig">S. Livingstone</editor> (eds.), 
+                                <title level="m">Capire i new media. Culture, comunicazione, innovazione tecnologica e istituzioni sociali</title> 
+                                <date when="2006">(2006)</date>, 
+                                edizione italiana a cura di 
+                                <editor n="ed_ita">G. Boccia Artieri</editor>, 
+                                <editor n="ed_ita">L. Paccagnella</editor>, 
+                                <editor n="ed_ita">F. Pasquali</editor>, 
+                                <publisher>Hoepli</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2008">2008</date>;
+                            </bibl> 
+                            <bibl xml:id="montani_2010">
+                                <author>P. Montani</author>, 
+                                <title level="m">L'immaginazione intermediale. Perlustrare, rifigurare, testimoniare il mondo visibile</title>, 
+                                <publisher>Laterza</publisher>, 
+                                <pubPlace>Roma-Bari</pubPlace> 
+                                <date when="2010">2010</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Il dibattito sui dispositivi mediali (in particolare sul cinema) 
+                            e la loro de-individuazione è in questo momento molto vivace. 
+                            Mi limito a rinviare a 
+                            <bibl xml:id="casetti_2015">
+                                <author>F. Casetti</author>, 
+                                <title level="m">La galassia <name xml:lang="fr">Lumière</name>. Sette parole chiave per il cinema che viene</title>, 
+                                <publisher>Bompiani</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2015">2015</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> La prospettiva <emph rend="PRE quot POST quot">ecologica</emph> che studia i media in quanto 
+                            <emph rend="PRE quot POST quot">ambienti</emph> è stata recentemente ricostruita con attenzione da 
+                            <bibl xml:id="granata_2015">
+                                <author>P. Granata</author>, 
+                                <title level="m">Ecologia dei media. Protagonisti, scuole, concetti chiave</title>, 
+                                <publisher>FrancoAngeli</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2015">2015</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Sulla <foreign xml:lang="en" rend="italic">gamification</foreign> e i processi connessi, cito e utilizzo nel volume 
+                            <bibl xml:id="ortoleva_2012">
+                                <author>P. Ortoleva</author>, 
+                                <title level="m">Dal sesso al gioco. Un'ossessione per il XXI secolo?</title>, 
+                                <publisher>Espress</publisher>, 
+                                <pubPlace>Torino</pubPlace> 
+                                <date when="2012">2012</date>
+                                (la citazione da G.H. Mead è a <biblScope unit="pp">p. 119</biblScope>).
+                            </bibl> 
+                            Un inquadramento completo del fenomeno in 
+                            <bibl xml:id="salvador_2015">
+                                <author>M. Salvador</author>, 
+                                <title level="m">In gioco e fuori gioco. Il ludico nella cultura e nei media tradizionali</title>, 
+                                <publisher>Mimesis</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2015">2015</date>.
+                            </bibl> 
+                            Per un approccio differente ma complementare si veda 
+                            <bibl xml:id="menduni_2013">
+                                <author>E. Menduni</author>, 
+                                <title level="m" xml:lang="en">Entertainment</title>, 
+                                <publisher>il Mulino</publisher>, 
+                                <pubPlace>Bologna</pubPlace> 
+                                <date when="2013">2013</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                    </div>
+                    <div ref="parte3">
+                        <head n="2">3. L'epos della naturalizzazione</head> <!--intestazione di secondo livello-->
+                        
+                        <p> Ho affrontato il tema dell'epos della naturalizzazione nel mio 
+                            <bibl xml:id="eugeni_pandora_2012">
+                                <title level="a">Il fascino di Pandora. Appunti su media, tecnologia e rappresentazione</title>, 
+                                in <editor>S. Biancu</editor> - <editor>A. Cascetta</editor> - <editor>S. Marassi</editor> (eds.), 
+                                <title level="m">L'uomo e la rappresentazione. Fondazioni antropologiche della rappresentazione
+                                <pb n="91" xml:id="p91" /> mediale e dal vivo</title>, 
+                                <publisher>Vita e Pensiero</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2012">2012</date>, 
+                                <biblScope unit="pp">pp. 131-139.</biblScope>
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> La questione della negoziazione dei rapporti tra la sfera naturale 
+                            e quella culturale - artificiale - tecnologica è oggi al centro di numerosissimi dibattiti; 
+                            mi limito a richiamare in ambito antropologico 
+                            <bibl xml:id="latour_2009">
+                                <author>B. Latour</author>, 
+                                <title level="m">Non siamo mai stati moderni</title> 
+                                <date when="1991">(1991)</date>, 
+                                <publisher>Eleuthèra</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2009">2009</date>
+                            </bibl> e 
+                            <bibl xml:id="descola_2005">
+                                <author>P. Descola</author>, 
+                                <title level="m" xml:lang="fr">Par-delà nature et culture</title>, 
+                                <publisher>Gallimard</publisher>, 
+                                <pubPlace>Paris</pubPlace> 
+                                <date when="2005">2005</date>;
+                            </bibl> 
+                            in quello estetico 
+                            <bibl xml:id="montani_2007">
+                                <author>P. Montani</author>, 
+                                <title level="m">Bioestetica. Senso comune, tecnica e arte nell'età della globalizzazione</title>, 
+                                <publisher>Carocci</publisher>, 
+                                <pubPlace>Roma</pubPlace> 
+                                <date when="2007">2007</date>;
+                            </bibl> 
+                            in quello semiotico 
+                            <bibl xml:id="marrone_2011">
+                                <author>Gianfranco Marrone</author>, 
+                                <title level="m">Addio alla natura</title>, 
+                                <publisher>Einaudi</publisher>, 
+                                <pubPlace>Torino</pubPlace> 
+                                <date when="2011">2011</date>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Circa le questioni relative alle forme epiche e alla loro 
+                            presenza nel mondo contemporaneo, rimando (anche per la necessaria bibliografia) al mio 
+                            <bibl xml:id="eugeni_epos_2012">
+                                <title level="a">Il destino dell'epos. Racconto e forme epiche nell'era della narrazione transmediale</title>, 
+                                in <editor>F. Zecca</editor> (ed.), 
+                                <title level="m">Il cinema della convergenza. Industria, racconto, pubblico</title>, 
+                                <publisher>Mimesis</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2012">2012</date>, 
+                                <biblScope unit="pp">pp. 151-164</biblScope>.
+                            </bibl>
+                        </p>
+                    </div>
+                    <div ref="parte4">
+                        <head n="2">4. L'epos della soggettivazione</head> <!--intestazione di secondo livello-->
+                        
+                        <p> Sui <term xml:lang="en" rend="italic">Google Glass</term> ho scritto in 
+                            <bibl xml:id="eugeni_googleglass">
+                                <title level="a">L'autobiografia automatica. Google Glass e condivisione dell'esperienza soggettiva</title>, 
+                                in <editor>A. Cati</editor> <editor>G. Franchin</editor> (eds.), 
+                                <title level="m">L'impulso autoetnografico. Radicamento e riflessività nell'era intermediale</title>, 
+                                numero monografico di 
+                                <title level="s" rend="PRE laquo POST raquo">Comunicazioni Sociali</title>, 
+                                <biblScope unit="vol">3</biblScope> 
+                                <date when="2012">(2012)</date>, 
+                                <biblScope unit="pp">pp. 417-425</biblScope>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Sullo stesso oggetto (da un punto di vista differente 
+                            ma del tutto complementare) vedi anche 
+                            <bibl xml:id="montani_2014">
+                                <author>P. Montani</author>, 
+                                <title level="m">Tecnologie della sensibilità. Estetica e immaginazione interattiva</title>, 
+                                <publisher>Raffaello Cortina</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2014">2014</date>, 
+                                in particolare 
+                                <biblScope unit="pp">pp. 65-96</biblScope>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Sul <term xml:lang="en" rend="italic">first person shot</term> rimando ai miei 
+                            <bibl xml:id="eugeni_prima_pers">
+                                <title level="a">Prima persona. Le trasformazioni dell'inquadratura soggettiva tra cinema, media e videogioco</title>, 
+                                in <editor>E. Mandelli</editor> - <editor>V. Re</editor> (eds.), 
+                                <title level="m">Fate il vostro gioco. Cinema e videogame nella rete: pratiche di contaminazione</title>, 
+                                <publisher>Terraferma</publisher>, 
+                                <pubPlace>Crocetta del Montello (TV)</pubPlace> 
+                                <date when="2011">2011</date>, 
+                                <biblScope unit="pp">pp. 16-25</biblScope>,
+                            </bibl> 
+                            successivamente sviluppato in 
+                            <bibl xml:id="eugeni_premiere_personne">
+                                <title level="a" xml:lang="fr">Le plan à la première personne. Technologie et subjectivité dans le paysage postcinematographique</title>, 
+                                in <editor>A. Gaidreault</editor> - <editor>M. Lefebvre</editor> (eds.), 
+                                <title level="m">Techniques et technologies di cinéma. Modalités, usages et pratiques des 
+                                dispositifs cinématographiques à travers l'histoire</title>, 
+                                <publisher>Presses Universitaires de Rennes</publisher>, 
+                                <pubPlace>Rennes</pubPlace> 
+                                <date when="2015">2015</date>, 
+                                <biblScope unit="pp">pp. 195-208</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <pb n="92" xml:id="p92" />
+                        <p> Sulle concezioni neuro-fenomenologiche contemporanee 
+                            e le loro applicazioni al cinema si vedano almeno 
+                            <bibl xml:id="gallagher_zahavi">
+                                <author>S. Gallagher</author> - 
+                                <author>D. Zahavi</author>, 
+                                <title level="m">La mente fenomenologica</title> 
+                                <date when="2008">(2008)</date>, 
+                                <publisher>Raffaello Cortina</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2009">2009</date>;
+                            </bibl> 
+                            <bibl xml:id="elsaesser_hagener">
+                                <author>T. Elsaesser</author> - 
+                                <author>M. Hagener,</author> 
+                                <title level="m">Teoria del cinema. Un'introduzione</title> 
+                                <date when="2007">(2007)</date>, 
+                                <publisher>Einaudi</publisher>, 
+                                <pubPlace>Torino</pubPlace> 
+                                <date when="2009">2009</date>;
+                            </bibl> 
+                            <bibl xml:id="eugeni_daloia">
+                                <editor ref="RE">R. Eugeni</editor> - 
+                                <editor>A. D'Aloia</editor> (eds.), 
+                                <title level="a" xml:lang="en">Neurofilmology. Film Studies and the Challenge of Neuroscience</title>, 
+                                numero 
+                                <!--correzione-->
+                                    <choice>
+                                        <corr xml:id="correction" resp="#DG">speciale</corr>
+                                        <sic>spciale</sic>
+                                    </choice>
+                                di 
+                                <title level="j" rend="PRE laquo POST raquo">Cinéma &amp; Cie</title>, 
+                                <biblScope unit="num">22-23</biblScope> 
+                                <date when="2014">(2014)</date>
+                            </bibl>.
+                        </p>
+                    </div>
+                    <div ref="parte5">
+                        <head n="2">5. L'epos della socializzazione</head> <!--intestazione di secondo livello-->
+                        
+                        <p> Di <name xml:lang="en">The Sims</name> mi sono occupato in 
+                            <bibl xml:id="eugeni_bellavita">
+                                <author>A. Bellavita</author> - 
+                                <author>R. Eugeni</author>, 
+                                <title level="a">Mondi negoziabili. Il reworking del racconto nell'era del design narrativo dinamico</title>, 
+                                in <editor>N. Dusi</editor> - 
+                                <editor>L. Spaziante</editor> (eds.), 
+                                <title level="m">Remix-Remake, pratiche di replicabilità</title>, 
+                                <publisher>Meltemi</publisher>, 
+                                <pubPlace>Roma</pubPlace> 
+                                <date when="2006">2006</date>, 
+                                <biblScope unit="pp">pp. 157-173</biblScope>.
+                            </bibl> 
+                            Altri lavori importanti su <name type="other" ref="thesims"/> sono: 
+                            <bibl xml:id="bittanti_flanagan">
+                                <author>M. Bittanti</author> - 
+                                <author>M. Flanagan</author>, 
+                                <title level="m">The Sims. Similitudini simboli e simulacri</title>, 
+                                <publisher>Unicopli</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2003">2003</date>
+                            </bibl> e 
+                            <bibl xml:id="gee_hayes">
+                                <author>J.P. Gee</author> - 
+                                <author>E.R. Hayes</author>, 
+                                <title level="m" xml:lang="en">Women and Gamig. The Sims and 21st Century Learning</title>, 
+                                <publisher>Palgrave-MacMillan</publisher>, 
+                                <pubPlace>Houndmills - New York</pubPlace> 
+                                <date when="2010">2010</date>.
+                            </bibl>
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Su <name type="other" ref="lost"/> esiste una bibliografia ampia, si veda almeno 
+                            <bibl xml:id="sepinwall_2012">
+                                <author>A. Sepinwall</author>, 
+                                <title level="a"><emph rend="PRE laquo POST raquo">Vuoi sapere un segreto?</emph>. La tempesta perfetta di Lost</title>, 
+                                in Id., 
+                                <title level="m">Telerivoluzione</title> 
+                                <date when="2012">(2012)</date>, 
+                                <publisher>Rizzoli</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2014">2014</date>, 
+                                <biblScope unit="pp">pp. 207-250</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Ho già toccato la questione dell'epos della socializzazione in alcuni articoli, in particolare 
+                            <bibl xml:id="eugeni_in_petho">
+                                <title level="a" xml:lang="en">Feeling Together: Cinema and Practices of Sociability in the Post Media Condition</title>, 
+                                in <ref target="#petho_2012">
+                                    Á. Pethö (ed.), 
+                                    Film in the Post-Media Age, 
+                                    cit.</ref>, 
+                                <biblScope unit="pp">pp. 293-308</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Sul videogioco e i dibattiti che vi si accompagnano ho lavorato in 
+                            <bibl xml:id="eugeni_art_2009">
+                                <title level="a">L'immagine giocata. Il dibattito sul videogame e la questione del visuale</title>, 
+                                in <title level="m">Visuale</title>, 
+                                numero monografico di 
+                                <title level="j" rend="PRE laquo POST raquo">Fata Morgana</title>, 
+                                <biblScope unit="vol">8</biblScope> 
+                                <date when="2009">(2009)</date>, 
+                                <biblScope unit="pp">pp. 159-172</biblScope>;
+                            </bibl> 
+                            <bibl xml:id="eugeni_art_2010">
+                                <title level="a">Il gioco delle tracce. Inscrizione e trascrizione dell'esperienza nei media contemporanei</title>, 
+                                in <editor>F. Casetti</editor> (ed.), 
+                                <title level="m">Lasciare tracce, essere tracciati</title>, 
+                                numero monografico di 
+                                <title level="j" rend="PRE laquo POST raquo">Comunicazioni Sociali</title>, 
+                                <biblScope unit="vol">1</biblScope> 
+                                <date when="2010">(2010)</date>, 
+                                <biblScope unit="pp">pp. 106-115</biblScope>;
+                            </bibl> 
+                            <bibl xml:id="eugeni_locatelli">
+                                <author>R. Eugeni</author> - 
+                                <author>M. Locatelli</author>, 
+                                <title level="a">Gaming. Profilo di un'esperienza mediale tra ludologia e filmologia</title>, 
+                                in <editor>P. Coppock</editor> - 
+                                <editor>F. Giordano</editor> - 
+                                <editor>M. Rosi</editor> (eds.), 
+                                <title level="m">Filming the Game / Playing the Film. L'immagine video ludica: narrazione e crossmedialità</title>, 
+                                in <title level="j" rend="PRE laquo POST raquo">Bianco e Nero</title>, 
+                                <biblScope unit="vol">564</biblScope> 
+                                <date when="2010">(2010)</date>, 
+                                <biblScope unit="pp">pp. 7- 83</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Si veda anche, per orientarsi nella bibliografia in materia, 
+                            <bibl xml:id="salvador_2013">
+                                <author>M. Salvador</author>, 
+                                <title level="m">Il videogioco</title>, 
+                                <publisher>La Scuola</publisher>, 
+                                <pubPlace>Brescia</pubPlace> 
+                                <date when="2013">2013</date>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <pb n="93" xml:id="p93" />
+                        <p> Circa i social media segnalo solo (per la bibliografia aggiornata 
+                            e per una sintonia di posizioni che emergerà ancora meglio nelle conclusioni) 
+                            <bibl xml:id="colombo_2013">
+                                <author>F. Colombo</author>, 
+                                <title level="m">Il potere socievole. Storia e critica dei social media</title>, 
+                                <publisher>Bruno Mondadori</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2013">2013</date>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Sulla questione della scuola e delle sue funzioni 
+                            nella condizione postmediale rimando ai miei due lavori: 
+                            <bibl xml:id="eugeni_art_2014">
+                                <title level="a">La sfida educativa nella condizione postmediale</title> 
+                                in Aa.Vv. <!--Autori Vari-->, 
+                                <title level="m">Educare nell'era digitale, 
+                                  <num value="52">LII</num> Convegno di Scholé</title>, 
+                                <publisher>La Scuola</publisher>, 
+                                <pubPlace>Brescia</pubPlace> 
+                                <date when="2014">2014</date>, 
+                                <biblScope unit="pp">pp. 43-57</biblScope>;
+                            </bibl> 
+                            <bibl xml:id="eugeni_in_laneve">
+                                <title level="a">Scrivere e apprendere nella condizione postmediale</title>, 
+                                in <editor>C. Laneve</editor> (ed.), 
+                                <title level="m">La scrittura nell'era digitale</title>, 
+                                numero monografico di 
+                                <title level="j" rend="PRE laquo POST raquo">Quaderni di didattica della scrittura</title>, 
+                                <biblScope unit="vol">21-22</biblScope> 
+                                <date when="2014">(2014)</date>, 
+                                <biblScope unit="pp">pp. 55-67</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Tra i testi rilevanti in questo settore segnalo 
+                            <bibl xml:id="fabris_2012">
+                                <author>A. Fabris</author>, 
+                                <title level="m">Etica delle nuove tecnologie</title>, 
+                                <publisher>La Scuola</publisher>, 
+                                <pubPlace>Brescia</pubPlace> 
+                                <date when="2012">2012</date>;
+                            </bibl> 
+                            <bibl xml:id="reale_2013">
+                                <author>G. Reale</author>, 
+                                <title level="m">Salvare la scuola nell'era digitale</title>, 
+                                <publisher>La Scuola</publisher>, 
+                                <pubPlace>Brescia</pubPlace> 
+                                <date when="2013">2013</date>;
+                            </bibl> 
+                            <bibl xml:id="rivoltella_2015">
+                                <author>P.C. Rivoltella</author>, 
+                                <title level="m">Le virtù del digitale. Per un'etica dei media</title>, 
+                                <publisher>Morcelliana</publisher>, 
+                                <pubPlace>Brescia</pubPlace> 
+                                <date when="2015">2015</date>
+                            </bibl>.
+                        </p>
+                    </div>
+                    <div ref="parte6">
+                        <head n="2">6. Conclusioni. La condizione amoderna</head> <!--intestazione di secondo livello-->
+                        
+                        <p> Ho iniziato ad abbozzare una riflessione sulla a-modernità in 
+                            <bibl xml:id="eugeni_kubrick_2014">
+                                <title level="m">Stanley Kubrick</title>, 
+                                nuova edizione aggiornata, 
+                                <publisher>Mursia</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2014">2014</date>
+                            </bibl>, e in 
+                            <bibl xml:id="eugeni_in_falzone">
+                                <title level="a">Per una biopolitica a-moderna. Il pensiero del potere in Stanley Kubrick – e oltre</title>, 
+                                in <editor>A. Falzone</editor> - 
+                                <editor>S. Nucera</editor> - 
+                                <editor>F. Parisi </editor>(eds.), 
+                                <title level="m">Le ragioni della natura. La sfida naturalistica delle scienze della vita</title>, 
+                                <publisher>Corisco</publisher>, 
+                                <pubPlace>Roma-Messina</pubPlace> 
+                                <date when="2014">2014</date>, 
+                                <biblScope unit="pp">pp. 299-308</biblScope>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        
+                        <p> Tra le varie letture critiche del presente segnalo in particolare 
+                            <bibl>
+                                <ref target="#colombo_2013">F. Colombo, Il potere socievole, cit.</ref>;
+                            </bibl> 
+                            <bibl xml:id="magatti_2014">
+                                <author>M. Magatti</author> - 
+                                <author>C. Giaccardi</author>, 
+                                <title level="m">Generativi di tutto il mondo, unitevi! Manifesto per la società dei liberi</title>, 
+                                <publisher>Feltrinelli</publisher>, 
+                                <pubPlace>Milano</pubPlace> 
+                                <date when="2014">2014</date>;
+                            </bibl> 
+                            <bibl>
+                                <author>S. Petrosino</author>, 
+                                <title level="m">Il magnifico segno. Comunicazione, esperienza, narrazione</title>, 
+                                <publisher>San Paolo</publisher>, 
+                                <publisher>Milano </publisher>
+                                <date when="2015">2015</date>
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                    </div>
+                </body>
+            </text>
+            <text xml:id="retro"> <!--Xinclude-->    
+                <body>
+                    <head n="1"><hi rend="br"/>Retro</head> <!--intestazione di primo livello-->
+                    <div xml:id="authorDesc">
+                        <p> <ref n="inser_text" target="RE"/>
+                            Tra i suoi lavori più recenti: 
+                            <bibl> 
+                                <ref target="#eugeni_kubrick_2014"/>
+                                    <title level="m">Invito al cinema di Stanley Kubrick </title>
+                                    (<publisher>Mursia</publisher>, <date when="2014">2014</date>);
+                            </bibl>
+                            <bibl xml:id="eugeni_semiotica">
+                                <title level="m">Semiotica dei media. Le forme dell'esperienza</title>                            
+                                (<publisher>Carocci</publisher>, <date when="2010">2010</date>)
+                            </bibl>.
+                            <hi rend="br"/>
+                        </p>
+                        <p> Visita il 
+                            <ref n="website" target="https://ruggeroeugeni.com">sito web</ref> di Ruggero Eugeni.
+                            <hi rend="br"/>
+                        </p>
+                    </div>
+                    <div xml:id="bookDesc">
+                        <p> <hi rend="hr"/> <!--riga orizzontale-->
+                            <hi rend="br"/>
+                            Dopo l'età postmoderna siamo entrati nell'età postmediale? La domanda presuppone che i media siano morti:
+                            ed è esattamente ciò che questo saggio sostiene. I dispositivi otto e novecenteschi che siamo ancora soliti chiamare
+                            <term rend="PRE quot POST quot">media</term> si sono in realtà dissolti negli apparati di commercio, controllo,
+                            combattimento, gioco, viaggio e relazione propri della società contemporanea.
+                            <hi rend="br"/>
+                        </p>
+                        <p> La vita nella condizione postmediale implica una paziente ricostruzione del senso delle nostre pratiche quotidiane,
+                            attraverso tre grandi narrazioni epiche: la naturalizzazione della tecnologia, la soggettivazione dell'esperienza e
+                            la socializzazione del legame relazionale. Seguirne le tracce consente all'autore di tracciare un quadro problematico
+                            e articolato, in cui ritorna la domanda: quali spazi restano (o si aprono) per una progettazione dell'umano?
+                            <hi rend="br"/>
+                        </p>
+                        <p><ref n="inser_text" target="isbn"/></p>
+                    </div>
+                </body>
+            </text>
+            <text xml:id="versione_digitale"> <!--Xinclude-->
+                <body>
+                    <head n="1"><hi rend="br"/>Versione digitale</head> <!--intestazione di primo livello-->
+                      <div>
+                          <head n="2">Realizzazione e obiettivi del progetto</head>
+                            <div xml:id="copyright"></div>
+                            <div xml:id="progetto"></div>
+                      </div>
+                      <div>
+                          <head n="2"><hi rend="br"/>La codifica</head>
+                            <div xml:id="codifica"></div>
+                      </div>
+                      <div>
+                          <p> <hi rend="hr"/> <!--riga orizzontale-->
+                              <hi rend="br"/>
+                              CONTATTI:<hi rend="br"/>
+                              Email: diletta.goglia@gmail.com <hi rend="br"/>
+                              Università degli Studi di Pisa <hi rend="br"/>
+                              Matricola: 530924 <hi rend="br"/>
+                         </p>
+                      </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+

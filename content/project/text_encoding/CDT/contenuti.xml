@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="contenuti.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+
+<!--STRUTTURA MINIMA NECESSARIA PER LA VALIDAZIONE-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p></p>
+        </body>
+    </text>
+</TEI>
+

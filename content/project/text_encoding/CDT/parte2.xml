@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="2" xml:id="parte2"> <!--Xinclude-->
+        <body> <!--Nascita, ascesa e declino dell'impero-->
+            <pb n="13" xml:id="p13"/>
+            <head n="1">Nascita, ascesa e declino dell'impero</head> <!--intestazione di primo livello-->
+            <div n="1" xml:id="p2_cap1"> <!--capitolo1-->
+                <head n="2">1. L'insetto e l'hacker</head> <!--intestazione di secondo livello-->
+                <p> Una mattina soleggiata, il <persName ref="dumas1846">Conte di Montecristo</persName> si reca presso una torre del telegrafo. 
+                    Il telegrafo ottico (inventato <date notBefore="1750">alla fine del Settecento</date> da 
+                    <persName xml:lang="fr">Claude Chappe</persName>) era costituito da 
+                    una serie di torri a portata di vista reciproca; ciascuna torre montava un sistema di bracci snodabili, 
+                    che potevano comporre con le loro figure le parole di una lingua elementare permettendo quindi 
+                    in buone condizioni di visibilità una trasmissione a distanza di notizie. A prima vista l'intento 
+                    del <persName ref="dumas1846">Conte</persName> è di pura curiosità, come egli stesso confessa: 
+                    <hi rend="br"/>
+                    <!--testo citato da fonte esterna-->
+                    <cit> <quote>Talvolta, in una bella giornata di sole, in fondo a un sentiero entro un terreno ho visto 
+                            svettare quei bracci neri e flessuosi simili alle zampe di un gigantesco coleottero, e mai 
+                            fu senza emozione […]. A quel punto mi sono sentito prendere da un bislacco desiderio di vedere 
+                            da vicino quella crisalide vivente […]. Ma vi dico che, non voglio capire nulla! Dal momento in 
+                            cui capirò qualcosa non vi sarà più alcun telegrafo, non vi sarà più altro che un segno […] 
+                            travestito in due parole greche: <foreign xml:lang="grc" rend="italic">tēle, gráphein</foreign>. <!--greco antico-->
+                            Quel che voglio serbare in tutta la loro purezza e in tutta la mia venerazione sono la bestia dalle zampe nere e l'orribile parola.
+                          </quote>
+                            <!--le note devono stare all'interno del div altrimenti crea problemi di allineamento degli elementi-->
+                            <note n="1" xml:id="p2_nota1" place="bottom">
+                                <bibl xml:id="dumas1846">
+                                    <author>A. Dumas</author>,
+                                    <title>Il Conte di Montecristo</title>
+                                    <date from="1845" to="1846">(1845-1846)</date>, 
+                                    <editor role="translator">trad. di Gaia Panfili</editor>,
+                                    <publisher>Feltrinelli</publisher>,
+                                    <pubPlace>Milano</pubPlace>
+                                    <date when="2012">2012</date>
+                                    <biblScope unit="pp">p. 689</biblScope>.                      
+                                </bibl>
+                            </note>
+                    </cit>
+                </p>
+            </div>
+            <div n="2" xml:id="p2_cap2"> <!--capitolo2-->
+                <pb n="15" xml:id="p15"/>
+                <head n="2">2. La fase di insorgenza: i media meccanici 
+                    (<date from="1850" to="1914">1850-1914</date>)</head> <!--intestazione di secondo livello-->
+                <p> Le condizioni tecnologiche, sociali ed economiche necessarie affinché nascesse un sistema dei 
+                    mezzi di comunicazione di massa in senso moderno si presentano con sufficiente chiarezza negli 
+                    <placeName ref="USA">USA</placeName> e in <placeName ref="EU">Europa</placeName> 
+                    verso <date when="1850">la metà dell'Ottocento</date>, all'interno della 
+                    <name type="event" ref="IIRI">seconda Rivoluzione industriale</name>. 
+                    Due fenomeni risultano salienti. Da un lato, molti oggetti precedentemente legati a una pratica produttiva 
+                    e di diffusione artigianale o semi-industriale (gli abiti, i cibi…) iniziano a essere prodotti industrialmente e serialmente; 
+                    dall'altra, la metropoli moderna diviene un nuovo scenario di vita e di esperienza. <hi rend="br"/>
+                </p>
+                <p> Le due trasformazioni sono connesse: nel <date when="1851">1851</date>, a <placeName ref="london">Londra</placeName>, 
+                    viene ospitata la <name type="event" ref="Iespuniv">prima Esposizione Universale</name>; 
+                    nel <date when="1852">1852</date>, a <placeName ref="paris">Parigi</placeName>, viene inaugurato 
+                    <foreign xml:lang="fr" rend="italic">Le Bon Marchè</foreign>, il primo grande magazzino. In questo contesto anche 
+                    la produzione culturale conosce una radicale industrializzazione, in un processo che coinvolge e connette 
+                    tecnologie di creazione e di esibizione, apparati e canali di produzione e distribuzione, 
+                    forme e contenuti dei prodotti, caratteristiche dei pubblici.</p>
+            </div>
+            <div n="3" xml:id="p2_cap3"> <!--capitolo3-->
+                <head n="2">3. La fase di consolidamento: i media elettronici 
+                    (<date from="1915" to="1980">1915-1980</date>)</head> <!--intestazione di secondo livello-->
+                <p> Se la prima fase, appena analizzata, rappresenta il momento di nascita del sistema mediale, 
+                    la fase successiva vede una maturazione e una stabilizzazione del mercato dei media. 
+                    Tale periodo si estende <date notAfter="1980">fino all'inizio degli anni Ottanta del secolo scorso</date>. 
+                    L'industria culturale conosce non solo uno sviluppo tecnologico e una forte espansione, 
+                    ma soprattutto una decisa centralizzazione e 
+                    razionalizzazione delle proprie attività produttive e distributive. Divengono in particolare determinanti 
+                    i criteri distributivi, ovvero i modi mediante i quali i prodotti culturali raggiungono i propri pubblici; 
+                    ed è possibile cogliere da questo punto di vista due ampie logiche che guidano lo sviluppo.<hi rend="br"/>
+                </p>
+                <p> La prima logica si ritrova nel campo cinematografico. L'industria del cinema esce gradatamente 
+                    da una situazione di <pb n="19" xml:id="p19"/> piccola e frammentata imprenditorialità e diviene 
+                    <date notBefore="1920" notAfter="1940">a partire dagli anni Venti e definitivamente negli 
+                    anni Trenta</date> una grande industria rigidamente organizzata (si pensi in particolare 
+                    allo <foreign xml:lang="en" rend="italic">studio system</foreign> di <name>Hollywood</name>, 
+                    con sette grandi aziende che monopolizzano il mercato). 
+                    Il film richiede di essere fruito in apposite sale: queste, nate già 
+                    <date notBefore="1900">all'inizio del Novecento</date>, 
+                    si diffondono e si arricchiscono in particolare <date notBefore="1920" notAfter="1930">nel corso degli anni Venti</date>. L'introduzione del 
+                    sonoro, alla fine di questo decennio, porta a compimento la configurazione della sala come luogo 
+                    rituale, pubblico e intimo al tempo stesso, di consumo di film. Questa prima logica di distribuzione 
+                    prevede quindi una dislocazione dei soggetti rispetto agli spazi di lavoro e di vita quotidiana.<hi rend="br"/>
+                </p>
+            </div>
+            <div n="4" xml:id="p2_cap4"> <!--capitolo4-->
+                <head n="2">4. La fase di vaporizzazione: i media digitali 
+                    (<date from="1984" to="2015">1984 - oggi</date>)</head> <!--intestazione di secondo livello-->
+                <p> Ed eccoci dunque tornati al <date when="1984">1984</date>, 
+                    <hi rend="PRE quot POST quot">l'anno in cui i media iniziano a finire</hi>. 
+                    La data è ovviamente convenzionale, e <pb n="22" xml:id="p22"/> serve a indicare l'esplosione di due serie di fenomeni che, 
+                    nel loro intreccio, hanno prodotto la fine dei media. <hi rend="br"/>
+                </p>
+                <p> La prima serie di fenomeni consiste nella moltiplicazione esponenziale dei canali di 
+                    erogazione dei prodotti mediali, e quindi delle occasioni di accesso ai media: si è parlato 
+                    non a caso di una fase di <term rend="PRE quot POST quot">saturazione</term> e di 
+                    <term rend="PRE quot POST quot">ridondanza</term>. Anzitutto, si moltiplica in alcuni 
+                    Paesi l'offerta di canali basati sul tradizionale segnale hertziano: è il caso dell'<placeName ref="IT">Italia</placeName>, 
+                    che conosce già dagli <date notBefore="1970">anni Settanta</date> la nascita di radio e di televisioni prima 
+                    <soCalled rend="PRE quot POST quot">libere</soCalled>, poi <soCalled rend="PRE quot POST quot">private</soCalled>. 
+                    <date notBefore="1980" notAfter="1990">Nel corso degli anni Ottanta</date> si aggiungono canali basati sul cavo coassiale 
+                    (già conosciuto e usato <date notBefore="1950">fin dagli anni Cinquanta</date> per portare la televisione in alcune zone 
+                    in cui il segnale hertziano non poteva giungere, ma che ora si lega a una offerta autonoma 
+                    di canali televisivi) e quelli legati al segnale via satellite.<hi rend="br"/>
+                </p>
+                <p> Al tempo stesso, nuovi apparecchi di fruizione liberano lo spettatore dai vincoli spaziali 
+                    e temporali delle precedenti situazioni mediali. Dal punto di vista <emph rend="italic">del tempo</emph> i videoregistratori, 
+                    che si diffondono <date notBefore="1985">dalla metà degli anni Ottanta</date>, permettono un uso del televisore libero dai 
+                    vincoli della programmazione palinsestuale – un tipo di consumo ulteriormente incentivato 
+                    prima dall'acquisto o affitto di videocassette o DVD, poi dal video <foreign rend="italic">on demand</foreign> e dai download 
+                    di rete. Dal punto di vista <emph rend="italic">spaziale</emph>, i media divengono ubiqui, sia per una moltiplicazione 
+                    di siti in cui essi possono essere collocati (si amplia il numero di televisori in casa; 
+                    gli schermi si <soCalled rend="PRE quot POST quot">rilocano</soCalled> in stazioni, piazze, aeroporti, mezzi di trasporto…), sia per 
+                    l'introduzione di numerosi apparecchi di consumo <soCalled rend="PRE quot POST quot">nomadico</soCalled> e 
+                    <soCalled rend="PRE quot POST quot">mobile</soCalled>: walkman, Ipod, Ipad, 
+                    e lo stesso telefono cellulare usato per ascoltare musica o vedere filmati, rendono il 
+                    consumo di media parte integrante della vita quotidiana.</p>
+            </div>
+            <div n="5" xml:id="p2_cap5"> <!--capitolo5-->
+                <head n="2">5. <foreign xml:lang="en">This is the end, my only friend</foreign></head> <!--intestazione di secondo livello-->
+                <p> Rileggendo l'ultimo paragrafo che ho scritto mi rendo conto che sembrerei smentire me stesso: 
+                    i media appaiono tutt'altro che morti o finiti, e anzi essi sembrano oggi trionfanti e 
+                    onnipresenti all'interno del tessuto sociale. In realtà, dietro questo panorama di 
+                    effervescenze e trionfi si nasconde una crisi radicale dei media otto-novecenteschi 
+                    <rs>– crisi che come ho detto inizialmente mi spinge a parlare di una <term rend="PRE quot POST quot">condizione postmediale</term> 
+                    e a sollecitare un profondo ripensamento delle categorie e dei concetti con i quali 
+                    pensiamo i fenomeni appena descritti.</rs> Possiamo renderci conto delle dimensioni di 
+                    questa crisi tornando ancora una volta a considerare cosa ne è dei <emph rend="italic">dispositivi</emph> mediali 
+                    <gloss>– cioè delle situazioni sociali di incontro con i materiali percettivi erogati da 
+                    apparecchi tecnologici che, come il lettore avrà capito, sono le vere protagoniste di questo capitolo.</gloss> <hi rend="br"/>
+                </p>
+                <p> Abbiamo detto che nella precedente fase di sviluppo i dispositivi avevano raggiunto 
+                    un punto di equilibrio tra la <pb n="27" xml:id="p27"/>loro pervasività sociale e la loro individuabilità. 
+                    Possiamo descrivere quanto è avvenuto e sta avvenendo nella terza fase sostenendo 
+                    che tale equilibrio si è rotto e che <emph rend="italic">una ulteriore spinta verso la pervasività sociale 
+                    viene pagata con una de-individuazione dei dispositivi.</emph> È appunto questo processo di 
+                    deindividuazione dei dispositivi mediali che definisco <soCalled rend="PRE quot POST quot">fine dei media</soCalled>. 
+                    Ne ripercorrerò qui di seguito i progressivi passaggi come al rallentatore, in 
+                    modo da far emergere gli aspetti che la velocità delle trasformazioni in atto 
+                    normalmente non ci permette di cogliere.</p>
+            </div>
+            <div n="6" xml:id="p2_cap6"> <!--capitolo6-->
+                <head n="2">6. <term xml:lang="en">Gamification</term></head> <!--intestazione di secondo livello-->
+                    <!--colloquio immaginario con il lettore-->
+                <p> <said rend="italic">Senta, caro <persName ref="RE">Eugeni</persName>, ho capito il suo discorso: i media sono oggi onnipresenti 
+                    nella società ma, proprio per questo, essi perdono la loro specificità e vedono 
+                    quindi vaporizzarsi la forte identità che li aveva contraddistinti nel corso del <date from="1900" to="1999">Novecento</date>. 
+                    E nei prossimi capitoli ci racconterà quali grandi racconti epici sorreggono e 
+                    guidano questa grande trasformazione. Però, mi scusi, ma i media novecenteschi 
+                    non sono mica spariti. Io vado al cinema e ascolto la radio come faceva mio nonno, 
+                    guardo la televisione come faceva mio padre, e mi leggo i miei bei libri come faceva 
+                    <persName>Machiavelli</persName> nel suo giardino.</said> <hi rend="br"/>
+                </p>
+                <pb n="29" xml:id="p29"/>
+                <p> <said>Be', caro lettore ideale, lei ha senz'altro ragione, ma vorrei parlarle un momento della <name type="other" ref="Zn"/>.</said>
+                    <hi rend="br"/>
+                </p>
+                <p> <said rend="italic">Lei si aspetta, immagino, che metta su una faccia stupita così lei poi mi spiega cos'è la <name type="other" ref="Zn"/>, 
+                    ma guardi che anche io sono su <name type="other" ref="Fb"/> e gioco a <name type="other" ref="Fv"/>…</said>
+                    <hi rend="br"/>
+                </p>
+                <p> <said>Sì, infatti, la <name type="other" ref="Zn"/> <gloss target="#Zn">è una <term xml:lang="en">software house</term> 
+                    <placeName ref="california">californiana</placeName> specializzata nello sviluppo 
+                    di videogiochi <term rend="PRE quot POST quot">casual</term>: sono giochi molto economici, con regole semplici e ripetitive, 
+                    che si possono giocare senza troppo impegno (mentre si pensa ad altro, se si è sulla metro, 
+                    mentre si chiacchiera del più e del meno con qualcuno…), ma che tendono a coinvolgere il 
+                    giocatore occupando larghe porzioni del suo tempo.</gloss> 
+                    <name type="other" ref="Zn"/>, in particolare, è specializzata 
+                    in giochi per piattaforme social come <name type="other" ref="Fb"/>: per esempio <name type="other" ref="Fv"/> di cui lei sembra 
+                    appassionato simula la vita di un agricoltore, e le permette di far crescere piante e animali. 
+                    Come in tutti i videogiochi ci sono punteggi da conquistare, livelli di gioco da raggiungere 
+                    e coccarde che attestano il raggiungimento di un certo status.</said>
+                    <hi rend="br"/>
+                </p>
+                <p> <said rend="italic">Ma sì, <persName ref="RE">Eugeni</persName>, alla fine è un giochino, non la faccia troppo grossa.</said>
+                    <hi rend="br"/></p>
+                <p> <said>Sarà un giochino, ma tenga conto che fino a qualche mese fa coinvolgeva circa 
+                    <measure unit="count" commodity="players">83 milioni </measure>
+                    di giocatori al mese e che il suo valore di mercato era stimato 
+                    <measure unit="count" commodity="currency">tra i 3 e i 5 miliardi di dollari</measure>. 
+                    Oggi la <name type="other" ref="Zn"/> è in crisi: i tempi di turnover dell'universo postmediale sono velocissimi! 
+                    Comunque era solo uno spunto per spingerla a fare un'osservazione più generale.</said>
+                    <hi rend="br"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

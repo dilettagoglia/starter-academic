@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="3" xml:id="parte3"> <!--Xinclude-->
+        <body> <!--L'epos della naturalizzazione-->
+            <pb n="32" xml:id="p32"/>
+            <head n="1">L'epos della naturalizzazione</head> <!--intestazione di primo livello-->
+            <div n="1" xml:id="p3_cap1"> <!--capitolo1-->
+                <head n="2">1. Pandora</head> <!--intestazione di secondo livello-->
+                <p> <rs ref="avatar">Un ex marine paraplegico, <persName>Jake Sully</persName>, prende il posto del 
+                    <rs>proprio gemello</rs> <persName>Tom</persName>, 
+                    uno scienziato che è rimasto accidentalmente ucciso: dovrà <emph rend="PRE quot POST quot">indossare</emph> 
+                    il corpo di un <name>Na'vi</name>, <gloss target="#navi">popolazione 
+                    indigena di <name type="place" ref="pandora"/></gloss>, 
+                    <gloss target="#pandora">una delle quattordici lune di un lontano pianeta.</gloss> 
+                    <hi rend="br"></hi>
+                    <name type="place" ref="pandora"/> è oggetto di una colonizzazione da parte 
+                    dei terrestri ingolositi dall'estrazione dell'<term rend="italic" xml:id="unobt">unobtanium</term>, 
+                    <gloss target="#unobt">un preziosissimo minerale che solo essa produce.</gloss> 
+                    Ad essi si oppongono i <name>Na'vi</name>, <gloss target="#navi">esseri alti più 
+                    di tre metri, la cui cultura tecnologica è relativamente primitiva.</gloss> 
+                    Tra i due gruppi si collocano i membri del progetto <mentioned>Avatar</mentioned>. 
+                    Una scienziata, la dottoressa <persName>Grace Augustine</persName>, 
+                    ha trovato il modo di far sviluppare corpi 
+                    artificiali di <name>Na'vi</name> il cui DNA è mescolato a quello umano, e di rendere 
+                    possibile il trasferimento della coscienza di un soggetto umano nel proprio 
+                    avatar alieno. L'obiettivo della dottoressa <persName>Agustine</persName> è scientifico e umanitario, 
+                    ma la compagnia di estrazione e i <mentioned rend="italic">contractors</mentioned> alle sue dipendenze pensano di 
+                    sfruttare il progetto ai fini dell'impresa di colonizzazione.</rs>
+                </p>
+            </div>
+            <div n="2" xml:id="p3_cap2"> <!--capitolo2-->
+                <head n="2">2. Tecnologie e trasfigurazioni</head> <!--intestazione di secondo livello-->
+                <p> <!--citazione di un film-->
+                    <bibl type="movie">
+                        Il film 
+                        <title><name type="other" ref="avatar">Avatar</name></title> 
+                        (<author role="director" xml:id="cameron">James Cameron</author>, 
+                        <placeName ref="USA">USA</placeName>-<placeName ref="UK">Regno Unito</placeName>, 
+                        <date when="2009">2009</date>)
+                    </bibl> 
+                    sembra a prima vista attraversato 
+                    da una netta opposizione tra tecnologia e natura. Da un lato i terrestri sono portatori 
+                    di una enorme potenza tecnologica che si esprime visivamente e narrativamente nelle forme 
+                    massicce e nelle enormi dimensioni delle differenti <emph rend="italic">macchine</emph> presenti nel film (mezzi di 
+                    trasporto, mezzi di estrazione, armi e armature giganti). La loro relazione con la 
+                    natura è esclusivamente di tipo predatorio: il loro atteggiamento raffigura perfettamente 
+                    quella visione del mondo in quanto <soCalled rend="italic">ge-stellen</soCalled>, pura riserva di forme energetiche di cui 
+                    appropriarsi, di cui parlava <persName>Heidegger</persName> <pb n="34" xml:id="p34"/>
+                    <rs>nelle sue conferenze</rs> <date notBefore="1950">dei primi anni Cinquanta</date>
+                    <note n="1" xml:id="p3_nota1" place="bottom">
+                        <bibl xml:id="hdgg1976">
+                            <author>M. Heidegger</author>,
+                            <title level="m">La questione della tecnica</title>,
+                            <date when="1954">(1954)</date>
+                            in Id. <title level="s">Saggi e discorsi</title>,
+                              <editor role="curator">a cura di Gianni Vattimo</editor>, 
+                            <publisher>Mursia</publisher>, 
+                            <pubPlace>Milano</pubPlace> 
+                            <date when="1976">1976</date>, 
+                            <biblScope unit="pp">pp. 5-27</biblScope>.
+                        </bibl>
+                    </note>. 
+                    Dall'altro lato e all'opposto i <name>Na'vi</name> vivono in una quasi completa ignoranza tecnologica 
+                    (i loro archi appaiono primitivi e quasi inoffensivi), ma sono perfettamente integrati con 
+                    la luna che li ospita: la loro dimora è il grande albero che verrà distrutto dai terrestri; 
+                    essi sono in grado di comunicare direttamente con le creature alate che rappresentano i loro 
+                    mezzi di trasporto, con lo spirito di <name type="place" ref="pandora"/>, e in definitiva con il suo intero ecosistema. 
+                    Insomma: a una prima lettura <name type="other" ref="avatar"/> sembrerebbe il racconto epico di uno scontro tra 
+                    tecnologia e natura, con la vittoria finale di quest'ultima. Non a caso vari commenti 
+                    hanno insistito sull'etica <soCalled rend="PRE quot POST quot">ecologista</soCalled> del film di 
+                    <persName ref="cameron">Cameron</persName>. Eppure a ben vedere le cose 
+                    stanno diversamente.
+                </p>
+            </div>
+            <div n="3" xml:id="p3_cap3"> <!--capitolo3-->
+                <head n="2">3. Epos</head> <!--intestazione di secondo livello-->
+                <p> A prima vista la condizione postmediale appare lontana anni luce dai 
+                    generi narrativi dell'epica. Come è noto infatti la teoria della 
+                    letteratura ha scavato un solco tra epica e romanzo, ascrivendo la prima 
+                    all'età classica e il secondo alla modernità. Questa idea nasce nel <date when="1916">1916</date> 
+                    con la <ref target="#teor_rom_lukacs"><title>Teoria del romanzo </title>di 
+                    <persName ref="lukacs">György Lukács</persName></ref>: 
+                    <rs ref="lukacs">il filosofo ungherese</rs>, partendo 
+                    da un passo dell'
+                    <bibl xml:id="heg_estetica">
+                        <title level="m">Estetica</title> 
+                        di <author xml:id="hegel">Hegel</author>
+                    </bibl>, 
+                    insiste sul fatto che l'età moderna ha 
+                    perduto il senso di <mentioned rend="italic">totalità conchiusa</mentioned> 
+                    del mondo epico, e può solo aspirarvi 
+                    in una tensione costantemente irrisolta attraverso il suo genere per eccellenza 
+                    che è appunto il romanzo
+                    <note n="2" xml:id="p3_nota2" place="bottom">
+                        <bibl xml:id="teor_rom_lukacs">
+                            <author xml:id="lukacs">G. Lukács</author>,
+                            <title level="m">Teoria del romanzo</title>
+                            <date when="1920">(1920)</date>,
+                            <publisher>Pratiche</publisher>,
+                            <pubPlace>Parma</pubPlace>,
+                            <date when="1994">1994</date>
+                        </bibl>
+                    </note>. 
+                    Alla fine degli <date notBefore="1935">anni Trenta</date> 
+                    <persName ref="bachtin">Michail Bachtin</persName> 
+                    <pb n="37" xml:id="p37"/> riprende l'idea di <persName ref="lukacs">Lukács</persName>, 
+                    pur invertendone il giudizio implicito: secondo il <rs ref="bachtin">critico 
+                    e filosofo russo</rs> l'epica è il genere della conclusività, della monologia e 
+                    della astrazione, tanto quanto il romanzo è legato al <emph rend="italic">presente</emph> nella sua 
+                    fluidità, nella sua incompiutezza, nel suo realismo e nella pluralità 
+                    polifonica delle sue voci
+                    <note n="3" xml:id="p3_nota3" place="bottom">
+                        <bibl xml:id="epos_bacht">
+                            <author xml:id="bachtin">M. Bachtin</author>,
+                            <title level="m">Epos e romanzo. Sulla metodologia dello studio del romanzo </title>
+                            <date when="1938">(1938)</date>,
+                            in Id. <title level="s">Estetica e romanzo</title>, 
+                            <editor role="curator">a cura di C. Strada Janovic</editor>, 
+                            <publisher>Einaudi</publisher>, 
+                            <pubPlace>Torino</pubPlace> 
+                            <date when="1979">1979</date>
+                        </bibl>
+                    </note>.
+                </p>
+            </div>
+            <div n="4" xml:id="p3_cap4"> <!--capitolo4-->
+                <head n="2">4. Breve storia dell'artificiale</head> <!--intestazione di secondo livello-->
+                <p> Possiamo tornare dunque ad <name type="other" ref="avatar"/> e 
+                    <term rend="italic">all'epos della naturalizzazione dell'esperienza ipertecnologizzata 
+                    e ipersocializzata</term> che esso esprime. Come il lettore ricorderà abbiamo lasciato in sospeso il paradosso 
+                    implicato da una simile narrazione: come è possibile che una condizione esperienziale completamente 
+                    innervata dalla tecnologia appaia al tempo stesso come antitecnologica e come <emph rend="PRE quot POST quot">naturale</emph>? 
+                    Per rispondere a questa domanda dobbiamo ripercorrere brevemente la storia dei media tratteggiata nel capitolo 
+                    precedente, rileggendola da un punto di vista più generale: quello della relazione esperienziale dei 
+                    soggetti sociali con l'<emph rend="italic">artificiale</emph>.
+                    <hi rend="br"/>
+                </p>
+                <p> Abbiamo detto che i media nascono all'interno della cosiddetta 
+                    <name type="event" ref="IIRI"/>, 
+                    un'epoca caratterizzata da profonde trasformazioni tecnologiche e sociali. Ci <pb n="42" xml:id="p42"/> interessa qui 
+                    focalizzare alcuni importanti processi che riguardano le <emph rend="italic">forme dell'esperienza</emph>. Le nuove macchine 
+                    della modernità entrano ora in vario modo nella sfera esperienziale dei soggetti sociali: gli ambienti 
+                    urbani e metropolitani vedono l'interazione delle folle con impianti di luce elettrica, tram, automobili; 
+                    gli spostamenti tra le città avvengono con quella prodigiosa e potente incarnazione dell'energia moderna 
+                    che è il treno; la <name type="event" ref="IGM"/> rappresenterà il primo violento impatto con le armi a lunga gittata. 
+                    I nuovi apparati tecnologici finiscono dunque per ristrutturare le condizioni e le forme dell'esperienza, 
+                    e in particolare le categorie dello spazio e del tempo: l'esperienza si fa rapida, veloce, sfuggente e al 
+                    tempo stesso frammentata, discontinua, spiazzante e shockante.
+                </p>
+            </div>
+            <div n="5" xml:id="p3_cap5"> <!--capitolo5-->
+                <head n="2">5. Quello che vuole la tecnologia</head> <!--intestazione di secondo livello-->
+                <p> Nel suo libro <ref target="#kelly2010"><title>Quello che vuole la tecnologia</title></ref>, 
+                    <persName ref="kelly">Kevin Kelly</persName>, 
+                    <rs ref="kelly">un giornalista e 
+                    intellettuale fondatore tra l'altro della influente rivista 
+                    <name type="journal" rend="PRE laquo POST raquo">Wired</name></rs>, racconta la storia 
+                    del proprio rapporto con la tecnologia
+                    <note n="11" xml:id="p3_nota11" place="bottom">
+                        <bibl xml:id="kelly2010">
+                            <author xml:id="kelly">K. Kelly</author>, 
+                            <title level="m">Quello che vuole la tecnologia </title>
+                            <date when="2010">(2010)</date>, 
+                            <publisher>Codice</publisher>, 
+                            <pubPlace>Torino</pubPlace> 
+                            <date when="2011">2011</date>
+                        </bibl>
+                    </note>. 
+                    Cresciuto nella periferia del <placeName ref="NJ">New Jersey</placeName> <date notBefore="1950" notAfter="1970">negli 
+                    anni Cinquanta e Sessanta</date>, <persName ref="kelly">Kelly</persName> osserva con inquietudine il sopravanzare del ruolo e del 
+                    potere della tecnologia. Televisori, automobili, elettrodomestici… creano reti di oggetti 
+                    e prodotti che costituiscono parte integrante della vita quotidiana:
+                </p>
+                    <cit> <quote>La tecnologia televisiva ha la notevole capacità di chiamare a raduno le persone 
+                            in determinati momenti, e poi incantarle per ore. Le sue pubblicità dicono loro di 
+                            acquistare sempre più prodotti tecnologici; e loro ubbidiscono. Notavo che anche 
+                            altre tecnologie impositive, come l'automobile, sembravano in grado di indurre la 
+                            gente all'asservimento, spingendo all'acquisto di ulteriori tecnologie (autostrade, 
+                            cinema drive in, fast food). […] Da ragazzino facevo fatica a sentire la mia stessa 
+                            voce, mi pareva che le voci autentiche dei miei amici fossero soffocate dal frastuono 
+                            di una tecnologia che comunicava con se stessa.
+                          </quote>
+                          <note n="12" xml:id="p3_nota12" place="bottom">
+                            <bibl>
+                                <title ref="kelly2010">Ibi</title>, 
+                                <biblScope unit="pp">p. 4</biblScope>
+                            </bibl>
+                          </note>
+                    </cit>
+            </div>
+        </body>
+    </text>
+</TEI>

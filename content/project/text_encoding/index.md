@@ -1,15 +1,11 @@
 ---
 title: Text Encoding
 summary: 
-tags:
-- Software development
-- Algorithms
-- Python
 
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "/project/text_encoding/CDT/main.xhtml"
 
 image:
   caption: Photo by rawpixel on Unsplash

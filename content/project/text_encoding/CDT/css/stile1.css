@@ -1,0 +1,75 @@
+/*foglio di stile della pagina iniziale*/
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 18px/1.8 "Raleway", sans-serif;
+  color: #777;
+}
+.whiteboxes{
+	color: #777;
+	background-color:white;
+	text-align:center;
+	padding:50px 80px;
+	text-align: justify;
+}
+
+.border{
+	/*margin:auto; does not work*/
+	/* DO NOT USE position:absolute; AND display:block;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	padding:50%;
+	/* vertical-align:center; does not work */
+	background-color:transparent;
+	font-size:25px;
+	color: #f7f7f7;
+}
+.border a{
+	/*top:50%; does not work*/
+	text-decoration: none;
+	color:white;
+}
+.bgimg-0 {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgimg-0{
+  background-image: url("../images/sfondo1.jpg"); /* cartella esterna */
+  height: 100%;
+  width: 100%;
+}
+
+.caption {
+  /*top:50%; does not work*/
+  /*margin:auto; does not work*/
+  /*left:50%; does not work*/
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  width: auto;
+  height:300px;
+  overflow: hidden;
+  text-align: center;
+  color: #000;
+}
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  text-align:center;
+}
+#author, #pub{
+    font-size: 130%;
+    z-index: 1;
+}
+#title_sub {
+    font-size: 110%;
+}

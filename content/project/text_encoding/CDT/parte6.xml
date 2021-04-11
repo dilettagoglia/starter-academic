@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="6" xml:id="parte6"> <!--Xinclude-->
+        <body> <!--Conclusioni: la condizione amoderna-->
+            <pb n="79" xml:id="p79"/>
+            <head n="1">Conclusioni: la condizione amoderna</head> <!--intestazione di primo livello-->
+            <div n="1" xml:id="p6_cap1"> <!--capitolo1-->
+                <head n="2">1. I due volti dell'epos</head> <!--intestazione di secondo livello-->
+                <p> Il lettore che mi ha seguito fino a questo punto lo avrà ormai compreso: 
+                    la condizione postmediale non è una fantomatica epoca neo-medioevale di 
+                    <emph rend="italic">estinzione</emph> dei media. Al contrario: essa nasce da un accumulo <emph rend="italic">quantitativo</emph> dei media, 
+                    il cui risultato ultimo è stato un salto <emph rend="italic">qualitativo</emph>: a partire dagli ultimi 
+                    due decenni del ventesimo secolo e in un processo tuttora in corso, i media 
+                    in quanto dispositivi riconoscibili all'interno dell'esperienza sociale sono 
+                    stati via via deindividuati, fino a sparire all'interno di una rete di apparati, 
+                    di processi e di pratiche quotidiani che rendono impossibile isolare le componenti 
+                    mediali da quelle non mediali. <hi rend="br"/>
+                </p>
+                <p> Abbiamo visto come l'avvento di una simile condizione postmediale sia stato e sia 
+                    accompagnato da tre grandi racconti epici, la cui analisi ha costituito l'ossatura 
+                    di questo libretto. Il primo dei tre grandi epos postmediali è quello della 
+                    <term rend="italic">naturalizzazione della tecnologia</term>: esso racconta l'avvento di una nuova generazione 
+                    di apparati tecnologici non più opposti come nel passato alla naturalità dei soggetti 
+                    che li adoperano e del mondo che li circonda, ma al contrario capaci di generare un 
+                    meta-mondo natural-culturale; la stessa storia dell'evoluzione umana va dunque ritracciata 
+                    come epos di una interazione ininterrotta tra <foreign xml:lang="grc" rend="italic">téchne</foreign> e 
+                    <foreign xml:lang="grc" rend="italic">bíos</foreign>, che ha portato allo sviluppo 
+                    simultaneo di corpi e strumenti. Il secondo epos consiste nella <term rend="italic">soggettivazione dell'esperienza</term> 
+                    e narra l'intero campo dell'esistenza in quanto rappresentazione al tempo stesso 
+                    soggettiva, soggettivizzante e condivisibile: quanto vivo e sento momento per momento 
+                    è <emph rend="PRE quot POST quot">mio</emph> e mi costituisce in <pb n="80" xml:id="p80"/>quanto soggetto ma, al tempo stesso, è una rappresentazione 
+                    che posso condividere con altri nello stesso istante in cui la vivo io – allo stesso modo 
+                    in cui posso io stesso ri-vivere in un regime di simulazione incorporata le esperienze 
+                    altrui. <hi rend="br"/>
+                </p>
+                <p> Abbiamo definito il terzo epos la <term rend="italic">socializzazione del legame relazionale</term>: 
+                    la condizione postmediale è attraversata e vitalizzata in questo caso dalla narrazione 
+                    del farsi e disfarsi di reti, gruppi, comunità sociali, incessantemente impegnati 
+                    a costruire, verificare, distruggere, ricostruire legami di fiducia e di condivisione 
+                    reciproche – e, al tempo stesso, incessantemente impegnati a <emph rend="italic">sentirsi vivere</emph> tali legami 
+                    e tali eventi mediante una serie articolata di autorappresentazioni riflessive.
+                </p>
+            </div>
+            <div n="2" xml:id="p6_cap2"> <!--capitolo2-->
+                <head n="2">2. La decompressione dello spazio e del tempo</head> <!--intestazione di secondo livello-->
+                <p> È possibile tuttavia considerare i tre grandi racconti epici propri della condizione postmediale 
+                    anche da un altro punto di vista. Come abbiamo affermato più volte, le tre grandi forme epiche 
+                    della postmedialità si oppongono tanto alle forme propriamente romanzesche quanto a quelle mitologiche. 
+                    Rispetto alle prime, l'epos ambisce, infatti, a un respiro totalizzante e fondativo, fa riferimento 
+                    a uno sfondo universalmente condiviso di saperi e di valori, si pone come spazio e strumento di 
+                    trasmissione sociale e culturale di una <emph rend="PRE quot POST quot">saggezza</emph> diffusa. <pb n="83" xml:id="p83"/>
+                    Rispetto alle forme del mito, d'altro canto, 
+                    l'epos costituisce un meccanismo di fondazione narrativa del senso di tipo <emph rend="italic">non polemico</emph>: 
+                    se il mito nasce (secondo la ben nota definizione strutturalista) per risolvere un problema etico 
+                    o scientifico attraverso un racconto, l'epos nasce a partire da una soluzione già individuata e 
+                    attuata delle tensioni di fondo che animano una società, e nasce anzi proprio per narrare 
+                    l'evento di tale soluzione.
+                </p>
+            </div>
+            <div n="3" xml:id="p6_cap3"> <!--capitolo3-->
+                <head n="2">3. Vivere la condizione amoderna</head> <!--intestazione di secondo livello-->
+                <p> Ho definito <emph rend="PRE quot POST quot">distinte</emph> le due analisi dei tre epos propri della postmedialità 
+                    che ho disegnato nei precedenti paragrafi; aggiungo ora che esse non mi sembrano 
+                    opposte e neppure inconciliabili. Non si tratta in realtà né di optare per l'una o 
+                    l'altra prospettiva, né di tentare una sintesi tra le due, quanto piuttosto di <emph rend="italic">tenerle 
+                    presenti entrambe contemporaneamente, in una reciproca trasparenza</emph>, al fine di tentare 
+                    una lettura strategica dei fenomeni in atto. <hi rend="br"/>
+                </p>
+                <p> Vorrei dare solamente un esempio di tale lettura ritornando sulla crisi delle istituzioni 
+                    educative e formative cui accennavo alla fine del precedente capitolo. <term ref="parte5">L'epos della 
+                    socializzazione</term> tende, come abbiamo visto, a privare di ruolo e legittimità le istituzioni 
+                    formative tradizionali: queste appaiono, infatti, per un verso inadeguate nel trasmettere 
+                    quei saperi operazionali essenziali per muoversi nell'universo postmediale, e per altro 
+                    verso incapaci di assumere il ruolo paritetico tra i partner dello scambio educativo 
+                    proprio delle relazioni in rete. A prima vista insegnanti ed educatori non hanno molta 
+                    scelta: essi possono o arroccarsi nella difesa dei propri saperi, dei propri metodi e 
+                    dei propri ruoli, oppure all'opposto cedere e uniformarsi al nuovo panorama, sposando 
+                    i metodi paritari propri della rete e puntando nel proprio insegnamento a promuovere 
+                    l'acquisizione di tutte quelle competenze operazionali così utili nell'universo 
+                    contemporaneo. 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="parti_unico.xsl"?>
+<!--associato schema di codifica personalizzato, creato con TEI Roma-->
+<?xml-model href="schema/DG_TEI.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text n="5" xml:id="parte5"> <!--Xinclude-->
+        <body> <!--L'epos della socializzazione-->
+            <pb n="64" xml:id="p64"/>
+            <head n="1">L'epos della socializzazione</head> <!--intestazione di primo livello-->
+            <div n="1" xml:id="p5_cap1"> <!--capitolo1-->
+                <head n="2">1. Casa di bambola</head> <!--intestazione di secondo livello-->
+                <p> È l'ultimo capitolo di questo libro, e vorrei proporre una offerta speciale: 
+                    due storie introduttive al prezzo di una. Cominciamo dalla prima. <hi rend="br"/>
+                </p>
+                <p> Nel <date when="2000-02">febbraio del 2000</date> 
+                    la <name type="org" ref="EA"/>, 
+                    il principale editore al mondo di videogiochi, 
+                    lanciava un nuovo prodotto costruito dalla <foreign xml:lang="en">software house</foreign> 
+                    <name type="org" ref="maxis"/>:
+                    <name type="other" ref="thesims"/>. 
+                    Il videogioco nasceva a partire da un precedente successo <rs ref="maxis">della stessa 
+                    <foreign xml:lang="en">software house</foreign></rs>, ma anche dopo profonde 
+                    e laceranti discussioni interne. 
+                    Il prodotto che aveva dato notorietà e denaro alla <name type="org" ref="maxis"/> 
+                    era <name type="other" ref="simcity"/>, lanciato nel <date when="1989">1989</date> 
+                    e oggetto di un gran numero di espansioni, aggiornamenti 
+                    e prosecuzioni che arrivano fino ai nostri giorni. 
+                    <name type="other" ref="simcity"/> nasceva da una 
+                    semplice ma geniale intuizione del fondatore della <name type="org" ref="maxis"/>, 
+                    il progettatore <name type="person" ref="WW"/>: 
+                    spostare nel campo del videogioco i software di simulazione 
+                    di sistemi complessi (o <soCalled rend="PRE quot POST quot">sistemi ad agente multiplo</soCalled>), 
+                    che venivano e 
+                    vengono usati per riprodurre, analizzare e predire i comportamenti di 
+                    sistemi complessi (di tipo sociale, economico, biologico…). Nel caso di 
+                    <name type="other" ref="simcity" />, il giocatore riveste 
+                    il ruolo di sindaco di una città: il suo 
+                    compito consiste nell'amministrarla e farla crescere, confrontandosi con 
+                    piccoli e grandi problemi – dai limiti di budget alla possibilità di 
+                    catastrofi naturali; ogni scelta del giocatore interagisce con tutta la 
+                    rete delle variabili determinando nuovi stati, processi e possibili 
+                    situazioni narrative in uno sviluppo che è, di fatto, non predicibile a 
+                    priori e completamente differente per ciascun giocatore e ciascuna partita.
+                </p>
+            </div>
+            <div n="2" xml:id="p5_cap2"> <!--capitolo2-->
+                <pb n="67" xml:id="p67"/>
+                <head n="2">2. L'isola misteriosa</head> <!--intestazione di secondo livello-->
+                <p> <rs ref="lost">Passiamo al <foreign rend="italic">bonus track</foreign> della seconda storia. 
+                    <date when="2004-09-22">22 settembre 2004</date>: il volo 
+                    <num>815</num> della <name xml:lang="en">Oceanic Airlines</name> 
+                    si schianta su un'isola tropicale apparentemente deserta. 
+                    I sopravvissuti al terribile impatto sono <num>48</num> (altri ne 
+                    verranno scoperti in seguito): tra di essi un giovane chirurgo 
+                    (il primo a risvegliarsi sulla spiaggia), una ragazza che 
+                    fugge da un passato ambiguo, una rock star, un ex militare 
+                    iracheno, e molti altri. La comunità deve iniziare a organizzarsi, 
+                    a dividersi i compiti, a individuare meccanismi di governo, 
+                    e soprattutto deve iniziare a sviluppare meccanismi di condivisione 
+                    e di fiducia reciproci – cosa non facile stante anche il 
+                    terribile passato di ciascuno di essi, che riaffiora in una 
+                    insistente serie di flashbacks. D'altra parte lo scenario 
+                    della tragedia, l'isola dello schianto, si rivela ben presto 
+                    un ambiente inquietante: un orso polare appare inspiegabilmente; 
+                    nella giungla si aggira un mostro composto solo di fumo scuro; 
+                    cavi elettrici e botole di metallo segnalano la presenza di una 
+                    civiltà nascosta. Poco a poco, i superstiti scoprono che l'isola 
+                    non è affatto disabitata: gli <emph rend="PRE quot POST quot">altri</emph> costituiscono una comunità 
+                    speculare e ostile, nata in parte da una serie di misteriosi 
+                    esperimenti tentati anni addietro sull'isola all'interno del progetto 
+                        <soCalled>
+                            <choice>
+                                <abbr>DHARMA</abbr>
+                                <expan>(acronimo di Department of Heuristics And Research on Material Applications)</expan>
+                            </choice>.
+                        </soCalled>
+                    </rs>
+                </p>
+            </div>
+            <div n="3" xml:id="p5_cap3"> <!--capitolo3-->
+                <head n="2">3. Esseri socievoli</head> <!--intestazione di secondo livello-->
+                <p> Cosa hanno in comune <name type="other" ref="thesims"/> e <name type="other" ref="lost"/> 
+                    – a parte il collocarsi entrambi 
+                    <date notBefore="2000">nei primi anni del XXI secolo</date>? Il lettore che ha avuto la pazienza di 
+                    seguire l'esposizione delle due storie non faticherà a trovare la risposta: 
+                    entrambi i prodotti raccontano un'unica storia, quella della costruzione 
+                    dal nulla di una rete di legami relazionali che gradualmente costituiscono 
+                    una società; ed entrambi innescano un meccanismo speculare tra un simile 
+                    racconto e il costituirsi <emph rend="PRE quot POST quot">effettivo</emph> 
+                    di legami sociali tra gli spettatori 
+                    della serie o i giocatori del <foreign xml:lang="en">franchise</foreign>. 
+                    Insomma: <name type="other" ref="thesims"/> e <name type="other" ref="lost"/> 
+                    <emph rend="italic">raccontano</emph> 
+                    entrambi la storia epica del costituirsi di una società, e al tempo stesso 
+                    <emph rend="italic">producono effettivamente quello che raccontano</emph>. 
+                    Essi sono dunque due <pb n="71" xml:id="p71"/>
+                    esempi ideali per avvicinarci al terzo grande epos che attraversa e irriga di senso 
+                    la condizione postmediale: l'epos della <term rend="italic">socializzazione</term>.
+                </p>
+            </div>
+            <div n="4" xml:id="p5_cap4"> <!--capitolo4-->
+                <head n="2">4. La condizione post-scolastica</head> <!--intestazione di secondo livello-->
+                <p> Nel <date when="2009">2009</date> la <orgName>McArthur Foundation</orgName>, 
+                    una prestigiosa istituzione americana, 
+                    commissionava allo studioso <persName ref="jenkins">Henry Jenkins</persName> 
+                    <rs ref="jenkins2009">una ricerca sulle trasformazioni 
+                    che i <foreign rend="italic">digital media</foreign> stavano portando al sistema educativo e soprattutto 
+                    al tipo di competenze richieste ai cittadini di domani</rs>. Le conclusioni 
+                    di <persName ref="jenkins">Jenkins</persName> sono molto nette: i nuovi media stanno sviluppando una 
+                    <mentioned rend="PRE quot POST quot">cultura della partecipazione</mentioned> 
+                    che richiede <rs ref="listacompetenze">nuove competenze</rs>; esse 
+                    sono in particolare 
+                    <list>
+                        <item>
+                            <gloss>la capacità di affrontare i contesti di vita in 
+                            chiave sperimentale e creativa come forme di problem-solving</gloss>
+                            (<term>Play</term>),
+                        </item>
+                        <item>
+                            <gloss>anche adottando identità fittizie</gloss>
+                            (<term>Performance</term>),
+                        </item> 
+                        <item>
+                            <gloss>e soprattutto costruendo modelli dinamici alternativi 
+                            e interattivi di mondo </gloss>
+                            (<term>Simulation</term>);
+                        </item>
+                        <item>
+                            <gloss>l'abilità di appropriarsi di oggetti mediali e fonti 
+                            informative in modo critico </gloss>
+                            (<term>Judgement</term>)
+                        </item>
+                        <item>
+                            <gloss>navigando su differenti piattaforme </gloss>
+                            (<term>Transmedia navigation</term>)
+                        </item>
+                        <item>
+                            <gloss>per farli propri e rimodellarli </gloss>
+                            (<term>Appropriation</term>)
+                        </item>
+                        <item>
+                            <gloss>e disseminare quindi il risultato del proprio lavoro</gloss>
+                            (<term>Networking</term>);
+                        </item> 
+                        <item>
+                            <gloss>la capacità di agire contemporaneamente differenti compiti </gloss>
+                            (<term>Multitasking</term>),
+                        </item>     
+                        <item>
+                            <gloss>di interagire con oggetti tecnologici 
+                                delegando ad essi parte della elaborazione cognitiva</gloss>
+                            (<term>Distributed cognition</term>);
+                        </item>
+                        <item>
+                            <gloss>la capacità di lavorare con altri soggetti in forme cooperative </gloss>
+                            (<term>Collective intelligence</term>),
+                        </item>
+                        <item>
+                            <gloss>individuando e rispettando le differenti prospettive e norme</gloss>
+                            (<term>Negotiation</term>).</item>
+                    </list>
+                    <note n="5" xml:id="p5_nota5" place="bottom">
+                        <bibl xml:id="jenkins2009">
+                            <author><persName xml:id="jenkins">H. Jenkins</persName> et al.</author>, 
+                            <title level="a">Confronting the Challenges of Participatory Culture. 
+                                Media Education for the 21st Century</title>, 
+                            <title level="j">Report for the John D. and Catherine T. MacArthur Foundation</title>, 
+                            <publisher>The MIT Press Cambridge (Massachusetts)</publisher>, 
+                            - <pubPlace>London</pubPlace> 
+                            <date when="2009">2009</date>, 
+                            <biblScope unit="pp">p. XIV</biblScope>
+                        </bibl>
+                    </note>.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+/*foglio di stile della pagina "partizioni"*/
+body, html {
+  height: 100%;
+  margin:0;
+  font: 400 17px/1.8 "Raleway", sans-serif;
+  color: #383838;
+}
+.whiteboxes{
+	font-family: "Lato", sans-serif;
+	letter-spacing: 3px;
+	color: #777;
+	text-align:center;
+	padding:20px 50px;
+	text-align: justify;
+	padding-top:5%;
+	padding-bottom:2%;
+	font-size: 250%;
+}
+.bgimg-1 { /*contenitore invisibile dei riquadri*/
+  position: absolute;
+  margin: /*top and bottom*/2% /*left and right*/8%; /*distanza tra contenitore e bordo della pagina*/
+}
+.titoli{
+	text-align:center;
+}
+
+
+/*riquadri: immagine+didascalia*/
+div.img {
+    margin: 20px; /*distanza reciproca tra i riquadri*/
+    border: 1px solid #ccc;
+    float: left;
+    width: 320px; /*riquadri tutti con le stesse dimensioni e con altezza e larghezza uguali*/
+	height: 320px;
+	opacity:0.8;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.img:hover {
+   opacity:1;
+}
+
+/*solo immagine*/
+div.img img {
+    width: 100%; /*l'immagine riempie esattamente il suo riquadro in larghezza*/
+    height: auto; /*la parte restante in altezza è dedicata alla didascalia e si regola automaticamente, 
+	              quindi devo ritagliare precedentemente l'immagine alle dimensioni 800x600, ovvero 4x3*/
+}
+/*solo didascalia*/
+div.desc {
+    padding: 15px;
+    text-align: center;
+	font-size: 100%;
+	word-break: keep-all;
+}
