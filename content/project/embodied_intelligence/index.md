@@ -1,5 +1,5 @@
 ---
-title: Embodied intelligence: a review.
+title: Embodied intelligence, a review.
 summary: 
 tags:
 - Software development
