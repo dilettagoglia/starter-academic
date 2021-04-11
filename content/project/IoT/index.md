@@ -1,6 +1,6 @@
 ---
 title: SmartBin
-summary: “SmartBin, a Smart Solution for Garbage Management” for improvement on garbage management system: an intelligent bin that monitors itself.
+summary: “SmartBin, a Smart Solution for Garbage Management” for improvement on garbage management system. An intelligent bin that monitors itself.
 tags:
 - IoT
 
