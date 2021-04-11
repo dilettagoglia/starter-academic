@@ -5,14 +5,13 @@ summary: "Italiani mangiatori di pillole". Statistic and descriptive analysis of
 tags:
 - Web Design
 
-
 date: "2018-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://wafi.iit.cnr.it/lab/LPW/progettini/2018-02-12/530924/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: An extract of supplement consumption analysis
   focal_point: Smart
 
 links:
