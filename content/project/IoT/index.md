@@ -1,5 +1,5 @@
 ---
-title: SmartBin, a Smart Solution for Garbage Management
+title: SmartBin, IoT project 
 summary: SmartBin, a smart solution for improvements on garbage management system. An intelligent bin that monitors itself.
 tags:
 - IoT

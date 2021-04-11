@@ -21,11 +21,11 @@ links:
   name: Material
   url: https://github.com/dilettagoglia/AI-social-ethical-issues
 - icon: calendar-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Talk
   url: /static/uploads/talks.pdf
 - icon: shield-alt
-  icon_pack: fab
+  icon_pack: fa
   name: AJL website
   url: https://www.ajl.org/
 url_code: ""

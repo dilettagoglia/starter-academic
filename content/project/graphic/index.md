@@ -13,7 +13,11 @@ external_link: "/project/graphic/PG/index.html"
 image:
   caption: Graphic Design
   focal_point: Smart
-
+links:
+- icon: laptop
+  icon_pack: fas
+  name: Products
+  url: "/project/graphic/PG/index.html"
 url_code: ""
 url_pdf: ""
 url_slides: ""

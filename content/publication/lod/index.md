@@ -9,7 +9,8 @@ authors:
 publication: (unpublished)
 abstract: ""
 draft: false
-url_pdf: lod/tesi.pdf
+url_pdf: "publication/lod/tesi.pdf"
+url_slides: "project/bachelor_thesis/laurea.pdf"
 featured: false
 tags:
   - Linked Open Data

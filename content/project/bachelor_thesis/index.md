@@ -17,12 +17,12 @@ image:
 
 links:
 - icon: university
-  icon_pack: fab
+  icon_pack: fas
   name: Academia
   url: https://bdfinance.academia.edu/DilettaGoglia
 - name: Slides
   url: "/project/bachelor_thesis/laurea.pdf"
-- icon: arrow-right
+- icon: arrow-down
   icon_pack: fas
   name: See publications
   url: "/#publication"
