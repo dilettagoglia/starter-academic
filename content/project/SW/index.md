@@ -4,10 +4,10 @@ summary: Semantic modelling project for MSc course of Semantic Web.
 tags:
 - Semantic Web
 - Digital Humanities
-- 2020
+- 2019
 
 
-date: "2020-02-01T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/dilettagoglia/Semantic-Web/tree/master/Exam%20project"
