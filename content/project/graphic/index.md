@@ -4,7 +4,7 @@ summary: Logo, booklet, poster, leaflet and website mock-up for a corporate bran
 tags:
 - Digital Humanities 
 - Web Design
-- 2019
+- Old
 
 date: "2019-04-01T00:00:00Z"
 
