@@ -9,7 +9,7 @@ tags:
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm3/midterm3"
 
 image:
   caption: Timeseries prediction with a Gated RNN (LSTM)

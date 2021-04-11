@@ -19,9 +19,13 @@ links:
   icon_pack: fab
   name: Repo
   url: https://github.com/dilettagoglia/DataMining
+- icon: file-alt
+  icon_pack: far
+  name: Report
+  url: "/dm.pdf"
 url_code: "https://github.com/dilettagoglia/DataMining"
-url_pdf: "/dm.pdf"
-url_slides: "dm_slides.pdf"
+url_pdf: "dm_slides.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -43,3 +47,6 @@ Customer dataset & behavior analysis with Data Mining tools:
 ### Team Members:
 - [Diletta Goglia](https://github.com/dilettagoglia)
 - [Marco Petix](https://github.com/marcopetix)
+
+### Final grade
+30/30

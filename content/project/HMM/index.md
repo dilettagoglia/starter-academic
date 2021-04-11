@@ -9,7 +9,7 @@ tags:
 date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2"
 
 image:
   caption: Hidden Markov Model for regime detection
@@ -21,8 +21,8 @@ links:
   name: Repo
   url: https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2
 url_code: "https://github.com/dilettagoglia/Signal-Processing/tree/master/midterm2"
-# url_pdf: "https://drive.google.com/file/d/1g-ZAtKqzcgngBozkJB9qpgC8suOgeHd7/view?usp=sharing"
-url_slides: "hmm"
+url_pdf: "https://drive.google.com/file/d/1g-ZAtKqzcgngBozkJB9qpgC8suOgeHd7/view?usp=sharing"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
