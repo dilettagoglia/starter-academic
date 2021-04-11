@@ -4,6 +4,8 @@ summary: SmartBin, a smart solution for improvements on garbage management syste
 tags:
 - IoT
 - AI
+- 2020
+- Algorithms
 
 date: "2020-05-01T00:00:00Z"
 

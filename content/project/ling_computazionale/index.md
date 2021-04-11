@@ -5,6 +5,8 @@ tags:
 - NLP
 - Python
 - Digital Humanities 
+- 2017
+- Algorithms
 
 date: "2017-11-01T00:00:00Z"
 

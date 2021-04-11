@@ -4,6 +4,7 @@ summary: Semantic modelling project for MSc course of Semantic Web.
 tags:
 - Semantic Web
 - Digital Humanities
+- 2020
 
 
 date: "2020-02-01T00:00:00Z"

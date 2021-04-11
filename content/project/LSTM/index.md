@@ -6,6 +6,8 @@ tags:
 - Signal Processing
 - Python
 - AI
+- 2020
+- Algorithms
 
 date: "2020-06-01T00:00:00Z"
 

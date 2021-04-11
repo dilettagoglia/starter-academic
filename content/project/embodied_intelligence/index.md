@@ -5,6 +5,8 @@ summary: A presentation about the question of embodiment in behaviour-based robo
 tags:
 - Robotics
 - AI
+- 2020
+
 
 date: "2020-05-01T00:00:00Z"
 

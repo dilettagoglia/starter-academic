@@ -27,6 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: 2021
+    tag: 2021
+  - name: 2020
+    tag: 2020
+  - name: Old
+    tag: 2019 & 2018 & 2017
   - name: NN
     tag: NN
   - name: Algorithms

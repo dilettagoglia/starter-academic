@@ -3,6 +3,8 @@ title: Happy Kids website
 summary: 
 tags:
 - External projects
+- 2021
+- Web Design
 
 date: "2021-05-01T00:00:00Z"
 draft: true

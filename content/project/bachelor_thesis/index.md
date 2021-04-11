@@ -5,6 +5,7 @@ tags:
 - Digital Humanities
 - Linked Open Data
 - Semantic Web
+- 2019
 
 date: "2019-05-01T00:00:00Z"
 

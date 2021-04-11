@@ -6,6 +6,7 @@ tags:
 - Algorithms
 - Python
 - AI
+- 2021
 
 date: "2021-01-01T00:00:00Z"
 
