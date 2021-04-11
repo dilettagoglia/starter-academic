@@ -2,7 +2,7 @@
 title: Text Encoding
 summary: 
 tags:
-- Bachelor Degree projects
+- Digital Humanities projects
 
 date: "2017-01-01T00:00:00Z"
 
@@ -10,7 +10,7 @@ date: "2017-01-01T00:00:00Z"
 external_link: "/project/text_encoding/CDT/main.xhtml"
 
 image:
-  caption: TEI P% encoding extract
+  caption: TEI P5 encoding extract
   focal_point: Smart
 
 links:

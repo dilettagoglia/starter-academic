@@ -5,6 +5,7 @@ tags:
 - Software development
 - Algorithms
 - Python
+- Digital Humanities projects
 
 date: "2021-01-01T00:00:00Z"
 

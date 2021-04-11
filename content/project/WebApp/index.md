@@ -4,7 +4,7 @@ summary: Italiani mangiatori di pillole. Statistic and descriptive analysis of m
 
 tags:
 - Web Design
-- Bachelor Degree projects
+- Digital Humanities projects
 
 date: "2018-02-01T00:00:00Z"
 
