@@ -1,6 +1,6 @@
 ---
 title: Bachelor's Degree thesis
-summary: Linked Open Data per il Cultural Heritage italiano: conversione e pubblicazione nel Semantic Web del Fondo antico del Comune di Novi Ligure
+summary: Linked Open Data per il Cultural Heritage italiano. Conversione e pubblicazione nel Semantic Web del Fondo antico del Comune di Novi Ligure.
 tags:
 - Digital Humanities
 - Linked Open Data
