@@ -23,7 +23,7 @@ links:
   name: Material
   url: https://github.com/dilettagoglia/Robotics
 url_code: ""
-url_pdf: "/static/uploads/rob.pdf"
+url_pdf: "/uploads/rob.pdf"
 url_slides: ""
 url_video: ""
 

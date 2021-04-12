@@ -77,8 +77,8 @@ During my studies I gained deep expertise in Machine Learning, Deep Learning and
 I have working experience as teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
 In my free time I'm an activist and a bodybuilder athlete.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
-or my {{< staticref "media/cv.pdf" "newtab" >}}full CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+or my {{< staticref "/uploads/media/cv.pdf" "newtab" >}}full CV{{< /staticref >}}.
 
 *Reference letters available on request.*
 

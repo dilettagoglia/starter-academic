@@ -25,13 +25,13 @@ links:
 - icon: calendar-alt
   icon_pack: fas
   name: Talk
-  url: /static/uploads/talks.pdf
+  url: /uploads/talks.pdf
 - icon: shield-alt
   icon_pack: fa
   name: AJL website
   url: https://www.ajl.org/
 url_code: ""
-url_pdf: "/static/uploads/S&EI.pdf"
+url_pdf: "/uploads/S&EI.pdf"
 url_slides: ""
 url_video: ""
 

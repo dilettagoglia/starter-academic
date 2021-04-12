@@ -38,8 +38,8 @@ image:
   focal_point: ""
   preview_only: true
 date: 2020-07-01T17:35:00.000Z
-url_slides: "publication/bias/S&EI.pdf"
+url_slides: "/uploads/S&EI.pdf"
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "publication/bias/talks.pdf"
+url_poster: "/uploads/talks.pdf"
 url_code: ""
 ---

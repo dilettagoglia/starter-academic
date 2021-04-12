@@ -3,7 +3,7 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: 
+  - certificate_url: "/uploads/CLab.pdf"
     date_end: ""
     date_start: 2021-02-01
     description: ""
