@@ -101,6 +101,6 @@ Experience has also given to me these skills:
 
 ## Language
 
-* **Italian** | Native language
-* **English** | Advanced (CEFR level B2 First) | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
+* **Italian** | Native language  
+* **English** | Advanced First Certificate in English (FCE): Upper-Intermediate-2 (CEFR level B2 First), certified by University of Pisa | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
 * **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.jpg)
