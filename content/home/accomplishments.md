@@ -11,6 +11,7 @@ item:
     organization_url: http://contaminationlab.unipi.it/
     title: PhD+ course
     url: "http://contaminationlab.unipi.it/phdplus/"
+    links:
     - icon: arrow-right
       icon_pack: fas
       name: Final Pitch
