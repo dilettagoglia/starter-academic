@@ -26,7 +26,7 @@ item:
     organization: Foodiestrip & Confcommercio Lucca
     organization_url: https://www.foodiestrip.com/it/
     title: Digital Food Communication
-    url: "
+    url: ""
   - certificate_url: "/uploads/make_in_italy.jpg"
     date_end: 
     date_start: 2018-06-01
