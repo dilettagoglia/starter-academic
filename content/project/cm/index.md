@@ -35,22 +35,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Development of a videogame as a smart connected application, i.e. application which exhibit intelligent behaviour.
-
-### Skills learned: 
-- Videogames design and development
-- Software engineering requirements specification (Goal-Oriented method & User Stories)
-- Agile methods for sw development
-- Fuzzy Logic
-- Cellular Automata
-- Recurrent Neural Networks
-- Kanban development
-- Collaborative team work
-
-### Team members:
-- [Diletta Goglia](https://github.com/dilettagoglia)
-- [Elia Bisconti](https://github.com/eliabisconti)
-- [Matteo Montagnani](https://github.com/monta8)
-
-### Final grade
-30/30

@@ -6,10 +6,10 @@ item:
   - certificate_url: "https://drive.google.com/file/d/1fHjAJUSBBXtZQpVKouoqxQdDxc8SZaYF/view?usp=sharing"
     date_end: ""
     date_start: 2021-02-01
-    description: "The Phd+ is the program of the University of Pisa aimed at promoting and encouraging the entrepreneurial spirit and innovation among students of Master’s degree, Phd students and professors. See the Final Pitch [slides](http://contaminationlab.unipi.it/wp-content/uploads/2021/03/slide-kids-care.pdf) or [PDF](https://drive.google.com/file/d/1FHCVmZUkLmBvAltxYKXCbWG9in99EM4u/view?usp=sharing)"
+    description: "The PhD+ is the program of the University of Pisa aimed at promoting and encouraging the entrepreneurial spirit and innovation among students of Master’s degree, Phd students and professors. See the Final Pitch [slides](http://contaminationlab.unipi.it/wp-content/uploads/2021/03/slide-kids-care.pdf) or [PDF](https://drive.google.com/file/d/1FHCVmZUkLmBvAltxYKXCbWG9in99EM4u/view?usp=sharing)."
     organization: Contamination Lab 
     organization_url: http://contaminationlab.unipi.it/
-    title: PhD+ course
+    title: CLab PhD+ course
     url: "http://contaminationlab.unipi.it/phdplus/"
   - certificate_url: "/uploads/certificate/Samsung_Innovation_Camp.jpg"
     date_end: ""

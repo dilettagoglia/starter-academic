@@ -22,3 +22,5 @@ image:
 
 
 #todo: togliere il simbolo dei link
+#todo: controllare link corretti navbar
+#todo: ricontrollare tutti i "post"
