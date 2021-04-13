@@ -22,7 +22,7 @@ item:
   - certificate_url: "/uploads/certificate/digital_food_communication.jpg"
     date_end: 
     date_start: 2018-05-01
-    description: ""
+    description: "Use of digital tools for client communication and web promotion of food business"
     organization: Foodiestrip & Confcommercio Lucca
     organization_url: https://www.foodiestrip.com/it/
     title: Digital Food Communication
@@ -31,7 +31,7 @@ item:
     date_end: 
     date_start: 2018-06-01
     description: ""
-    organization: Make In Italy Festival
+    organization: Make In Italy Festival, @Thiene, Vicenza, Italy
     organization_url: https://makeinitalyfestival.it/
     title: Make In Italy Festival - digital world meets Italian manufacturing 
     url: https://makeinitalyfestival.it/il-festival/
