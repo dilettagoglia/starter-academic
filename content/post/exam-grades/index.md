@@ -8,7 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-##Exams
 
 ### Master Degree
 - 2021 | Robotics: **30/30**

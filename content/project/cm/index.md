@@ -1,6 +1,6 @@
 ---
 title: Unconstrained Optimization Algorithms 
-summary: Computing the 2-norm for a rectangular matrix (unconstrained approach) using two optimization algorithms: Standard gradient descent (steepest descent) method, and quasi-Newton method. Project for the Master Course of *Computational Mathematics for Learning and Data Analysis*. 
+summary: Computing the 2-norm for a rectangular matrix (unconstrained approach) using two optimization algorithms, the Standard gradient descent (steepest descent) method, and the Quasi-Newton method. Project for the Master Course of *Computational Mathematics for Learning and Data Analysis*. 
 tags:
 - Algorithms
 - Python
