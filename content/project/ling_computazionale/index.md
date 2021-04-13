@@ -22,6 +22,10 @@ links:
   icon_pack: fab
   name: Repo
   url: https://github.com/dilettagoglia/NLP-project
+- icon: laptop
+  icon_pack: fas
+  name: Website
+  url: "/project/ling_computazionale/LC/index.html"
 url_code: "https://github.com/dilettagoglia/NLP-project/blob/master/programma1.py"
 url_pdf: ""
 url_slides: ""
