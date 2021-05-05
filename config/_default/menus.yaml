@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Awards
-    url: '#accomplishments'
+    url: '#accomplishment'
     weight: 60
   - name: Publications
     url: '#publications'
@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 80
   - name: Rankings
-    url: '#rankings'
+    url: '#ranking'
     weight: 50
   - name: About
     url: '#hobby'

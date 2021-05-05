@@ -42,7 +42,7 @@ item:
     organization_url: https://makeinitalyfestival.it/
     title: 🏆 Study Grant
     url: ""
-widget_id: rankings
+widget_id: ranking
 headless: true
 weight: 70
 title: Rankings

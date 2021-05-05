@@ -52,7 +52,7 @@ item:
     title: Attestation de mérite pour l'étude de la langue française
     url: https://www.amopaitalia.it/
     
-widget_id: accomplishments
+widget_id: accomplishment
 headless: true
 weight: 90
 title: Awards
