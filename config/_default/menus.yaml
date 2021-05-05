@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#bio'
+    url: '#about'
     weight: 10
   - name: Experience
     url: '#experience'
@@ -26,7 +26,7 @@ main:
     url: '#talks'
     weight: 50
   - name: About
-    url: '#about'
+    url: '#pages'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

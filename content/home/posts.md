@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: hobby
+widget_id: pages
 headless: true
 weight: 130
 title: Something more about me
