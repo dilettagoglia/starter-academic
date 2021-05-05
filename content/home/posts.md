@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: pages
+widget_id: posts
 headless: true
 weight: 130
 title: Something more about me

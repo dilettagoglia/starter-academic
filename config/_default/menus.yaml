@@ -26,13 +26,13 @@ main:
     url: '#talks'
     weight: 50
   - name: About
-    url: '#pages'
+    url: '#posts'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 
   - name: CV
-    url: uploads/curriculum_diletta_goglia.pdf
+    url: uploads/cv/resume.pdf
     weight: 90
 
