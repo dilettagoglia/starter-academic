@@ -3,7 +3,7 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
- - certificate_url: ""
+  - certificate_url: ""
     date_end: ""
     date_start: 2021-07-06
     description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making"
