@@ -25,7 +25,7 @@ I listed down below my main skills and also some secondary ones, that I had the 
 
 # Hard Skills
 
-I have **advanced expertise** in:
+👉 I have **advanced expertise** in:
 
 * **Machine Learning, Deep Learning, Neural Networks**
 
@@ -41,7 +41,7 @@ I have **advanced expertise** in:
 * **Web Development & Desing**
 
   * HTML, CSS, XML, XHTML, XSL-T, RelaxNG, JavaScript
-  * Client-side lanuages: JavaScript, TypeScript
+  * Client-side languages: JavaScript, TypeScript
   * Server-side languages: Python, PHP
   * Other languages: MatLab, LaTeX
   * Other tools: Flask, Google API, AJAX call, jQuery, JSON
@@ -49,7 +49,7 @@ I have **advanced expertise** in:
   * Graphic Design & Brand Design
 * **Semantic Web and Linked Open Data**
 
-  * RDF, RSFS, OWL, SPARQL
+  * RDF, RDFS, OWL, SPARQL
 * **Communication**
 
   * Social Network Management
@@ -65,7 +65,6 @@ I have **advanced expertise** in:
   * Trello, Asana (to manage group working)
   * Word, PowerPoint, Excel, and all other Microsoft products
 
-\---
 
 👉 I also have **minor expertise** in:
 
@@ -78,23 +77,21 @@ I have **advanced expertise** in:
 
 # Soft Skills
 
-During my studies I completed a lot of different projects either by myself or **in a group** (both small and large groups). This had thaught me how to **efficiently collaborate** with collegues, and how to **organze and coordinate work** during development. I have learnt how to switch easily from **different environments and programming languages**. Also by working alone I improved my **autonomy** on **problem solving** and on researching new things by myself.
+During my studies I completed a lot of different projects either by myself or **in a group** (both small and large groups). This had taught me how to **efficiently collaborate** with colleagues, and how to **organize and coordinate work** during development. I have learnt how to switch easily from **different environments and programming languages**. Also by working alone I improved my **autonomy** on **problem solving** and on researching new things by myself.
 
-I constantly **keep myself updated** reading news, latest paper abouth technology and attending new courses about many different thematic areas.
+I constantly **keep myself updated** by reading news and latest paper about technology and by attending new courses about many different thematic areas.
 
 Experience has also given to me these skills:
 
-* Distance-working / Smartworking with structured tools to manage indivisual & teams work (es. Trello, Notion, Discord, Git, Asana)
-
-  * Organize work remotely
-  * Structure group work in Kanban style
+* Distance-working / Smartworking with structured tools to manage both individual and team work (es. Trello, Notion, Discord, GitHub, Asana).
+* Remote working organization
+* Structure group work in Kanban style
 * Great care for details
 * Critical skills
 * Precise organization and time management
-* Public speaking, talks and public presentations
+* Public speaking, talks and presentations
 * Public relations
 * Enthusiastic, positive and driven attitude
-* Excellent organization and time management
 * Ability to develop and manage project schedules
 
 # Others
