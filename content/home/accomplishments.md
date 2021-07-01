@@ -6,7 +6,7 @@ item:
   - certificate_url: ""
     date_end: ""
     date_start: 2021-07-06
-    description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making"
+    description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making."
     organization: Contamination Lab 
     organization_url: http://contaminationlab.unipi.it/
     title: CLab Soft Skills course

@@ -33,6 +33,6 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 
   - name: CV
-    url: uploads/cv/resume.pdf
+    url: static/uploads/cv/scientific-cv-diletta-goglia.pdf
     weight: 90
 
