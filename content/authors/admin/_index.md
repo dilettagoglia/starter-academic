@@ -60,14 +60,14 @@ organizations:
     url: https://www.unipi.it
 education:
   courses:
-    - course: MSc in Artificial Intelligence [2019 - currently]
+    - course: "MSc in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) [2019 - currently]"
       institution: University of Pisa
       year: ""
-    - course: BSc in Digital Humanities [2015 - 2018]
-      institution: "University of Pisa - final grade: 110/110"
+    - course: "BSc in [Digital Humanities](https://infouma.fileli.unipi.it/) [2015 - 2018]"
+      institution: "University of Pisa - Final grade: 110/110"
       year: ""
     - course: Scientific high school diploma
-      institution: Liceo Scientifico G. Galieli, Civitavecchia
+      institution: "Liceo Scientifico G. Galilei, Civitavecchia (Rome) - Final grade: 95/100"
 email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
