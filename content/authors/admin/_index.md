@@ -77,9 +77,9 @@ During my studies I gained deep expertise in Machine Learning, Deep Learning and
 I have working experience as teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
 In my private life I'm a proud buddhist and a bodybuilder athlete in NBFI federation.
 
-Downloads: {{< icon name="download" pack="fas" >}}{{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}resumé{{< /staticref >}},
-{{< icon name="download" pack="fas" >}}{{< staticref "/uploads/cv/full-cv-diletta-goglia.pdf" "newtab" >}} full CV{{< /staticref >}},
-{{< icon name="download" pack="fas" >}}{{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} scientific CV{{< /staticref >}}.
+Downloads: {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} resumé{{< /staticref >}} |
+{{< staticref "/uploads/cv/full-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} full CV{{< /staticref >}} |
+{{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} scientific CV{{< /staticref >}}.
 
 *Reference letters available on request.*
 

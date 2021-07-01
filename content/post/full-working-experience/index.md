@@ -9,10 +9,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-- Jan 2021 - currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
+- Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
-- Mar 2020 - currently | **Technical support at Informatics Section**, @Medical School, Santa Chiara Hospital, Pisa
-    - Support the operators at the IT centre of Medicine. Interrupted due to COVID-19.
+- Nov 2020 - Jul 2021 | **Technical support at Informatics Section**, @Medical School, Santa Chiara Hospital, Pisa
+    - Support the operators at the IT centre of Medicine. 
 - Sep 2020 - currently | **Teaching assistant**, @[Department of Computer Science, University of Pisa](https://di.unipi.it/en/)
     - Teaching Javascript & Typescript at the course of "Lab I", to a class of students at the first year of the Bachelor Degree in Computer Science
 - Oct 2020 | **Social Media Manager** for the event [Internet Festival 2020 edition](https://www.internetfestival.it/), @Pisa

@@ -3,6 +3,14 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
+ - certificate_url: ""
+    date_end: ""
+    date_start: 2021-07-06
+    description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making"
+    organization: Contamination Lab 
+    organization_url: http://contaminationlab.unipi.it/
+    title: CLab Soft Skills course
+    url: "http://contaminationlab.unipi.it/soft-skills-2021/"
   - certificate_url: "https://drive.google.com/file/d/1fHjAJUSBBXtZQpVKouoqxQdDxc8SZaYF/view?usp=sharing"
     date_end: ""
     date_start: 2021-02-01

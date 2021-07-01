@@ -45,7 +45,10 @@ I listed down below my main skills and also some secondary ones, that I had the 
   * Server-side languages: Python, PHP
   * Other languages: MatLab, LaTeX
   * Other tools: Flask, Google API, AJAX call, jQuery, JSON
-  * MySQL for relational DBMS
+  * DB and KB development and management:
+    * MySQL for relational DBMS
+    * E-R models development
+    * Access tables, relations and database creation and management 
   * Graphic Design & Brand Design
 * **Semantic Web and Linked Open Data**
 
@@ -63,7 +66,7 @@ I listed down below my main skills and also some secondary ones, that I had the 
   * Adobe Photoshop, Illustrator, InDesign
   * Kanban (for software development)
   * Trello, Asana (to manage group working)
-  * Word, PowerPoint, Excel, and all other Microsoft products
+  * Access, Sharepoint, Word, PowerPoint, Excel, and all other Microsoft products
 
 
 👉 I also have **minor expertise** in:
@@ -93,6 +96,8 @@ Experience has also given to me these skills:
 * Public relations
 * Enthusiastic, positive and driven attitude
 * Ability to develop and manage project schedules
+
+I also attended a specific [course about soft skills](http://contaminationlab.unipi.it/soft-skills-2021/) (see my [certificate]()), that taught me the importance of people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making in any work environment. 
 
 # Others
 

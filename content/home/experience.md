@@ -16,9 +16,11 @@ experience:
     company_url: http://www.med.unipi.it/index.php?lang=it
     location: Pisa, Italy
     date_start: 2020-11-01
-    date_end: ""
-    description: Support to operators at the IT centre of Medicine. Database
-      modeling for a pharmacy KB. 
+    date_end: "2021-07-15"
+    description: Support to operators at the IT centre of Medicine. Tasks: 
+        ▪ Creation and development of an E-R model for a knowledge base of medicinal plants @Pharmacy Department, University of Pisa, with Microsoft Access database. 
+        ▪ Creation and development of a website for usability and accessibility of the KB with Microsoft Sharepoint.
+        ▪ Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa
   - title: Assistance to tech staff and teachers
     company: e-learning project, University of Pisa
     company_url: https://medialab.sp.unipi.it/
