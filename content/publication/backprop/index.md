@@ -12,7 +12,7 @@ summary: "In this article I will go over the mathematical process behind backpro
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "https://www.academia.edu/44027814/Amplifying_bias_automating_racism_Ethically_framing_the_issue_of_algorithmic_discrimination"
+url_source: "https://medium.com/@d.goglia/backpropagation-for-dummies-e069410fa585"
 url_video: ""
 title: Backpropagation for Dummies
 subtitle: All the math behind, simplest than ever.

@@ -13,7 +13,7 @@ abstract: "Riding the wave of the current #BlackLivesMatter movement, in this
 slides: ""
 url_pdf: "https://www.academia.edu/44027814/Amplifying_bias_automating_racism_Ethically_framing_the_issue_of_algorithmic_discrimination"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
 author_notes: []
