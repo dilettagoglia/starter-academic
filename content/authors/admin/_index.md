@@ -30,7 +30,7 @@ social:
     label: Linkedin
 # Google Scholar
   - icon: graduation-cap
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
     label: Google Scholar
     display:
