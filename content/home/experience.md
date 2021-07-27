@@ -20,7 +20,8 @@ experience:
     description: "Support to operators at the IT centre of Medicine. Tasks: 
         ▪ Creation and development of an E-R model for a knowledge base of medicinal plants @Pharmacy Department, University of Pisa, with Microsoft Access database. 
         ▪ Creation and development of a website for usability and accessibility of the KB with Microsoft Sharepoint.
-        ▪ Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa"
+        ▪ Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa.
+        ▪ Tutoring of webdesign and DB management basics with Microsoft Access and Sharepoint to pharmacy students"
   - title: Assistance to tech staff and teachers
     company: e-learning project, University of Pisa
     company_url: https://medialab.sp.unipi.it/

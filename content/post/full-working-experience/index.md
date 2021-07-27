@@ -12,7 +12,10 @@ image:
 - Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
 - Nov 2020 - Jul 2021 | **Technical support at Informatics Section**, @Medical School, Santa Chiara Hospital, Pisa
-    - Support the operators at the IT centre of Medicine. 
+        - Creation and development of an E-R model for a knowledge base of medicinal plants @Pharmacy Department, University of Pisa, with Microsoft Access database. 
+        - Creation and development of a website for usability and accessibility of the KB with Microsoft Sharepoint.
+        - Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa.
+        - Tutoring of webdesign and DB management basics with Microsoft Access and Sharepoint to pharmacy students
 - Sep 2020 - currently | **Teaching assistant**, @[Department of Computer Science, University of Pisa](https://di.unipi.it/en/)
     - Teaching Javascript & Typescript at the course of "Lab I", to a class of students at the first year of the Bachelor Degree in Computer Science
 - Oct 2020 | **Social Media Manager** for the event [Internet Festival 2020 edition](https://www.internetfestival.it/), @Pisa
