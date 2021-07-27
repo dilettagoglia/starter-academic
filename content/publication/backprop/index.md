@@ -22,6 +22,7 @@ tags:
   - ML
   - Algorithms
   - NN
+  - 2021
 projects:
 
 image:

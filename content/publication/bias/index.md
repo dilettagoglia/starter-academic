@@ -32,8 +32,9 @@ tags:
   - AI Ethic
   - Bias
   - Algorithms
+  - 2020
 projects:
-  - bias
+  - AI_injustice_league
 image:
   caption: ""
   focal_point: ""

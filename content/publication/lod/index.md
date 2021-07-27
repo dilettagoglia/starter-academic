@@ -13,6 +13,8 @@ url_pdf: "https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Her
 url_slides: "project/bachelor_thesis/laurea.pdf"
 url_source: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=DEljG4UAAAAJ&citation_for_view=DEljG4UAAAAJ:u-x6o8ySG0sC"
 featured: false
+project: 
+    - bachelor_thesis
 tags:
   - Linked Open Data
   - Semantic Web
