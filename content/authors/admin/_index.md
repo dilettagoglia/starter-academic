@@ -9,46 +9,54 @@ interests:
   - Deep Learning and Neural Models
   - Signal/image processing and analysis
 social:
+# twitter
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dilettagoglia
-    label: "Twitter "
+    label: "Twitter"
+# facebook
   - display:
       header: true
     icon_pack: fab
     icon: facebook-square
     link: https://www.facebook.com/diletta.goglia.71
     label: Facebook
+# Linkedin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dilettagoglia/
     display:
       header: true
     label: Linkedin
-  - icon: google
+# Google Scholar
+  - icon: graduation-cap
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
     label: Google Scholar
     display:
       header: true
+# GitHub
   - icon: github
     icon_pack: fab
     link: https://github.com/dilettagoglia
     label: GitHub
     display:
       header: true
+# Medium
   - display:
       header: true
     icon_pack: fab
     icon: medium-m
     link: https://medium.com/@d.goglia
     label: Medium
+# Youtube
   - display:
       header: false
     link: https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA
     icon_pack: fab
     label: Youtube
     icon: youtube-play
+# Academia
   - display:
       header: true
     link: https://bdfinance.academia.edu/DilettaGoglia

@@ -7,7 +7,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: "[Medium](medium.com)"
+publication: "[Medium](https://medium.com/)"
 summary: "In this article I will go over the mathematical process behind backpropagation algorithm and I will show you all the derivations and computations step by step in the easiest way possible."
 url_dataset: ""
 url_project: ""
