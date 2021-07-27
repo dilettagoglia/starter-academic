@@ -11,18 +11,18 @@ abstract: "Riding the wave of the current #BlackLivesMatter movement, in this
   address these issues, proposes actions to do that and underlines the
   importance of rules and norms to keep human beings accountable. "
 slides: ""
-url_pdf: "publication/bias/bias.pdf"
+url_pdf: "https://www.academia.edu/44027814/Amplifying_bias_automating_racism_Ethically_framing_the_issue_of_algorithmic_discrimination"
 publication_types:
   - "2"
 authors:
   - admin
 author_notes: []
-publication: (unpublished)
+publication: (unpublished paper)
 summary: ""
 url_dataset: ""
-url_project: "publication/bias/bias.pdf"
+url_project: ""
 publication_short: ""
-url_source: "publication/bias/bias.pdf"
+url_source: "https://www.academia.edu/44027814/Amplifying_bias_automating_racism_Ethically_framing_the_issue_of_algorithmic_discrimination"
 url_video: ""
 title: Amplifying bias, automating racism
 subtitle: Ethically framing the issue of algorithmic discrimination
@@ -34,7 +34,7 @@ tags:
 projects:
   - bias
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: true
 date: 2020-07-01T17:35:00.000Z

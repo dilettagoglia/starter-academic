@@ -6,11 +6,12 @@ publication_types:
   - "7"
 authors:
   - admin
-publication: (unpublished)
+publication: (Bachelor Thesis | unpublished)
 abstract: ""
 draft: false
-url_pdf: "publication/lod/tesi.pdf"
+url_pdf: "https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure"
 url_slides: "project/bachelor_thesis/laurea.pdf"
+url_source: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=DEljG4UAAAAJ&citation_for_view=DEljG4UAAAAJ:u-x6o8ySG0sC"
 featured: false
 tags:
   - Linked Open Data
@@ -30,4 +31,4 @@ summary: >-
     rivoluzione copernicana dei Linked Open Data nel mondo dei beni culturali.
 date: 2019-05-09T18:26:00.000Z
 ---
-<https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure>
+
