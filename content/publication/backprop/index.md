@@ -20,7 +20,8 @@ doi: ""
 featured: false
 tags:
   - ML
-  - Algorithm
+  - Algorithms
+  - NN
 projects:
 
 image:

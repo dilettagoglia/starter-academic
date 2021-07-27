@@ -31,6 +31,7 @@ featured: false
 tags:
   - AI Ethic
   - Bias
+  - Algorithms
 projects:
   - bias
 image:
