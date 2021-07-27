@@ -5,7 +5,7 @@ item:
   - certificate_url: 
     date_end: ""
     date_start: 2021-01-01
-    description: "Winning candidate for job position as teaching assistant"
+    description: "Winning candidate for job position as teaching assistant (tutoring)"
     organization: Computer Science Department, University of Pisa
     organization_url: 
     title: 🏆 Grant assignment for teaching (2nd semester)
@@ -13,7 +13,7 @@ item:
   - certificate_url: 
     date_end: ""
     date_start: 2020-10-01
-    description: "Winning candidate for job position as teaching assistant"
+    description: "Winning candidate for job position as teaching assistant (tutoring)"
     organization: Computer Science Department, University of Pisa
     organization_url: 
     title: 🏆 Grant assignment for teaching (1st semester)

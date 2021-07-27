@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Teaching assistance
+  - title: Teaching assistance (tutoring)
     company: Department of Computer Science, University of Pisa
     company_url: https://di.unipi.it/en/
     location: Pisa, Italy

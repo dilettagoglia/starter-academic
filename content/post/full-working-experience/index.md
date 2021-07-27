@@ -11,7 +11,6 @@ image:
 ---
 - Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
-    <br/>
    
 - Nov 2020 - Jul 2021 | **Technical support at Informatics Section**, @Medical School, Santa Chiara Hospital, Pisa
     - Creation and development of an E-R model for a knowledge base of medicinal plants @Pharmacy Department, University of Pisa, with Microsoft Access database. 
@@ -35,7 +34,7 @@ image:
 - May - Jun 2018 | **Web Designer, Promoter, Social Media Manager**, @Vintage Pub, Pisa
     - Website development and social network pages management for activity promoting (food & restaurant services sector).
 
-- Mar - May 2018 | **Digital publishing internship**, @Laboratorio di Cultura Digitale, University of Pisa (curricular internship)
+- Mar - May 2018 | **Digital publishing internship**, @Laboratorio di Cultura Digitale, University of Pisa (bachelor curricular internship)
     - Development and writing of an interacting ebook in english to promote an activity for the project "[A Digital Journey](http://adigitaljourney.labcd.unipi.it/) in Europe, Erasmus+". Main aim: ICT integration in schools, and best practice sharing between students about digital learning.
 
 >*see also **[ranking](/#rankings)** section*
