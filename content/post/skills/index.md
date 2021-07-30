@@ -1,8 +1,8 @@
 ---
 title: 📌 Full CV
-subtitle: Click here to see my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
+subtitle: This is my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
 date: 2021-04-08T11:39:51.648Z
-summary: Click here to see my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
+summary: This is my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
 draft: false
 featured: false
 authors:
@@ -18,7 +18,7 @@ image:
   preview_only: true
   filename: 
 ---
-# 1. Profile description 👩
+# 1. Profile description 
 
 I have gained the following skills both developing university projects and working for external companies.
 
@@ -104,9 +104,9 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 
 * **Italian** | Native language  
 * **English** | Advanced First Certificate in English (FCE): Upper-Intermediate-2 (CEFR level B2 First), certified by University of Pisa | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
-* **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.jpg)
+* **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.j
 
-# 2. Detailed Working Experience 💼
+# 2. Detailed Working Experience 
 
 - Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
@@ -140,8 +140,7 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 See also **[rankings](/#rankings)** 
 {{% /callout %}}
 
-
-# 3. Most recent exam grades 🥇
+# 3. Most recent exam grades 
 
 ### Master Degree
 - 2021 | Robotics: **30/30**
@@ -160,7 +159,7 @@ See also **[rankings](/#rankings)**
 - 2018 | Text encoding: **28/30**
 - 2018 | Ethics of communication: **30/30**
 
-# 4. Training courses, attended seminars, events and conferences 📂
+# 4. Training courses, attended seminars, events and conferences 
 
 - 2020 | *[Artificial Intelligence and Religion: AIR2020/21](https://air2020.fbk.eu/home)*, 
     "Sociological, Anthropological and Religious Studies Approaches to AI and Religion", 
@@ -197,8 +196,7 @@ See also **[rankings](/#rankings)**
 See also **[awards](/#accomplishments)** 
 {{% /callout %}}
 
-
-# 5. Hobby and free time 🌍 
+# 5. Hobby and free time 
 
 * *Coming soon…* | **[Labodif course](https://www.labodif.com/corsi-formativi-enti-istituzioni/)**: Istituto di ricerca e formazione nello studio delle differenze di genere
 * *2021* | **Bodybuilding competitor athlete** in [NBFI](https://www.nbfi.it/) federation

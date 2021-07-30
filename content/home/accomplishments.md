@@ -3,7 +3,7 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: ""
+  - certificate_url: "https://drive.google.com/file/d/1OsbMFtBdDdkH5MZxwoqEeLRoStlBkUVo/view?usp=sharing"
     date_end: ""
     date_start: 2021-07-06
     description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making."
@@ -16,8 +16,8 @@ item:
     date_end: ""
     date_start: 2021-02-01
     description: "The PhD+ is the program of the University of Pisa aimed at promoting and encouraging the entrepreneurial spirit and innovation among students of Master’s degree, Phd students and professors. See the Final Pitch [slides](http://contaminationlab.unipi.it/wp-content/uploads/2021/03/slide-kids-care.pdf) or [PDF](https://drive.google.com/file/d/1FHCVmZUkLmBvAltxYKXCbWG9in99EM4u/view?usp=sharing)."
-    organization: Coursera
-    organization_url: https://www.coursera.org
+    organization: Contamination Lab 
+    organization_url: http://contaminationlab.unipi.it/
     title: CLab PhD+ course
     url: "http://contaminationlab.unipi.it/phdplus/"
   - certificate_url: "/uploads/certificate/Samsung_Innovation_Camp.jpg"
