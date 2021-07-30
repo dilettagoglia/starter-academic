@@ -25,7 +25,7 @@ main:
   - name: Rankings
     url: '#talks'
     weight: 50
-  - name: About
+  - name: Full CV
     url: '#posts'
     weight: 70
 

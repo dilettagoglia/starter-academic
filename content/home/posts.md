@@ -3,7 +3,7 @@ widget: pages
 widget_id: posts
 headless: true
 weight: 130
-title: Something more about me
+title: Full CV
 subtitle: null
 active: true
 content:
@@ -20,5 +20,5 @@ content:
   offset: 0
   order: desc
 design:
-  view: 1
+  view: 2
 ---
