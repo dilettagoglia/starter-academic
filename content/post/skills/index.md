@@ -18,6 +18,11 @@ image:
   preview_only: true
   filename: 
 ---
+
+{{% callout note %}}
+See also my{{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} scientific CV{{< /staticref >}}
+{{% /callout %}}
+
 # 1. Profile description 
 
 I have gained the following skills both developing university projects and working for external companies.
