@@ -16,8 +16,8 @@ item:
     date_end: ""
     date_start: 2021-02-01
     description: "The PhD+ is the program of the University of Pisa aimed at promoting and encouraging the entrepreneurial spirit and innovation among students of Master’s degree, Phd students and professors. See the Final Pitch [slides](http://contaminationlab.unipi.it/wp-content/uploads/2021/03/slide-kids-care.pdf) or [PDF](https://drive.google.com/file/d/1FHCVmZUkLmBvAltxYKXCbWG9in99EM4u/view?usp=sharing)."
-    organization: coursera
-    organization_url: http://contaminationlab.unipi.it/
+    organization: Coursera
+    organization_url: https://www.coursera.org
     title: CLab PhD+ course
     url: "http://contaminationlab.unipi.it/phdplus/"
   - certificate_url: "/uploads/certificate/Samsung_Innovation_Camp.jpg"
