@@ -11,6 +11,7 @@ item:
     organization_url: http://contaminationlab.unipi.it/
     title: CLab Soft Skills course
     url: "http://contaminationlab.unipi.it/soft-skills-2021/"
+    image: /uploads/images/clab.png
   - certificate_url: "https://drive.google.com/file/d/1fHjAJUSBBXtZQpVKouoqxQdDxc8SZaYF/view?usp=sharing"
     date_end: ""
     date_start: 2021-02-01
