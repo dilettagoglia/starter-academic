@@ -84,9 +84,10 @@ I'm 24 years old, I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7r
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 I also have working experience as ML researcher, teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
 In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
+I am also a huge reader! I love books about roboethic, religions, healthy habits, and personal growth.
 
 Downloads: {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} resumé{{< /staticref >}} |
-{{< staticref "/uploads/cv/full-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} full CV{{< /staticref >}} |
+{{< staticref "/post/skills/index" "newtab" >}}{{< icon name="download" pack="fas" >}} full CV{{< /staticref >}} |
 {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} scientific CV{{< /staticref >}}.
 
 *Reference letters available on request.*

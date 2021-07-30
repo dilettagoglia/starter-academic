@@ -1,8 +1,8 @@
 ---
 title: 📌 Full CV
-subtitle: 
+subtitle: Click here to see my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
 date: 2021-04-08T11:39:51.648Z
-summary: 
+summary: Click here to see my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
 draft: false
 featured: false
 authors:
@@ -18,9 +18,8 @@ image:
   preview_only: true
   filename: 
 ---
-# 👩🏻 Profile description 
+# 1. Profile description 👩
 
-## Skills 
 I have gained the following skills both developing university projects and working for external companies.
 
 I listed down below my main skills and also some secondary ones, that I had the opportunity to learn over the years, through study and concrete application.
@@ -107,7 +106,7 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 * **English** | Advanced First Certificate in English (FCE): Upper-Intermediate-2 (CEFR level B2 First), certified by University of Pisa | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
 * **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.jpg)
 
-# 💼 Detailed Working Experience
+# 2. Detailed Working Experience 💼
 
 - Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
@@ -137,9 +136,12 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 - Mar - May 2018 | **Digital publishing internship**, @Laboratorio di Cultura Digitale, University of Pisa (bachelor curricular internship)
     - Development and writing of an interacting ebook in english to promote an activity for the project "[A Digital Journey](http://adigitaljourney.labcd.unipi.it/) in Europe, Erasmus+". Main aim: ICT integration in schools, and best practice sharing between students about digital learning.
 
->*see also **[ranking](/#rankings)** section*
+{{% callout note %}}
+See also **[rankings](/#rankings)** 
+{{% /callout %}}
 
-# 🥇 Most recent exam grades 
+
+# 3. Most recent exam grades 🥇
 
 ### Master Degree
 - 2021 | Robotics: **30/30**
@@ -158,7 +160,7 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 - 2018 | Text encoding: **28/30**
 - 2018 | Ethics of communication: **30/30**
 
-# 📂 Training courses, attended seminars, events and conferences
+# 4. Training courses, attended seminars, events and conferences 📂
 
 - 2020 | *[Artificial Intelligence and Religion: AIR2020/21](https://air2020.fbk.eu/home)*, 
     "Sociological, Anthropological and Religious Studies Approaches to AI and Religion", 
@@ -187,7 +189,16 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 
 - 2018 | [*Digital Food Communication*](https://www.facebook.com/events/2060432217536402/) @Confcommercio Lucca: using digital tools for client communication and web promotion of food business.
 
-# 🌍 Hobby and free time
+- 2014 | *BLS (Basic Life Support)*, Croce Rossa Italiana - Comitato area Provinciale di Roma
+
+- 2010 | *Attestation de mérite pour l'étude de la langue française*, Association des Membres de l'Ordre des Palmes Académiques
+
+{{% callout note %}}
+See also **[awards](/#accomplishments)** 
+{{% /callout %}}
+
+
+# 5. Hobby and free time 🌍 
 
 * *Coming soon…* | **[Labodif course](https://www.labodif.com/corsi-formativi-enti-istituzioni/)**: Istituto di ricerca e formazione nello studio delle differenze di genere
 * *2021* | **Bodybuilding competitor athlete** in [NBFI](https://www.nbfi.it/) federation

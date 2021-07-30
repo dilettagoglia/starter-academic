@@ -3,7 +3,7 @@ widget: pages
 widget_id: posts
 headless: true
 weight: 130
-title: Full CV
+title: Curriculum
 subtitle: null
 active: true
 content:
