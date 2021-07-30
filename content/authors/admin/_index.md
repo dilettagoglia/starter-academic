@@ -80,10 +80,10 @@ email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
 ---
-I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and I am student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa. 
+I'm 24 years old, I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and I am student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa. 
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
-I also have working experience as teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
-In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding athlete in [NBFI](https://www.nbfi.it/) federation.
+I also have working experience as ML researcher, teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
+In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
 
 Downloads: {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} resumé{{< /staticref >}} |
 {{< staticref "/uploads/cv/full-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} full CV{{< /staticref >}} |
