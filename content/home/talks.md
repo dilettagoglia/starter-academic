@@ -3,19 +3,27 @@ widget: accomplishments
 date_format: Jan 2006
 item:
   - certificate_url: 
-    date_end: ""
-    date_start: 2021-01-01
+    date_end: 2022-03-01
+    date_start: 2021-09-01
+    description: "Winning candidate for a research fellow in 'Machine learning and data science to study and predict human migration by integrating data from social networks and traditional sources'"
+    organization: HumMingBird
+    organization_url: https://hummingbird-h2020.eu/about
+    title: 🏆 Research Fellow
+    url: "https://hummingbird-h2020.eu/"
+  - certificate_url: 
+    date_end: 2021-05-01
+    date_start: 2021-02-01
     description: "Winning candidate for job position as teaching assistant (tutoring)"
     organization: Computer Science Department, University of Pisa
-    organization_url: 
+    organization_url: https://didattica.di.unipi.it/en/master-programme-in-computer-science/
     title: 🏆 Grant assignment for teaching (2nd semester)
     url: "https://alboufficiale.unipi.it/wp-content/uploads/2021/01/verbale-supporti2021.pdf"
   - certificate_url: 
-    date_end: ""
+    date_end: 2021-01-01
     date_start: 2020-10-01
     description: "Winning candidate for job position as teaching assistant (tutoring)"
     organization: Computer Science Department, University of Pisa
-    organization_url: 
+    organization_url: https://didattica.di.unipi.it/en/master-programme-in-computer-science/
     title: 🏆 Grant assignment for teaching (1st semester)
     url: "https://alboufficiale.unipi.it/wp-content/uploads/2020/10/verbale-counseling.pdf"
   - certificate_url: 

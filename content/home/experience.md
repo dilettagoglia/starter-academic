@@ -22,13 +22,14 @@ experience:
         ▪ Creation and development of a website for usability and accessibility of the KB with Microsoft Sharepoint.
         ▪ Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa.
         ▪ Tutoring of webdesign and DB management basics with Microsoft Access and Sharepoint to pharmacy students"
-  - title: Assistance to tech staff and teachers
-    company: e-learning project, University of Pisa
-    company_url: https://medialab.sp.unipi.it/
+  - title: Researcher
+    company: HumMingBird
+    company_url: https://hummingbird-h2020.eu/about
     location: Pisa, Italy
-    date_start: 2018-11-01
-    date_end: 2019-09-01
-    description: Tech assistance and support for post-production of multimedia content.
+    date_start: 2021-09-01
+    date_end: 2022-03-01
+    description: "Researcher in Machine Learning e Data Science for [HumMingBird](https://hummingbird-h2020.eu/about). 
+                  Research topic: 'Big data for migration studies'. Study and predict human migration by integrating data from social networks and traditional sources."
 widget_id: experience
 headless: true
 weight: 30
