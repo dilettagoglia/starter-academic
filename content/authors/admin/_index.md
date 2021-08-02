@@ -86,11 +86,5 @@ I also have working experience as ML researcher, teaching assistant, as Web Desi
 In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
 I am also a huge reader! I love books about roboethic, religions, healthy habits, and personal growth.
 
-### Curriculum : 
-- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} Scientific CV{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}} Resumé{{< /staticref >}} 
-- {{< icon name="download" pack="fas" >}} [Full CV](https://messy-layer-48f.notion.site/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) 
 
-
-*Reference letters available on request.*
 
