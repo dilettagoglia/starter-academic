@@ -9,9 +9,9 @@ author: admin
 ---
 
 ### Download : 
-- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} Scientific CV{{< /staticref >}}
-- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}} Resumé{{< /staticref >}} 
-- {{< icon name="download" pack="fas" >}} [Full CV](https://messy-layer-48f.notion.site/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) 
+- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} Scientific CV{{< /staticref >}} | *last update: Jun 2021*
+- {{< icon name="download" pack="fas" >}} {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}} Resumé{{< /staticref >}} | *last update: Aug 2020*
+- {{< icon name="download" pack="fas" >}} [Full CV](https://messy-layer-48f.notion.site/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) | *last update: Aug 2021*
 
 
 *Reference letters available on request.*
