@@ -1,6 +1,6 @@
 ---
 title: Diletta Goglia
-role: "Master of Science student in Artificial Intelligence | Researcher for HumMingBird"
+role: "MSc student in Artificial Intelligence @UniPi | ML Researcher for HumMingBird"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -83,7 +83,7 @@ highlight_name: false
 I'm 24 years old, I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and I am student of the Master's Degree course in 
 [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) 
 at the Computer Science department of the University of Pisa. 
-In parallel, I'm a researcher in Machine Learning e Data Science for migration studies and prefictions @[HumMingBird](https://hummingbird-h2020.eu/about)
+In parallel, I'm a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about).
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 I also have working experience as ML researcher, teaching assistant, as Web Designer and Developer, Social Media Editor and Content Creator.
 In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.

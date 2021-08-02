@@ -22,7 +22,7 @@ experience:
         ▪ Creation and development of a website for usability and accessibility of the KB with Microsoft Sharepoint.
         ▪ Detection of Access Points functioning @Departments of: Forensic Medicine, Pathology, Pharmacology and Oncology, University of Pisa.
         ▪ Tutoring of webdesign and DB management basics with Microsoft Access and Sharepoint to pharmacy students"
-  - title: Researcher
+  - title: Researcher in Computational Social Science 
     company: HumMingBird
     company_url: https://hummingbird-h2020.eu/about
     location: Pisa, Italy
