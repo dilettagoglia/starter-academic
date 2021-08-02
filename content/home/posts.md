@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: text
 widget_id: posts
 headless: true
 weight: 130
@@ -22,3 +22,4 @@ content:
 design:
   view: 2
 ---
+

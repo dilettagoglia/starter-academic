@@ -87,8 +87,8 @@ In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bod
 I am also a huge reader! I love books about roboethic, religions, healthy habits, and personal growth.
 
 Downloads: {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} resumé{{< /staticref >}} |
-{{< staticref "/post/skills/index" "newtab" >}}{{< icon name="download" pack="fas" >}} full CV{{< /staticref >}} |
+[{{< icon name="download" pack="fas" >}} full CV](https://www.notion.so/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) |
 {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} scientific CV{{< /staticref >}}.
 
-*Reference letters available on request.*
+#*Reference letters available on request.*
 
