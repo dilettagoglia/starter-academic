@@ -26,7 +26,7 @@ main:
     url: '#talks'
     weight: 50
   - name: CV
-    url: '#posts'
+    url: '#text'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
