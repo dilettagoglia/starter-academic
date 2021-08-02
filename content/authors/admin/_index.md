@@ -88,7 +88,7 @@ I am also a huge reader! I love books about roboethic, religions, healthy habits
 
 ### Curriculum : 
 - {{< staticref "/uploads/cv/resume-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} Resumé{{< /staticref >}} 
-- [{{< icon name="download" pack="fas" >}} Full CV](https://www.notion.so/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) 
+- [{{< icon name="download" pack="fas" >}} Full CV](https://messy-layer-48f.notion.site/Diletta-Goglia-Full-CV-7a4ed9d53e4647b5835a4dbe940b868f) 
 - {{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}} Scientific CV{{< /staticref >}}
 
 *Reference letters available on request.*
