@@ -1,6 +1,6 @@
 ---
-widget: text
-widget_id: text
+widget: blank
+widget_id: blank
 headless: true
 weight: 20
 title: Curriculum
