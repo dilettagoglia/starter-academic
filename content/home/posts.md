@@ -5,7 +5,7 @@ headless: true
 weight: 130
 title: Curriculum
 subtitle: null
-active: true
+active: false
 content:
   page_type: post
   count: 6
