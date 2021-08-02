@@ -31,7 +31,7 @@ experience:
     description: Tech assistance and support for post-production of multimedia content.
 widget_id: experience
 headless: true
-weight: 40
+weight: 30
 title: Experience
 subtitle: 
 ---
