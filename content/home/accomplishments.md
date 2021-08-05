@@ -3,6 +3,14 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
+  - certificate_url: "https://coursera.org/share/b4feb39a624b479422437537446b3ff9"
+    date_end: 2021-08-05
+    date_start: 2021-08-02
+    description: "You will improve your grammar and vocabulary skills for email writing and also improve your cross cultural knowledge to make you more powerful and successful in your business communication. You will look at different email formats to analyze tone, formality levels, and various organizational styles. You will be able to improve your emails of introduction, announcements, requests and emails that apologize or revise a request."
+    organization: Coursera
+    organization_url: http://coursera.org/
+    title: Write Professional Emails in English
+    url: "https://www.coursera.org/learn/professional-emails-english"
   - certificate_url: "https://drive.google.com/file/d/1OsbMFtBdDdkH5MZxwoqEeLRoStlBkUVo/view?usp=sharing"
     date_end: ""
     date_start: 2021-07-06
