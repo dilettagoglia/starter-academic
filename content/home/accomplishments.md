@@ -3,7 +3,7 @@ widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
-  - certificate_url: "https://coursera.org/share/b4feb39a624b479422437537446b3ff9"
+  - certificate_url: "https://coursera.org/share/6e7f171f06c368b31863e0e3ccaba602"
     date_end: 
     date_start: 2021-08-02
     description: "Improve your grammar and vocabulary skills for email writing. Improve your cross cultural knowledge to make you more powerful and successful in your business communication. Look at different email formats to analyze tone, formality levels, and various organizational styles. Be able to improve your emails of introduction, announcements, requests and emails that apologize or revise a request."
