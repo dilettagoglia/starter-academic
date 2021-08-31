@@ -17,7 +17,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: (unpublished paper)
+publication: (unpublished)
 summary: ""
 url_dataset: ""
 url_project: ""

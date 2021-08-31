@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications
 headless: true
 weight: 65
-title: Academic works
+title: Articles
 subtitle: ""
 content:
   page_type: publication
