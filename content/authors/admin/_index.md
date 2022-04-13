@@ -80,14 +80,14 @@ email: diletta.goglia@gmail.com
 superuser: true
 highlight_name: false
 ---
-I'm 24 years old, I currently live in Pisa and I am student of the Master's Degree course in 
+I am 25 years old, I currently live in Pisa and I am student of the Master of Science course in 
 [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) 
 at the Computer Science department, University of Pisa. 
-In parallel, I'm a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about).
+In parallel, I am a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about).
 I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) publication on [Medium](https://medium.com/@d.goglia).
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 I also have working experience as researcher, teaching assistant, Web Designer and Developer, Social Media Editor and Content Creator.
-In my private life I'm a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
+In my private life I am a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
 I am also a huge reader! I love books about roboethic, religions, healthy habits, and personal growth.
 
 
