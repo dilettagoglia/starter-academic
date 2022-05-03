@@ -31,7 +31,7 @@ social:
 # Google Scholar
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=it&user=DEljG4UAAAAJ
+    link: https://scholar.google.com/citations?user=_81HzBIAAAAJ&hl=en
     label: Google Scholar
     display:
       header: true
@@ -68,10 +68,10 @@ organizations:
     url: https://www.unipi.it
 education:
   courses:
-    - course: "MSc in Artificial Intelligence [2019 - currently]"
+    - course: "MSc in Artificial Intelligence [A.Y. 2019/20 - 2021/22]"
       institution: University of Pisa
       year: ""
-    - course: "BSc in Digital Humanities [2015 - 2018]"
+    - course: "BSc in Digital Humanities [A.Y. 2015/16 - 2018/19]"
       institution: "University of Pisa - Final grade: 110/110"
       year: ""
     - course: Scientific high school diploma
@@ -83,12 +83,11 @@ highlight_name: false
 I am 25 years old, I currently live in Pisa and I am student of the Master of Science course in 
 [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) 
 at the Computer Science department, University of Pisa. 
-In parallel, I am a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about).
-I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) publication on [Medium](https://medium.com/@d.goglia).
+In parallel, I am a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about) - EU Horizon 2020 project.
+I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) community on [Medium](https://medium.com/@d.goglia).
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
-I also have working experience as researcher, teaching assistant, Web Designer and Developer, Social Media Editor and Content Creator.
-In my private life I am a proud [buddhist](https://www.sgi-italia.org/) and a bodybuilding competitor athlete in [NBFI](https://www.nbfi.it/) federation.
-I am also a huge reader! I love books about roboethic, religions, healthy habits, and personal growth.
+
+
 
 
 

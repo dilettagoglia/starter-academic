@@ -8,15 +8,15 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'Diletta Goglia'
 description: ''
-twitter: ''
+twitter: '@dilettagoglia'
 
 # Contact (edit or remove options as required)
 
@@ -41,10 +41,6 @@ contact_links:
     icon_pack: fas
     name: d.goglia@studenti.unipi.it
     link: 'mailto:d.goglia@studenti.unipi.it'
-  - icon: at
-    icon_pack: fas
-    name: pec@pec.dilettagoglia.it
-    link: 'mailto:pec@pec.dilettagoglia.it'
   - icon: skype
     icon_pack: fab
     name: diletta.goglia_2
@@ -57,26 +53,6 @@ contact_links:
     icon_pack: fab
     name: dilettagoglia
     link: 'https://twitter.com/dilettagoglia'
-  - icon: discord
-    icon_pack: fab
-    name: D.Goglia#3551
-    link: 'https://discord.com/'
-  - icon: slack
-    icon_pack: fab
-    name: d.goglia
-    link: 'https://app.slack.com/'
-    display:
-      header: true
-  - icon: telegram
-    icon_pack: fab
-    name: dilettagoglia
-    link: 'https://t.me/dilettagoglia'
-    display:
-      header: true
-  - icon: trello
-    icon_pack: fab
-    name: dilettagoglia
-    link: 'https://trello.com/dilettagoglia'
 
 
 # Site header
