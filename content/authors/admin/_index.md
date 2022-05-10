@@ -1,6 +1,6 @@
 ---
 title: Diletta Goglia
-role: "MSc in Artificial Intelligence | ML researcher for migration prediction @HumMingBird | Tech writer @AnalyticsVidhya"
+role: "MSc in Artificial Intelligence | ML researcher for migration prediction @HumMingBird | Tech writer for @AnalyticsVidhya and @TowardsAI"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -35,6 +35,13 @@ social:
     label: Google Scholar
     display:
       header: true
+# orcid
+  - display:
+      header: true
+    link: https://orcid.org/0000-0002-2622-7495
+    icon_pack: fab
+    icon: orcid
+    label: Orcid
 # GitHub
   - icon: github
     icon_pack: fab
@@ -76,7 +83,7 @@ education:
       year: ""
     - course: Scientific high school diploma
       institution: "Liceo Scientifico G. Galilei, Civitavecchia (Rome) - Final grade: 95/100"
-email: diletta.goglia@gmail.com
+email: d.goglia@studenti.unipi.it
 superuser: true
 highlight_name: false
 ---
@@ -84,7 +91,7 @@ I am 25 years old, I currently live in Pisa and I am student of the Master of Sc
 [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) 
 at the Computer Science department, University of Pisa. 
 In parallel, I am a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about) - EU Horizon 2020 project.
-I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) community on [Medium](https://medium.com/@d.goglia).
+I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Towards AI](https://pub.towardsai.net/) communities on [Medium](https://medium.com/@d.goglia).
 During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 
 
