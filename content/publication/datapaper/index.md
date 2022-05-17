@@ -6,9 +6,9 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Pollacci, Laura
-  - Sirbu, Alina
-author_notes: []
+  - Pollacci, L.
+  - Sirbu, A.
+author_notes: "Computer Science department, University of Pisa, Pisa, Italy. "
 publication: "ArXiv"
 summary: ""
 url_dataset: "https://doi.org/10.5281/zenodo.6493325"
@@ -37,5 +37,14 @@ url_slides: ""
 publishDate: 
 url_poster: ""
 url_code: "https://github.com/dilettagoglia/MIMI-dataset"
----
 
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+---
+links:
+
+  - icon_pack: fab
+    icon: orcid
+    name: Diletta Goglia
+    url: 'https://orcid.org/0000-0002-2622-7495'
