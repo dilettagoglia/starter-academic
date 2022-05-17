@@ -8,14 +8,14 @@ authors:
   - admin
 author_notes: []
 publication: ""
-summary: "Serie of articles about Computer Science published for [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Towards AI](https://pub.towardsai.net/) tech communities."
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
-url_source: "https://medium.com/@d.goglia"
+publication_short: "https://medium.com/"
+url_source: ""
 url_video: ""
-title: Publications on Medium
-subtitle: "Diletta Goglia on [Medium](https://medium.com/)"
+title: Medium stories
+subtitle: "[Diletta Goglia on Medium](https://medium.com/@d.goglia)"
 doi: ""
 featured: false
 tags:
@@ -43,5 +43,5 @@ links:
     name: Read on Medium
     url: 'https://medium.com/@d.goglia'
 ---
-
+Articles about Computer Science published for [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Towards AI](https://pub.towardsai.net/) tech communities.
 
