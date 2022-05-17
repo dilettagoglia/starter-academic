@@ -36,11 +36,12 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
----
-links:
 
+links:
   - icon_pack: fab
     icon: medium
     name: Read on Medium
     url: 'https://medium.com/@d.goglia'
+---
+
 

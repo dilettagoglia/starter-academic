@@ -40,6 +40,10 @@ url_slides: ""
 publishDate: 
 url_poster: ""
 url_code: "https://github.com/dilettagoglia/MIMI-dataset"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
 ---
 
 **Related paper:** Goglia, D., Pollacci, L., Sirbu, A. (2022). Dataset of Multi-aspect Integrated Migration Indicators. [https://doi.org/10.5281/zenodo.6500885](https://doi.org/10.5281/zenodo.6500885)
