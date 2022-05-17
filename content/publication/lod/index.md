@@ -6,7 +6,7 @@ publication_types:
   - "7"
 authors:
   - admin
-publication: (Bachelor Thesis | unpublished)
+publication: (Bachelor Thesis)
 abstract: ""
 draft: false
 url_pdf: "https://www.academia.edu/43258096/Linked_Open_Data_per_il_Cultural_Heritage_italiano_conversione_e_pubblicazione_nel_Semantic_Web_del_Fondo_antico_del_Comune_di_Novi_Ligure"
