@@ -30,9 +30,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-date: 
+date: 2022-05-17T17:35:00.000Z
 url_slides: ""
-publishDate: 2022-05-30T17:35:00.000Z
+publishDate: 
 url_poster: ""
 url_code: ""
 
