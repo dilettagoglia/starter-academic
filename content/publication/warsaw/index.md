@@ -12,10 +12,10 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
+url_source: "https://www.imiscoe.org/news-and-blog/news/news-from-members/1426-call-for-papers-workshop-digitization-of-migration-research-methods-promises-and-pitfalls"
 url_video: ""
-title: 'Contribution to'
-subtitle: 
+title: 'Contribution'
+subtitle: Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies
 doi: ""
 featured: true
 tags:
