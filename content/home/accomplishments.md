@@ -2,6 +2,11 @@
 widget: accomplishments
 active: true
 date_format: Jan 2006
+widget_id: accomplishment
+headless: true
+weight: 90
+title: Awards
+subtitle: null
 item:
   - certificate_url: "https://coursera.org/share/6e7f171f06c368b31863e0e3ccaba602"
     date_end: 
@@ -68,10 +73,5 @@ item:
     organization_url: 
     title: Attestation de mérite pour l'étude de la langue française
     url: https://www.amopaitalia.it/
-    
-widget_id: accomplishment
-headless: true
-weight: 90
-title: Awards
-subtitle: null
+
 ---

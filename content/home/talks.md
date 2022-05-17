@@ -1,6 +1,12 @@
 ---
 widget: accomplishments
 date_format: Jan 2006
+widget_id: ranking
+headless: true
+weight: 70
+title: Rankings
+subtitle: null
+active: true
 item:
   - certificate_url: 
     date_end: 2022-03-01
@@ -50,13 +56,6 @@ item:
     organization_url: https://makeinitalyfestival.it/
     title: 🏆 Study Grant
     url: ""
-widget_id: ranking
-headless: true
-weight: 70
-title: Rankings
-subtitle: null
-active: true
-
 ---
 
 
