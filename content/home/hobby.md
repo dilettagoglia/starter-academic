@@ -4,7 +4,7 @@ widget_id: blank
 headless: true
 weight: 30
 title: Private life
-active: true 
+active: false 
 author: admin
 ---
 

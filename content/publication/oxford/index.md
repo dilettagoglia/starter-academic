@@ -41,6 +41,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 
-**Measuring Migration Conference**
+**Measuring Migration Conference**,
 Nuffield College, University of Oxford | June 9-10, 2022
 _Session 1a: How do we measure migration? Methods and Advancements._
