@@ -7,14 +7,14 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: ""
+publication: '"Digitization of Migration Research Methods" workshop - Warsaw'
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: 
+title: 'Contribution to'
 subtitle: 
 doi: ""
 featured: true
@@ -30,10 +30,15 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-date: 2022-05-01T17:35:00.000Z
+date: 2022-05-30T17:35:00.000Z
 url_slides: ""
 publishDate: 
 url_poster: ""
 url_code: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
 ---
 
+_Please wait for the content_

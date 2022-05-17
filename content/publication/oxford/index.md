@@ -14,8 +14,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies.
-subtitle: 'Extended abstract for "Measuring Migration Conference 2022 - Oxford"'
+title: 'Extended abstract for "Measuring Migration Conference" 2022 - Oxford'
+subtitle: Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies
 doi: ""
 featured: true
 tags:
@@ -30,14 +30,16 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-date: 2022-05-01T17:35:00.000Z
+date: 2022-06-09T17:35:00.000Z
 url_slides: ""
 publishDate: 
 url_poster: ""
 url_code: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
 ---
-**Measuring Migration Conference**
 
-Nuffield College, University of Oxford | June 9-10, 2022
-
+**Measuring Migration Conference**, Nuffield College, University of Oxford | June 9-10, 2022
 _Session 1a: How do we measure migration? Methods and Advancements._
