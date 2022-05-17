@@ -7,11 +7,11 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: ""
+publication: "Medium"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "https://medium.com/"
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Medium stories

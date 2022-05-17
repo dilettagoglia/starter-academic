@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
 author_notes: []
