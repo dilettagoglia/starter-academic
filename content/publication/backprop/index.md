@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: "https://medium.com/@d.goglia/backpropagation-for-dummies-e069410fa585"
 publication_types:
-  - "2"
+  - "10"
 authors:
   - admin
 author_notes: []
