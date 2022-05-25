@@ -9,25 +9,28 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 50
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 20
   - name: CV
     url: '#cv'
-    weight: 30
+    weight: 60
+  - name: Talks
+    url: '#event'
+    weight: 40
   - name: Awards
     url: '#accomplishments'
-    weight: 70
+    weight: 80
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90
   - name: Rankings
-    url: '#talks'
-    weight: 60
+    url: '#rank'
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.

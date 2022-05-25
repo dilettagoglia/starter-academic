@@ -34,7 +34,7 @@ experience:
                   Research topic: 'Big data for migration studies'. Study and predict international cross-border human mobility trends by integrating data from social networks and traditional sources."
 widget_id: experience
 headless: true
-weight: 30
+weight: 55
 title: Recent working experience
 subtitle: 
 ---

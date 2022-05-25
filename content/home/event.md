@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 70
+weight: 50
 title: Recent & Upcoming Talks
 active: true
 author: admin

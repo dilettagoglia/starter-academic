@@ -4,7 +4,7 @@ active: true
 date_format: Jan 2006
 widget_id: accomplishment
 headless: true
-weight: 90
+weight: 80
 title: Awards
 subtitle: null
 item:

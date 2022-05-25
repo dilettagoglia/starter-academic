@@ -2,7 +2,7 @@
 widget: blank
 widget_id: blank
 headless: true
-weight: 40
+weight: 60
 title: Curriculum
 active: true
 author: admin
