@@ -43,7 +43,8 @@ url_code: ""
 url_pdf: "uploads/oxford_abstract.pdf"
 url_slides: "/uploads/oxford_slides.pdf"
 url_video: ""
-
+projects: hmb
+- 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -55,11 +56,15 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+
+
 - 
 ---
-## "Session 1a: How do we measure migration? Methods and advancements".
-# Abstract
+Conference organised by University of Oxford’s Migration and Mobility Network (MMN) and Nuffield College, University of Oxford.
+
+Talk included in "Session 1a: How do we measure migration? Methods and advancements".
+
+## Abstract
 In the last years many researchers have proposed the use of non-traditional data sources to study migration, including so-called social Big Data such as online social networks. Many types of data exist, still very scattered and heterogeneous: in the variety of this context, integration is not straightforward.
 In general, these works have been performed by Computer Scientists, since they require special skills to meaningfully embed and combine traditional and novel datasets. Our work describes the use of alternative types of data, a new multi-feature dataset and a new indicator that could significantly contribute to the study of migration and to forecast emerging trends through the use of Artificial Intelligence technologies.
 This approach is intended to find an alternative methodology to ultimately answer open questions about the human mobility framework (i.e. nowcasting flows and stocks, studying integration of multiple sources and knowledge, and investigating migration drivers).
