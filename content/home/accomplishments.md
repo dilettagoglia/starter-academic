@@ -14,6 +14,7 @@ item:
     description: "Improve your grammar and vocabulary skills for email writing. Improve your cross cultural knowledge to make you more powerful and successful in your business communication. Look at different email formats to analyze tone, formality levels, and various organizational styles. Be able to improve your emails of introduction, announcements, requests and emails that apologize or revise a request."
     organization: Coursera
     organization_url: http://coursera.org/
+    organization_logo: coursera.png
     title: Write Professional Emails in English
     url: "https://www.coursera.org/learn/professional-emails-english"
   - certificate_url: "https://drive.google.com/file/d/1OsbMFtBdDdkH5MZxwoqEeLRoStlBkUVo/view?usp=sharing"
@@ -22,15 +23,16 @@ item:
     description: "Combining knowledge and technical (hard) skills with so-called soft skills, i.e. transversal competences to fundamental disciplinary specializations for a new company or in any work environment, as people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making."
     organization: Contamination Lab 
     organization_url: http://contaminationlab.unipi.it/
+    organization_logo: clab.png
     title: CLab Soft Skills course
     url: "http://contaminationlab.unipi.it/soft-skills-2021/"
-    image: /uploads/images/clab.png
   - certificate_url: "https://drive.google.com/file/d/1fHjAJUSBBXtZQpVKouoqxQdDxc8SZaYF/view?usp=sharing"
     date_end: ""
     date_start: 2021-02-01
     description: "The PhD+ is the program of the University of Pisa aimed at promoting and encouraging the entrepreneurial spirit and innovation among students of Master’s degree, Phd students and professors. See the Final Pitch [slides](http://contaminationlab.unipi.it/wp-content/uploads/2021/03/slide-kids-care.pdf) or [PDF](https://drive.google.com/file/d/1FHCVmZUkLmBvAltxYKXCbWG9in99EM4u/view?usp=sharing)."
     organization: Contamination Lab 
     organization_url: http://contaminationlab.unipi.it/
+    organization_logo: clab.png
     title: CLab PhD+ course
     url: "http://contaminationlab.unipi.it/phdplus/"
   - certificate_url: "/uploads/certificate/Samsung_Innovation_Camp.jpg"
@@ -39,6 +41,7 @@ item:
     description: Samsung Innovation Camp is a free training course, offered by Samsung in partnership with Randstad, dedicated to recent graduates and students of Italian public universities who want to increase their knowledge and the competitiveness of their professional profile.
     organization: Samsung Innovation Camp
     organization_url: https://www.innovationcamp.it/
+    organization_logo: samsung.png
     title: Samsung Innovation Camp 
     url: https://www.innovationcamp.it/pages/scopri
   - certificate_url: "/uploads/certificate/digital_food_communication.jpg"

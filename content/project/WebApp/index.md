@@ -5,7 +5,7 @@ summary: Statistic and descriptive analysis of medical data as result of a Data 
 tags:
 - Web Design
 - Digital Humanities 
-- Old
+- Bachelor
 
 
 date: "2018-02-01T00:00:00Z"

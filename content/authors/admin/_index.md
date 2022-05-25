@@ -1,6 +1,6 @@
 ---
 title: Diletta Goglia
-role: "MSc in Artificial Intelligence | ML researcher for migration prediction @HumMingBird | Tech writer for @AnalyticsVidhya and @TowardsAI"
+role: "MSc in Artificial Intelligence | ML researcher for migration prediction @HumMingBird"
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -71,7 +71,7 @@ social:
     icon: university
     label: Academia
 organizations:
-  - name: University of Pisa
+  - name: Computer SCience department, University of Pisa
     url: https://www.unipi.it
 education:
   courses:
@@ -90,11 +90,8 @@ highlight_name: false
 I am 25 years old, I currently live in Pisa and I am student of the Master of Science course in 
 [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) 
 at the Computer Science department, University of Pisa. 
-In parallel, I am a researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about) - EU Horizon 2020 project.
+I have working experience as researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about) - EU Horizon 2020 project.
 I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Towards AI](https://pub.towardsai.net/) communities on [Medium](https://medium.com/@d.goglia).
-During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models. I also became really interested in AI ethics.
-
-
-
+During my studies I gained deep expertise in Data Science, Deep Learning and Neural Network models. I also became really interested in AI ethics.
 
 

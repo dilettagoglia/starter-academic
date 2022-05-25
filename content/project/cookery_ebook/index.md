@@ -4,7 +4,7 @@ summary:
 tags:
 - Graphic Design
 - Digital Humanities
-- Old
+- Bachelor
 
 date: "2018-01-01T00:00:00Z"
 

@@ -25,14 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: 2021
-    tag: 2021
-  - name: 2020
-    tag: 2020
-  - name: Old
-    tag: Old
   - name: NN
     tag: NN
   - name: Algorithms
@@ -49,7 +41,16 @@ content:
     tag: Data Mining
   - name: IoT
     tag: IoT
-
+  - name: 2022
+    tag: 2022
+  - name: 2021
+    tag: 2021
+  - name: 2020
+    tag: 2020
+  - name: All
+    tag: '*'
+  - name: Bachelor
+    tag: Bachelor
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
@@ -59,8 +60,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
-
+  view: 5
+  flip_alt_rows: false
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---

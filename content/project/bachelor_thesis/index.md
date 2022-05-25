@@ -5,7 +5,7 @@ tags:
 - Digital Humanities
 - Linked Open Data
 - Semantic Web
-- Old
+- Bachelor
 
 date: "2019-05-01T00:00:00Z"
 

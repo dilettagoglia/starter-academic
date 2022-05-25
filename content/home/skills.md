@@ -3,19 +3,19 @@ widget: featurette
 widget_id: skills
 headless: true
 weight: 20
-title: Expertise
+title: Expertises
 subtitle: null
 active: true
 feature:
-  - description: Front-end & Back-end
+  - description: Social Big Data for migration studies
     icon: laptop-code
     icon_pack: fas
-    name: Web Design & Development
-  - description: Advanced neural networks for learning and forecasting
+    name: Data Science
+  - description: Neural models for learning and forecasting
     icon: sitemap
     icon_pack: fas
-    name: Learning models
-  - description: Tensorflow & other tools
+    name: Deep Learning 
+  - description: Keras, Tensorflow & other tools
     icon: python
     icon_pack: fab
     name: Python
