@@ -25,20 +25,20 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: NN
-    tag: NN
-  - name: Algorithms
-    tag: Algorithms
   - name: AI
     tag: AI
-  - name: NLP
-    tag: NLP
+  - name: Algorithms
+    tag: Algorithms
   - name: Python
     tag: Python
   - name: Signal Processing
     tag: Signal Processing
+  - name: NN
+  tag: NN
+  - name: NLP
+  tag: NLP
   - name: Data Mining
-    tag: Data Mining
+  tag: Data Mining
   - name: IoT
     tag: IoT
   - name: 2022
@@ -53,7 +53,7 @@ content:
     tag: Bachelor
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
