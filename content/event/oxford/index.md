@@ -37,7 +37,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: @MigMobNetwork
+  name: '@MigMobNetwork'
   url: https://twitter.com/MigMobNetwork
 url_code: ""
 url_pdf: "uploads/oxford_abstract.pdf"
