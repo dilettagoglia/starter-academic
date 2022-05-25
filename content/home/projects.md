@@ -34,11 +34,11 @@ content:
   - name: Signal Processing
     tag: Signal Processing
   - name: NN
-  tag: NN
+    tag: NN
   - name: NLP
-  tag: NLP
+    tag: NLP
   - name: Data Mining
-  tag: Data Mining
+    tag: Data Mining
   - name: IoT
     tag: IoT
   - name: 2022
