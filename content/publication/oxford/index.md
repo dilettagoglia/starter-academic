@@ -36,9 +36,9 @@ publishDate:
 url_poster: ""
 url_code: ""
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
+reading_time: false  
+share: false 
+profile: false  
 ---
 
 
