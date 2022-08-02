@@ -43,7 +43,7 @@ url_code: ""
 url_pdf: "uploads/oxford_abstract.pdf"
 url_slides: "/uploads/oxford_slides.pdf"
 url_video: ""
-projects: ["hmb"]
+projects: 
 - 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
