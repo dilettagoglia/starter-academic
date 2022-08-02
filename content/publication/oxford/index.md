@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "oxford.pdf"
+url_pdf: "/uploads/oxford.pdf"
 publication_types:
   - "1"
 authors:
