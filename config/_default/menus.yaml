@@ -25,9 +25,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: More
+    url: '#more'
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 100
   - name: Rankings
     url: '#rank'
     weight: 70

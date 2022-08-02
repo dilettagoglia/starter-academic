@@ -71,7 +71,7 @@ social:
     icon: university
     label: Academia
 organizations:
-  - name: Computer SCience department, University of Pisa
+  - name: Computer Science department, University of Pisa
     url: https://www.unipi.it
 education:
   courses:
