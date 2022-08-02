@@ -5,19 +5,17 @@ url_pdf: "oxford.pdf"
 publication_types:
   - "1"
 authors:
-  - admin
+    - admin
 author_notes: []
 publication: "'Measuring Migration Conference' 2022 - University of Oxford"
-summary: "**Measuring Migration Conference**,
-Nuffield College, University of Oxford | June 9-10, 2022
-_Session 1a: How do we measure migration? Methods and Advancements._"
+summary: "**Measuring Migration Conference**,<br/> Nuffield College, University of Oxford | June 9-10, 2022 <br/> _Session 1a, How do we measure migration? Methods and Advancements._"
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: "https://www.torch.ox.ac.uk/event/call-for-papers/submissions-mmn-conference-measuring-migration-how-when-why?fbclid=IwAR0ML5v0ANKyZKBb572EO8ZEuzpV7HQJA-eCCBuclAVq6uO9N53BWmmN4YI"
 url_video: ""
 title: 'Extended abstract'
-subtitle: Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies
+subtitle: 'Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies'
 doi: ""
 featured: true
 tags:
