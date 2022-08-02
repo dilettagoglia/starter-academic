@@ -8,7 +8,9 @@ authors:
   - admin
 author_notes: []
 publication: "'Measuring Migration Conference' 2022 - University of Oxford"
-summary: ""
+summary: "**Measuring Migration Conference**,
+Nuffield College, University of Oxford | June 9-10, 2022
+_Session 1a: How do we measure migration? Methods and Advancements._"
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -41,6 +43,4 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 
-**Measuring Migration Conference**,
-Nuffield College, University of Oxford | June 9-10, 2022
-_Session 1a: How do we measure migration? Methods and Advancements._
+
