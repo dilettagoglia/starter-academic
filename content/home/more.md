@@ -2,11 +2,11 @@
 widget: blank
 widget_id: blank
 headless: true
-weight: 60
+weight: 95
 title: More
 active: true
 author: admin
 ---
 
-#### Something more about me
-- {{< icon name="shoe-prints" pack="fas" >}} {{< staticref "/post/more/_index.md" "newtab" >}} Hobbies and other activities {{< /staticref >}} | last update: Aug 2020
+#### Extra
+- {{< icon name="shoe-prints" pack="fas" >}} {{< staticref "/post/more/" "newtab" >}} Something more about my profile {{< /staticref >}}: hobbies and other activities. | last update: Aug 2020

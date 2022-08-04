@@ -1,9 +1,9 @@
 ---
-title: 📌 Full CV
-subtitle: This is my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
+title: Hobbies and further activities
+subtitle: 
 date: 2021-04-08T11:39:51.648Z
-summary: This is my full CV, complete with my detailed profile description, all my working experiences, exam grades, hobbies, attended courses, seminars and certificates.
-draft: false
+summary: 
+draft: true 
 featured: false
 authors:
   - admin
@@ -23,87 +23,6 @@ image:
 See also my{{< staticref "/uploads/cv/scientific-cv-diletta-goglia.pdf" "newtab" >}} scientific CV{{< /staticref >}}
 {{% /callout %}}
 
-# 1. Profile description 
-
-I have gained the following skills both developing university projects and working for external companies.
-
-I listed down below my main skills and also some secondary ones, that I had the opportunity to learn over the years, through study and concrete application.
-
-### Hard Skills
-
-👉 I have **advanced expertise** in:
-
-* **Machine Learning, Deep Learning, Neural Networks**
-
-  * Bayesian learning
-  * Graphical and generative models (HMM, MRF)
-  * Dynamic Bayesian networks
-  * Deep learning techniques (CNN, Autoencoders, DBN, etc.)
-  * Deep learning for machine vision and signal processing
-  * Advanced neural networks (recurrent, recursive, ...) for learning and forecasting
-  * Reinforcement learning
-  * Signal processing and time-series analysis
-  * Image processing, filters and visual feature detectors
-* **Web Development & Desing**
-
-  * HTML, CSS, XML, XHTML, XSL-T, RelaxNG, JavaScript
-  * Client-side languages: JavaScript, TypeScript
-  * Server-side languages: Python, PHP
-  * Other languages: MatLab, LaTeX
-  * Other tools: Flask, Google API, AJAX call, jQuery, JSON
-  * DB and KB development and management:
-    * MySQL for relational DBMS
-    * E-R models development
-    * Access tables, relations and database creation and management 
-  * Graphic Design & Brand Design
-* **Semantic Web and Linked Open Data**
-
-  * RDF, RDFS, OWL, SPARQL
-* **Communication**
-
-  * Social Network Management
-  * Professional Writing: books, scientific papers
-  * Data Journalism
-  * Professional communication in scientific/technological areas
-  * Producing and managing high-quality publications as well as web sites and portals
-* **Tools**
-
-  * Keras, Tensorflow, Anaconda (for ML and DL)
-  * Adobe Photoshop, Illustrator, InDesign
-  * Kanban (for software development)
-  * Trello, Asana (to manage group working)
-  * Access, Sharepoint, Word, PowerPoint, Excel, and all other Microsoft products
-
-
-👉 I also have **minor expertise** in:
-
-* IoT applications development
-* Software process management & technologies
-
-  * Agile software development
-  * Goal-Oriented Requirements Engineering
-* CMS management 
-
-### Soft Skills
-
-During my studies I completed a lot of different projects either by myself or **in a group** (both small and large groups). This had taught me how to **efficiently collaborate** with colleagues, and how to **organize and coordinate work** during development. I have learnt how to switch easily from **different environments and programming languages**. Also by working alone I improved my **autonomy** on **problem solving** and on researching new things by myself.
-
-I constantly **keep myself updated** by reading news and latest paper about technology and by attending new courses about many different thematic areas.
-
-Experience has also given to me these skills:
-
-* Distance-working / Smartworking with structured tools to manage both individual and team work (es. Trello, Notion, Discord, GitHub, Asana).
-* Remote working organization
-* Structure group work in Kanban style
-* Great care for details
-* Critical skills
-* Precise organization and time management
-* Public speaking, talks and presentations
-* Public relations
-* Enthusiastic, positive and driven attitude
-* Ability to develop and manage project schedules
-
-I also attended a specific [course about soft skills](http://contaminationlab.unipi.it/soft-skills-2021/) (see my [certificate]()), that taught me the importance of people and groups management, critical thinking and creativity, negotiation, coordination with others, judgment and decision making in any work environment. 
 
 ## Languages
 
@@ -111,7 +30,7 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 * **English** | Advanced First Certificate in English (FCE): Upper-Intermediate-2 (CEFR level B2 First), certified by University of Pisa | [See exam](https://esami.unipi.it/esami2/programma.php?c=28570&aa=2016&docente=MASI&insegnamento=&sd=0)
 * **French** | Beginner (CEFR Level A1) | [See certificate](/media/certificati/AMOPA.j
 
-# 2. Detailed Working Experience 
+## Detailed Working Experience 
 
 - Currently | **Web Designer** for *[Happy Kids nido Montessori]()* website, @Florence
     - Website development fo a kindergarten in Florence
@@ -145,7 +64,7 @@ I also attended a specific [course about soft skills](http://contaminationlab.un
 See also **[rankings](/#rankings)** 
 {{% /callout %}}
 
-# 3. Most recent exam grades 
+## Exam grades 
 
 ### Master Degree
 - 2021 | Robotics: **30/30**
@@ -164,7 +83,7 @@ See also **[rankings](/#rankings)**
 - 2018 | Text encoding: **28/30**
 - 2018 | Ethics of communication: **30/30**
 
-# 4. Training courses, attended seminars, events and conferences 
+## Training courses, attended seminars, events and conferences 
 
 - 2020 | *[Artificial Intelligence and Religion: AIR2020/21](https://air2020.fbk.eu/home)*, 
     "Sociological, Anthropological and Religious Studies Approaches to AI and Religion", 
@@ -201,7 +120,7 @@ See also **[rankings](/#rankings)**
 See also **[awards](/#accomplishments)** 
 {{% /callout %}}
 
-# 5. Hobby and free time 
+## Hobby and free time 
 
 * *Coming soon…* | **[Labodif course](https://www.labodif.com/corsi-formativi-enti-istituzioni/)**: Istituto di ricerca e formazione nello studio delle differenze di genere
 * *2021* | **Bodybuilding competitor athlete** in [NBFI](https://www.nbfi.it/) federation
@@ -212,13 +131,9 @@ See also **[awards](/#accomplishments)**
 * *2019* | Member of **[Soka Gakkai International (SGI)](https://www.sgi-italia.org/)**: Istituto Buddista Italiano per la pace, la cultura e l'educazione
 * *2017* | Participant at training seminars on equal rights and opportunities: "Categorie, diritti, discriminazioni", @CIRQUE (Centro Interuniversitario di Ricerca Queer)
 
-I'm also a huge reader and I like to share my books and journals! 
-
+< I'm also a huge reader and I like to share my books and journals!
 Check my [📗personal reading list](https://www.notion.so/dilettagoglia/9ef7f994725441f78ce8639a40bf5167?v=7517264c82f540f6979bd54b91d081cf),
 were you can find all the books I read in my free time, mostly about personal growth, AI and buddhism.
-
 There also a [🎓university reading list](https://www.notion.so/dilettagoglia/University-Reading-List-57f62cf948a6465497c3aedb171f58c8) where I collected all the books I used during my MSc journey, for preparing exams
 building projects, and "approfondire" concepts.  
-
-
-> Both these libraries are made using [Notion app](https://www.notion.so/). Enjoy!✌🏻
+Both these libraries are made using [Notion app](https://www.notion.so/). Enjoy!✌🏻 >
