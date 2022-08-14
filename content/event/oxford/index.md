@@ -1,5 +1,5 @@
 ---
-title: '📅 Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies'
+title: '📅 "Measuring Migration" conference'
 
 event: '"Measuring Migration" conference'
 event_url: https://www.torch.ox.ac.uk/event/call-for-papers/submissions-mmn-conference-measuring-migration-how-when-why
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: University of Oxford’s Migration and Mobility Network (MMN) and Nuffield College, Oxford (UK)
+summary: "Speech: 'Use of non-traditional data sources to nowcast migration trends through Artificial Intelligence technologies'."
 abstract: ""
 
 # Talk start and end times.
@@ -39,6 +39,10 @@ links:
   icon_pack: fab
   name: '@MigMobNetwork'
   url: https://twitter.com/MigMobNetwork
+- icon: clipboard
+  icon_pack: far
+  name: 'Agenda'
+  url: "uploads/oxford_booklet.pdf"
 url_code: ""
 url_pdf: "uploads/oxford_abstract.pdf"
 url_slides: "/uploads/oxford_slides.pdf"
@@ -74,5 +78,4 @@ For this purpose we provide the Multi-aspect Integrated Migration Indicators (MI
 We believe SCI and our integrated dataset can be employed to study migration drivers, along with other traditionally used measures (cultural differences indicators, GDP, distance between countries, etc), through Machine Learning techniques, so that to link and combine the statistical and computational study of migration phenomenon with interdisciplinary perspectives (geographical, demographic, economic, sociological, anthropological). Indeed, the knowledge combined in the dataset is designed to develop a ML model able to extract novel information, analyze patterns and, from the strength of Facebook connectivity between countries, nowcast and forecast both present and future bilateral migration trends. The long-term perspective of this research is to build trustworthy and reliable predictions for future changing by using new ways of measuring and characterizing international migration, and by using advanced technologies such as Artificial Neural Networks.
 
 ---
-**Audience size and countries addressed.** 
-Over 120 people registered for in-person activities and over 200 people online, having affiliation in the following countries: Italy, U.S., GB, Brazil, Mexico, Spain, Poland, Germany, Argentina, Peru, Nepal, Algeria, France, Netherlands, Nigeria, Turkey, Sri Lanka, Australia, Belgium.
+

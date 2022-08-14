@@ -3,7 +3,7 @@ title: Hobbies and further activities
 subtitle: 
 date: 2021-04-08T11:39:51.648Z
 summary: 
-draft: true 
+draft: false 
 featured: false
 authors:
   - admin

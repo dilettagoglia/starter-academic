@@ -2,7 +2,7 @@
 widget: pages
 widget_id: other_publications
 headless: true
-weight: 40
+weight: 50
 title: Other works
 subtitle: ""
 content:
