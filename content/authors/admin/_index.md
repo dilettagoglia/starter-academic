@@ -1,7 +1,7 @@
 ---
 title: Diletta Goglia
-role: "MSc in Artificial Intelligence | ML researcher for migration prediction @HumMingBird"
-avatar_filename: avatar.jpg
+role: "Ph.D. Candidate at the Information Technology Department, Uppsala University"
+avatar_filename: avatar3.jpg
 bio: ""
 interests:
   - Computational Social Science
