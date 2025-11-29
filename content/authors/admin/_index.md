@@ -1,6 +1,6 @@
 ---
 title: Diletta Goglia
-role: "Ph.D. Candidate at the Information Technology Department, Uppsala University"
+role: "Ph.D. Candidate at Information Technology Department, Uppsala University"
 avatar_filename: avatar3.jpg
 bio: ""
 interests:
@@ -71,19 +71,23 @@ social:
     icon: university
     label: Academia
 organizations:
-  - name: Computer Science department, University of Pisa
-    url: https://www.unipi.it
+  - name: Ångström Laboratory hus 10 
+          Room 105241 - 5th floor
+          Lägerhyddsvägen 1
+          SE-752 37 Uppsala
+          Sweden 
+    url: https://www.uu.se/en/department/information-technology
 education:
   courses:
+    - course: "PhD Candidate [2023 - ongoing]"
+      institution: "Information Technology Department, Computing Science Division |  Uppsala University, Sweden"
     - course: "MSc in Artificial Intelligence [A.Y. 2019/20 - 2021/22]"
-      institution: University of Pisa
+      institution: Computer Science Department | University of Pisa, Italy
       year: ""
     - course: "BSc in Digital Humanities [A.Y. 2015/16 - 2018/19]"
-      institution: "University of Pisa - Final grade: 110/110"
+      institution: "Department of Philology, Literature, Linguistics | University of Pisa, Italy"
       year: ""
-    - course: Scientific high school diploma
-      institution: "Liceo Scientifico G. Galilei, Civitavecchia (Rome) - Final grade: 95/100"
-email: d.goglia@studenti.unipi.it
+email: diletta.goglia@it.uu.se
 superuser: true
 highlight_name: false
 ---
@@ -93,5 +97,7 @@ at the Computer Science department, University of Pisa.
 I have working experience as researcher in Machine Learning e Data Science for migration studies and predictions at [HumMingBird](https://hummingbird-h2020.eu/about) - EU Horizon 2020 project.
 I am also a tech writer for [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Towards AI](https://pub.towardsai.net/) communities on [Medium](https://medium.com/@d.goglia).
 During my studies I gained deep expertise in Data Science, Deep Learning and Neural Network models. I also became really interested in AI ethics.
+
+Member of [UU-InfoLab](https://uuinfolab.github.io) research group and [UU-CSSLab](https://uucsslab.github.io)
 
 
