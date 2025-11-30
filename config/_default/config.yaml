@@ -35,7 +35,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -81,13 +82,13 @@ related:
 
 security:
   enableInlineShortcodes: false
-
   exec:
     allow:
       - "^dart-sass-embedded$"
       - "^go$"
       - "^npx$"
       - "^postcss$"
+      - "^git$"   # <-- add this
     osEnv:
       - "(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+)$"
 
