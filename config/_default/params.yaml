@@ -118,20 +118,20 @@ contact_links:
     name: diletta.goglia@it.uu.se
     link: 'mailto:diletta.goglia@it.uu.se'
 
-```
-  - icon: skype
-    icon_pack: fab
-    name: diletta.goglia_2
-    link: 'live:diletta.goglia_2'
-  - icon: linkedin
-    icon_pack: fab
-    name: Diletta Goglia
-    link: 'https://www.linkedin.com/in/dilettagoglia/'
-  - icon: twitter
-    icon_pack: fab
-    name: dilettagoglia
-    link: 'https://twitter.com/dilettagoglia'
-```
+
+  #- icon: skype
+  #  icon_pack: fab
+  #  name: diletta.goglia_2
+  #  link: 'live:diletta.goglia_2'
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  name: Diletta Goglia
+  #  link: 'https://www.linkedin.com/in/dilettagoglia/'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  name: dilettagoglia
+  #  link: 'https://twitter.com/dilettagoglia'
+
 
 # ==============================================================================
 # SITE HEADER
@@ -148,17 +148,17 @@ main_menu:
 # ==============================================================================
 # SITE FOOTER
 # ==============================================================================
-```
-footer:
-  copyright:
-    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
-    notice: '© {year} {name}. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-```
+
+#footer:
+#  copyright:
+#    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
+#    notice: '© {year} {name}. This work is licensed under {license}'
+#    license:
+#      enable: true
+#      allow_derivatives: false
+#      share_alike: true
+#      allow_commercial: false
+
 # ==============================================================================
 # LOCALIZATION
 # ==============================================================================
