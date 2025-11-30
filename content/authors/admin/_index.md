@@ -35,44 +35,6 @@ social:
     label: GitHub
     display:
       header: true
-      
-``` 
-  # facebook
-    - display:
-        header: true
-      icon_pack: fab
-      icon: facebook-square
-      link: https://www.facebook.com/diletta.goglia.71
-      label: Facebook
-  # Linkedin
-    - icon: linkedin
-      icon_pack: fab
-      link: https://www.linkedin.com/in/dilettagoglia/
-      display:
-        header: true
-      label: Linkedin
-    # Medium
-    - display:
-        header: true
-      icon_pack: fab
-      icon: medium-m
-      link: https://medium.com/@d.goglia
-      label: Medium
-  # Youtube
-    - display:
-        header: false
-      link: https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA
-      icon_pack: fab
-      label: Youtube
-      icon: youtube-play
-  # Academia
-    - display:
-        header: true
-      link: https://bdfinance.academia.edu/DilettaGoglia
-      icon_pack: fas
-      icon: university
-      label: Academia
-```
 
 organizations:
   - name: Information Technology Department, Computing Science Division, Uppsala University 
@@ -112,6 +74,46 @@ I am member of the UU Information Laboratory ([UU-InfoLab](https://uuinfolab.git
 
 
 Before UU, I was a Research Assistant and a Master Student in the Computer Science Department at University of Pisa, Italy. Here I gained deep expertise in Data Science, Deep Learning and AI ethics, working on human migration analysis and forecasting for the EU Horizon 2020 [HumMingBird project](https://hummingbird-h2020.eu/about).
+
+
+
+<!--
+ # facebook
+    - display:
+        header: true
+      icon_pack: fab
+      icon: facebook-square
+      link: https://www.facebook.com/diletta.goglia.71
+      label: Facebook
+  # Linkedin
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/dilettagoglia/
+      display:
+        header: true
+      label: Linkedin
+    # Medium
+    - display:
+        header: true
+      icon_pack: fab
+      icon: medium-m
+      link: https://medium.com/@d.goglia
+      label: Medium
+  # Youtube
+    - display:
+        header: false
+      link: https://www.youtube.com/channel/UCCRjj6aI4FdP8QIS_3b_-KA
+      icon_pack: fab
+      label: Youtube
+      icon: youtube-play
+  # Academia
+    - display:
+        header: true
+      link: https://bdfinance.academia.edu/DilettaGoglia
+      icon_pack: fas
+      icon: university
+      label: Academia
+-->
 
 
 
