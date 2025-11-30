@@ -43,7 +43,7 @@ education:
   courses:
     - course: "PhD Candidate [2023 - ongoing]"
       institution: "Information Technology Department, Computing Science Division |  Uppsala University, Sweden"
-    - course: "MSc in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) [A.Y. 2019/20 - 2021/22]"
+    - course: "MSc in Artificial Intelligence [A.Y. 2019/20 - 2021/22]"
       institution: Computer Science Department | University of Pisa, Italy
       year: ""
     - course: "BSc in Digital Humanities [A.Y. 2015/16 - 2018/19]"
@@ -66,14 +66,14 @@ During my studies I gained deep expertise in Data Science, Deep Learning and Neu
 
 
 I am a Computational Social Scientist, working at the insersection of NLP, Network Science, and Psycholinguistic. 
-My research focuses on 
+My research focuses on developing computational methods for the social sciences, with the goal of understanding, modeling, and mitigating harmful online behaviors in critical domains such as toxic masculinity discourse and digital predatory grooming. This requires advancing methods, models, and datasets for high-impact social applications.
 <!--identifying emotionally manipulative language in digital environments and-->
-developing computational methods for the social sciences, with the goal of understanding, modeling, and mitigating harmful online behaviors in critical domains such as toxic masculinity discourse and digital predatory grooming. This requires advancing methods, models, and datasets for high-impact social applications.
+
 
 I am member of the UU Information Laboratory ([UU-InfoLab](https://uuinfolab.github.io)) and of the cross-disciplinary UU Computational Social Science Lab ([UU-CSSLab](https://uucsslab.github.io)).
 
 
-Before UU, I was a Research Assistant and a Master Student in the Computer Science Department at University of Pisa, Italy. Here I gained deep expertise in Data Science, Deep Learning and AI ethics, working on human migration analysis and forecasting for the EU Horizon 2020 [HumMingBird project](https://hummingbird-h2020.eu/about).
+Before UU, I was a Research Assistant and a Master Student in [AI](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science Department, University of Pisa, Italy. Here I gained deep expertise in Data Science, Deep Learning and AI ethics, working on human migration analysis and forecasting for the EU Horizon 2020 [HumMingBird project](https://hummingbird-h2020.eu/about).
 
 
 

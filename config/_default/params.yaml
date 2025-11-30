@@ -19,10 +19,8 @@
   #   secondary: "emerald"
   #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
 # day_night: true
-theme: minimal
+theme: simple # before: minimal
 day_night: true
-font: 'serif'
-font_size: L
 
 # ────────────────────────────────────────────────────────────────────────────
 # TYPOGRAPHY
@@ -30,7 +28,7 @@ font_size: L
 # ────────────────────────────────────────────────────────────────────────────
 typography:
   # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-  font: "native"
+  font: "serif"
   # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
   size: "md"
 
@@ -101,9 +99,9 @@ email: diletta.goglia@it.uu.se
 phone:
 address:
   street: |
-          Ångström Laboratory hus 10, 
-          Room 105241, 5th floor
-          Lägerhyddsvägen 1
+    Ångström Laboratory hus 10, 
+    Room 105241, 5th floor
+    Lägerhyddsvägen 1
           
   city: Uppsala
   region:
@@ -113,8 +111,8 @@ address:
 coordinates:
   latitude: '59.8395891'
   longitude: '17.6459234'
-directions: 
-office_hours: https://www.uu.se/campus/angstromlaboratoriet/
+directions: https://www.uu.se/campus/angstromlaboratoriet/
+office_hours: 
 appointment_url: ''
 contact_links:
   - icon: envelope
