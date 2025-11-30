@@ -12,17 +12,17 @@ hugoblox:
   # THEME
   # Controls colors and appearance
   # ────────────────────────────────────────────────────────────────────────────
-  theme:
+  #theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system # before: minimal # RAISE ERRORS
+    #mode: system # before: minimal # RAISE ERRORS
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    #pack: "default"
     # Optional: Override theme pack colors
     # colors:
     #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
     #   secondary: "emerald"
     #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
-  #theme: minimal # before: minimal
+  theme: minimal # before: minimal
   day_night: true
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -31,9 +31,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-    font: "serif"
+    font: "native"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
+    size: "s"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -94,161 +94,161 @@ hugoblox:
     organization: "Uppsala University"     # Copyright, legal (defaults to name)
 
 
-# Contact (edit or remove options as required)
+  # Contact (edit or remove options as required)
 
-email: diletta.goglia@it.uu.se
-phone:
-address:
-  street: |
-    Ångström Laboratory hus 10, 
-    Room 105241, 5th floor
-    Lägerhyddsvägen 1
-          
-  city: Uppsala
-  region:
-  postcode: SE-752 37
-  country: Sweden
-  country_code: SE
-coordinates:
-  latitude: '59.8395891'
-  longitude: '17.6459234'
-directions: https://www.uu.se/campus/angstromlaboratoriet/
-office_hours: 
-appointment_url: ''
-contact_links:
-  - icon: envelope
-    icon_pack: fas
-    name: diletta.goglia@it.uu.se
-    link: 'mailto:diletta.goglia@it.uu.se'
-
-
-  #- icon: skype
-  #  icon_pack: fab
-  #  name: diletta.goglia_2
-  #  link: 'live:diletta.goglia_2'
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  name: Diletta Goglia
-  #  link: 'https://www.linkedin.com/in/dilettagoglia/'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  name: dilettagoglia
-  #  link: 'https://twitter.com/dilettagoglia'
+  email: diletta.goglia@it.uu.se
+  phone:
+  address:
+    street: |
+      Ångström Laboratory hus 10, 
+      Room 105241, 5th floor
+      Lägerhyddsvägen 1
+            
+    city: Uppsala
+    region:
+    postcode: SE-752 37
+    country: Sweden
+    country_code: SE
+  coordinates:
+    latitude: '59.8395891'
+    longitude: '17.6459234'
+  directions: https://www.uu.se/campus/angstromlaboratoriet/
+  office_hours: 
+  appointment_url: ''
+  contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: diletta.goglia@it.uu.se
+      link: 'mailto:diletta.goglia@it.uu.se'
 
 
-# ==============================================================================
-# SITE HEADER
-# ==============================================================================
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+    #- icon: skype
+    #  icon_pack: fab
+    #  name: diletta.goglia_2
+    #  link: 'live:diletta.goglia_2'
+    #- icon: linkedin
+    #  icon_pack: fab
+    #  name: Diletta Goglia
+    #  link: 'https://www.linkedin.com/in/dilettagoglia/'
+    #- icon: twitter
+    #  icon_pack: fab
+    #  name: dilettagoglia
+    #  link: 'https://twitter.com/dilettagoglia'
 
-# ==============================================================================
-# SITE FOOTER
-# ==============================================================================
 
-#footer:
-#  copyright:
-#    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
-#    notice: '© {year} {name}. This work is licensed under {license}'
-#    license:
-#      enable: true
-#      allow_derivatives: false
-#      share_alike: true
-#      allow_commercial: false
+  # ==============================================================================
+  # SITE HEADER
+  # ==============================================================================
+  main_menu:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
-# ==============================================================================
-# LOCALIZATION
-# ==============================================================================
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '15:04'
-  week_start: 1
-  address_format: se
-  language: en
-  time_zone: Europe/Stockholm
+  # ==============================================================================
+  # SITE FOOTER
+  # ==============================================================================
 
-# ==============================================================================
-# SITE FEATURES
-# ==============================================================================
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: false
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
+  #footer:
+  #  copyright:
+  #    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
+  #    notice: '© {year} {name}. This work is licensed under {license}'
+  #    license:
+  #      enable: true
+  #      allow_derivatives: false
+  #      share_alike: true
+  #      allow_commercial: false
+
+  # ==============================================================================
+  # LOCALIZATION
+  # ==============================================================================
+  locale:
+    date_format: 'Jan 2, 2006'
+    time_format: '15:04'
+    week_start: 1
+    address_format: se
+    language: en
+    time_zone: Europe/Stockholm
+
+  # ==============================================================================
+  # SITE FEATURES
+  # ==============================================================================
+  highlight: true
+  highlight_languages:
+    - r
+  math: false
+  diagram: false
+  privacy_pack: false
+  edit_page:
+    repo_url: ''
+    content_dir: ''
+    repo_branch: main
+    editable:
+      page: false
+      post: false
+      book: false
+  show_related:
+    book: true
     page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
     post: true
-    book: true
     project: true
     publication: true
     event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+  reading_time: true
+  section_pager: false
+  docs_section_pager: true
+  sharing: true
+  copyright_license:
+    enable: true
+    allow_derivatives: false
+    share_alike: true
+    allow_commercial: false
+    notice: 'This work is licensed under {license}'
+  abstract_length: 135
+  plugins_js: []
+  avatar:
+    gravatar: false
+    shape: circle
+  publications:
+    date_format: January 2006
+    citation_style: apa
+  projects:
+    post_view: 2
+    publication_view: 2
+    talk_view: 2
+  breadcrumb:
+    page_types:
+      book: true
+  comments:
+    provider: ''
+    commentable:
+      post: true
+      book: true
+      project: true
+      publication: true
+      event: true
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: 'google'
-  api_key: ''
-  zoom: 15
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+  cms:
+    branch: master
+    local_backend: false
+  icon:
+    pack:
+      ai: true
