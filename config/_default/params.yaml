@@ -11,7 +11,6 @@
 theme:
   # Mode: 'light', 'dark', or 'system' (follows OS preference)
   mode: system # before: minimal
-  day_night: true
   # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
   pack: "default"
   # Optional: Override theme pack colors
@@ -19,7 +18,7 @@ theme:
   #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
   #   secondary: "emerald"
   #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
-
+day_night: true
 # ────────────────────────────────────────────────────────────────────────────
 # TYPOGRAPHY
 # Controls fonts and text sizing
