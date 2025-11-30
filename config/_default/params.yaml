@@ -3,44 +3,122 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: M
+# ────────────────────────────────────────────────────────────────────────────
+# THEME
+# Controls colors and appearance
+# ────────────────────────────────────────────────────────────────────────────
+theme:
+  # Mode: 'light', 'dark', or 'system' (follows OS preference)
+  mode: system # before: minimal
+  day_night: true
+  # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
+  pack: "default"
+  # Optional: Override theme pack colors
+  # colors:
+  #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
+  #   secondary: "emerald"
+  #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
 
-# SEO
+# ────────────────────────────────────────────────────────────────────────────
+# TYPOGRAPHY
+# Controls fonts and text sizing
+# ────────────────────────────────────────────────────────────────────────────
+typography:
+  # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
+  font: "native"
+  # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
+  size: "md"
 
-site_type: Person
-local_business_type: ''
-org_name: 'Diletta Goglia'
-description: ''
-twitter: '@dilettagoglia'
+# ────────────────────────────────────────────────────────────────────────────
+# LAYOUT
+# Controls spacing and visual structure
+# ────────────────────────────────────────────────────────────────────────────
+layout:
+  # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
+  radius: "md"
+  # Spacing density: 'compact', 'comfortable', or 'spacious'
+  spacing: "comfortable"
+
+# ==============================================================================
+# SEO & MARKETING
+# ==============================================================================
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Diletta Goglia'
+    description: 'Diletta Goglia | PhD Candidate at Uppsala University'
+    keywords:
+      - Diletta Goglia
+      - Goglia
+      - Uppsala University
+      - UU-Infolab
+      - Infolab
+      - CSS
+      - Computational Social Science
+    twitter: ''
+    llm:
+      allow:
+        - /
+      disallow: []
+      note: 'Guidance for AI crawlers - customize to match your public content.'
+      contact: ''
+      policy_url: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+
+
+# ==============================================================================
+# HUGO BLOX CONFIGURATION
+# ==============================================================================
+hugoblox:
+  # ────────────────────────────────────────────────────────────────────────────
+  # BRANDING
+  # Your site's identity - used in navbar, footer, SEO, and copyright
+  # ────────────────────────────────────────────────────────────────────────────
+  branding:
+    name: "Diletta Goglia"           # Navbar, footer, JSON-LD
+    site_title: "Diletta Goglia"    # Browser tab (defaults to name)
+    organization: "Uppsala University"     # Copyright, legal (defaults to name)
+
 
 # Contact (edit or remove options as required)
 
-email: diletta.goglia@gmail.com
-phone: 050 6161681
+email: diletta.goglia@it.uu.se
+phone:
 address:
-  street:
-  city: Pisa
+  street: |
+          Ångström Laboratory hus 10, 
+          Room 105241, 5th floor
+          Lägerhyddsvägen 1
+          
+  city: Uppsala
   region:
-  postcode: '56125'
-  country: Italy
-  country_code: IT
+  postcode: SE-752 37
+  country: Sweden
+  country_code: SE
 coordinates:
-  latitude: '43.7059091'
-  longitude: '10.3717207'
-directions:
-# office_hours:
-  # - ''
+  latitude: '59.8395891'
+  longitude: '17.6459234'
+directions: 
+office_hours: https://www.uu.se/campus/angstromlaboratoriet/
 appointment_url: ''
 contact_links:
   - icon: envelope
     icon_pack: fas
-    name: d.goglia@studenti.unipi.it
-    link: 'mailto:d.goglia@studenti.unipi.it'
+    name: diletta.goglia@it.uu.se
+    link: 'mailto:diletta.goglia@it.uu.se'
+
+```
   - icon: skype
     icon_pack: fab
     name: diletta.goglia_2
@@ -53,10 +131,11 @@ contact_links:
     icon_pack: fab
     name: dilettagoglia
     link: 'https://twitter.com/dilettagoglia'
+```
 
-
-# Site header
-
+# ==============================================================================
+# SITE HEADER
+# ==============================================================================
 main_menu:
   enable: true
   align: l
@@ -66,14 +145,34 @@ main_menu:
   show_search: true
   highlight_active_link: true
 
-# Localization
+# ==============================================================================
+# SITE FOOTER
+# ==============================================================================
+```
+footer:
+  copyright:
+    # Use {year} for current year, {name} for branding.organization, {license} for CC license link
+    notice: '© {year} {name}. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+```
+# ==============================================================================
+# LOCALIZATION
+# ==============================================================================
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '15:04'
+  week_start: 1
+  address_format: se
+  language: en
+  time_zone: Europe/Stockholm
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
-
-# Site features
-
+# ==============================================================================
+# SITE FEATURES
+# ==============================================================================
 highlight: true
 highlight_languages:
   - r

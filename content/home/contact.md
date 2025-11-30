@@ -3,8 +3,12 @@ widget: contact
 widget_id: contact
 headless: true
 weight: 140
-title: Contact
-subtitle: Get in touch with me by filling this form or choosing one of the links listed down below. I will answer as soon as I can. 
+title: Contact me
+subtitle: |
+          Ångström Laboratory hus 10 
+          Room 105241, 5th floor
+          Lägerhyddsvägen 1
+          SE-752 37 Uppsala, Sweden
 active: true
 content:
   autolink: true
