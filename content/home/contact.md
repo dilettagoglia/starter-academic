@@ -4,14 +4,11 @@ widget_id: contact
 headless: true
 weight: 140
 title: Contact me
-subtitle: 
-  - icon: location-dot
-    icon_pack: fas
-    name: |
-      Ångström Laboratory hus 10 
-      Room 105241, 5th floor
-      Lägerhyddsvägen 1
-      SE-752 37 Uppsala, Sweden
+subtitle: |
+  Ångström Laboratory hus 10 
+  Room 105241, 5th floor
+  Lägerhyddsvägen 1
+  SE-752 37 Uppsala, Sweden
   
 active: true
 content:
