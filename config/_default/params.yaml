@@ -74,7 +74,8 @@ hugoblox:
       plausible: ''
       fathom: ''
       pirsch: ''
-      #google_analytics: 'G-EXY6BK328P'
+      google_analytics: 
+        enable: false
       #google_tag_manager: ' G-EXY6BK328P.'
       #google_site_verification: 'google-site-verification=s_M1Sy3_wNGxHnCJKydCY9GLzNrPOrgYc9sI3BZLdwg'
       baidu_site_verification: ''
