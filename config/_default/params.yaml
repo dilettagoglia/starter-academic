@@ -19,7 +19,7 @@
   #   secondary: "emerald"
   #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
 # day_night: true
-theme: simple # before: minimal
+theme: minimal
 day_night: true
 
 # ────────────────────────────────────────────────────────────────────────────
