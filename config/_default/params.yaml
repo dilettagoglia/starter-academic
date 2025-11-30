@@ -3,88 +3,86 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-
-# ────────────────────────────────────────────────────────────────────────────
-# THEME
-# Controls colors and appearance
-# ────────────────────────────────────────────────────────────────────────────
-# theme:
-  # Mode: 'light', 'dark', or 'system' (follows OS preference)
-  # mode: system # before: minimal # RAISE ERRORS
-  # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-  # pack: "default"
-  # Optional: Override theme pack colors
-  # colors:
-  #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
-  #   secondary: "emerald"
-  #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
-theme: minimal # before: minimal
-day_night: true
-
-# ────────────────────────────────────────────────────────────────────────────
-# TYPOGRAPHY
-# Controls fonts and text sizing
-# ────────────────────────────────────────────────────────────────────────────
-typography:
-  # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-  font: "serif"
-  # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-  size: "md"
-
-# ────────────────────────────────────────────────────────────────────────────
-# LAYOUT
-# Controls spacing and visual structure
-# ────────────────────────────────────────────────────────────────────────────
-layout:
-  # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-  radius: "md"
-  # Spacing density: 'compact', 'comfortable', or 'spacious'
-  spacing: "comfortable"
-
-# ==============================================================================
-# SEO & MARKETING
-# ==============================================================================
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: 'Diletta Goglia'
-    description: 'Diletta Goglia | PhD Candidate at Uppsala University'
-    keywords:
-      - Diletta Goglia
-      - Goglia
-      - Uppsala University
-      - UU-Infolab
-      - Infolab
-      - CSS
-      - Computational Social Science
-    twitter: ''
-    llm:
-      allow:
-        - /
-      disallow: []
-      note: 'Guidance for AI crawlers - customize to match your public content.'
-      contact: ''
-      policy_url: ''
-  analytics:
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-    google_analytics: 'G-EXY6BK328P'
-    google_tag_manager: ' G-EXY6BK328P.'
-    google_site_verification: 'google-site-verification=s_M1Sy3_wNGxHnCJKydCY9GLzNrPOrgYc9sI3BZLdwg'
-    baidu_site_verification: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
-
-
-
 # ==============================================================================
 # HUGO BLOX CONFIGURATION
 # ==============================================================================
 hugoblox:
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # THEME
+  # Controls colors and appearance
+  # ────────────────────────────────────────────────────────────────────────────
+  theme:
+    # Mode: 'light', 'dark', or 'system' (follows OS preference)
+    mode: system # before: minimal # RAISE ERRORS
+    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
+    pack: "default"
+    # Optional: Override theme pack colors
+    # colors:
+    #   primary: "indigo"    # Tailwind palette name or hex (e.g., "#6366f1")
+    #   secondary: "emerald"
+    #   neutral: "stone"     # Affects gray utilities (text-gray-*, bg-gray-*)
+  #theme: minimal # before: minimal
+  day_night: true
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # TYPOGRAPHY
+  # Controls fonts and text sizing
+  # ────────────────────────────────────────────────────────────────────────────
+  typography:
+    # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
+    font: "serif"
+    # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
+    size: "md"
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # LAYOUT
+  # Controls spacing and visual structure
+  # ────────────────────────────────────────────────────────────────────────────
+  layout:
+    # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
+    radius: "md"
+    # Spacing density: 'compact', 'comfortable', or 'spacious'
+    spacing: "comfortable"
+
+  # ==============================================================================
+  # SEO & MARKETING
+  # ==============================================================================
+  marketing:
+    seo:
+      site_type: Person
+      local_business_type: ''
+      org_name: 'Diletta Goglia'
+      description: 'Diletta Goglia | PhD Candidate at Uppsala University'
+      keywords:
+        - Diletta Goglia
+        - Goglia
+        - Uppsala University
+        - UU-Infolab
+        - Infolab
+        - CSS
+        - Computational Social Science
+      twitter: ''
+      llm:
+        allow:
+          - /
+        disallow: []
+        note: 'Guidance for AI crawlers - customize to match your public content.'
+        contact: ''
+        policy_url: ''
+    analytics:
+      plausible: ''
+      fathom: ''
+      pirsch: ''
+      google_analytics: 'G-EXY6BK328P'
+      google_tag_manager: ' G-EXY6BK328P.'
+      google_site_verification: 'google-site-verification=s_M1Sy3_wNGxHnCJKydCY9GLzNrPOrgYc9sI3BZLdwg'
+      baidu_site_verification: ''
+      baidu_tongji: ''
+    verification:
+      google: ''
+      baidu: ''
+      
   # ────────────────────────────────────────────────────────────────────────────
   # BRANDING
   # Your site's identity - used in navbar, footer, SEO, and copyright
