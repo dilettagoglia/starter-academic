@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: true
+active: false # TODO: PAGE TO UPDATE
 date_format: Jan 2006
 widget_id: accomplishment
 headless: true

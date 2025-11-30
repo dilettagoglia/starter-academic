@@ -20,7 +20,6 @@ links:
   icon_pack: fas
   name: Download the ebook
   url: http://adigitaljourney.labcd.unipi.it/wp-content/uploads/2018/05/CookeryE-book-final.epub
-links:
 - icon: laptop
   icon_pack: fas
   name: Website

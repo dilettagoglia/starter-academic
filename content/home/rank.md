@@ -6,7 +6,7 @@ headless: true
 weight: 70
 title: Rankings
 subtitle: null
-active: true
+active: false # TODO: PAGE TO UPDATE
 item:
   - certificate_url: 
     date_end: 2022-03-01

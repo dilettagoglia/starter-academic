@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: Expertises
 subtitle: null
-active: true
+active: false # TODO: PAGE TO UPDATE
 feature:
   - description: Social Big Data for migration studies
     icon: laptop-code

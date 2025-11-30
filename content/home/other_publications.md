@@ -18,5 +18,6 @@ content:
     exclude_featured: false
 design:
   view: 1
+active: false # TODO: PAGE TO UPDATE
 ---
 
